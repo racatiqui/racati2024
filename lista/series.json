@@ -1075,6 +1075,19 @@
     "mode": true,
     "lista": [
       {
+        "name": "Dragon Ball DAIMA (2024)",
+        "ico": "https://hackstore2.com/wp-content/uploads/thumbs/2c65a29c8f30f06d5ef3a0dacaf028db_hd.webp",
+        "temporada": [
+          {
+    "name": "Capitulo: 01",
+    "ico": "https://hackstore2.com/wp-content/uploads/thumbs/2c65a29c8f30f06d5ef3a0dacaf028db_hd.webp",
+    "uri": "pMWVUPHFW66lOuqb8ZitUWUmCwFd458HmiSkS+Z6+Iwq0TjYjOqUNpSy+ajoXeaDEbwaesaJVgorc4RiF+QO9g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+          }
+        ]
+      },
+      {
         "name": "RICK AND MORTY",
         "ico": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg",
         "temporada": [
