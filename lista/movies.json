@@ -3,150 +3,199 @@
         "name": "PELICULAS ESTRENOS 2024",
         "mode": false,
         "lista": [
-		  {
-    "name": "Corrupción en Bangkok: Entre el cielo y el infierno (2024)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/45Yxq9aEfMgPEq6bGZG0BgbDQge.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5vB+HheSu4tkGbdSqTzmGTjTrQwiVWrJf+/BV9EpcEZw=",
+  {
+    "name": "Beetlejuice Beetlejuice (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/kWJw7dCWHcfMLr0irTHAPIKrJ4I.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0vkiU/dGktZJVnsRCAehpg9rgedEgya6dafnTgXUtroi/FTtnhrtTxSPiuUOcO/KDI=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "La Casa De Los Despojos (2024)",
-    "ico": "https://www.hackstore.fo/wp-content/uploads/2024/10/1th6jd7Dn5Ipftlrk81DmIFAJ5c-200x300.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5oW9kXkk8k3donDh1SvqQIzbEDumHpxpJevc7SNUY+3U=",
+    "name": "El cuervo (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/uUUx4kN6uCvXnjGWOv79gUBxdYE.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0u0pKKTVMfgg86bFVQT/EB5zpu0fAYbmnJIn5qsXTHYqg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Aguanta la respiración (2024)",
-    "ico": "https://www.hackstore.fo/wp-content/uploads/2024/10/2CsrStJvRRQehLkJEPxz5GlfcYA-200x300.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5+AoC4VjPv5LLqDy0ocdlNUlKLLvO+aAHiUUaA7n2FpYQEqhpDZc4hPGWEagi7Q7rTkb+sqGUb2Z19SrQ8zwUWg==",
+    "name": "Lo que hay dentro (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/2L1V2JAni8Uw7hVHIodTNOl5TZA.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0ttTcwhYHFqjh4O3aD8x21Z3QPi0ivJAtmWXgsmOhb/QQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "El misterio de Salem’s Lot (2024)",
-    "ico": "https://www.hackstore.fo/wp-content/uploads/2024/10/4VhCWB2LjQr66EZhfhd4hLaxotC-200x300.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I51iNOM+J6+9VyOeAeLkcgPaZ8C0rvz6FftQO3MVABYwJyhW60dRVjSw/KbfMchA3c",
+    "name": "El hoyo 2 (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/jHGgM019xAoy62cKZtDmTxvQlUY.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0s7QEkXQIcgYCYArwnosNZXz6YyzO7DiEFoBt16JGg6iA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "No hables con extraños (2024)",
-    "ico": "https://www.hackstore.fo/wp-content/uploads/2024/10/rdGpSGWNnpHuouEJjXOkzbTyRJk-200x300.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5Wrh1p8Nup5CCti3IHBDFpaBKBEhZkd6H6GFggYnZoE09/uxhKsbZmxGeIn6Ofv3XT4qhsI0O7QCd7IPcfcqXog==",
+    "name": "La casa de los despojos (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/1th6jd7Dn5Ipftlrk81DmIFAJ5c.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0vVYZzUtvS2bk1soRx7bcg9W53y+dxKUP1T+2bB9hOzhAkGy08XMSu0iX8hs8oYccM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Aguanta la respiracion (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/pLxy9uzUZOjj6TTAzxhBJayPZT7.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0touySyCkndrLPOBYpHY2yLJpMGOPz9/o/lWV6SzO9iRrXZmKrPe+hh0PTaiVSCk3Y=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "El misterio de Salem's Lot (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/lQj4jn6CmQ88Q7XsYvhenHjVIO.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0uBTQwsrv9zdvfIqOnb1sTQPY/EOA5iiZ871HtyxNvBepTe4zfDJv3ggRehU8EegUM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "No ables con extraños (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/rdGpSGWNnpHuouEJjXOkzbTyRJk.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0uv7JOgCpZa5tntqQpmTq8LEz4NiUxs+hP/bQRDrkk24gw+DpmmMan9VOelmo5wnp8=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Instintos asesinos (2024)",
-    "ico": "https://www.hackstore.fo/wp-content/uploads/2024/09/Instintos-asesinos-2024-200x300.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5Y60VVWCIf0j5e7tJ2Ag0y809Y9FDSvzkVWmTfTmUaToQnpMjshqYVQHGFZCeEWHM",
+    "ico": "https://image.tmdb.org/t/p/original/wIDulcEDrbW5tLaAHIUqODaTGG6.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0tCrE2RUJUVNycvZ706FNnJ/WyOVW/mGUHnBVQciTFEsg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Deadpool & Wolverine (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0vTSaisG7gGyPmN+HLt55Wjb5tsSjEe2AzgZ1oOJ6iPrQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Parano-IA (2024)",
-    "ico": "https://www.hackstore.fo/wp-content/uploads/2024/09/Parano-IA-2024-200x300.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5ZyXTO/tgnhzcjrvys6eWm1iMsFyjj+q4TIkPr8oD+hALGxVVpwMigcZek4R3Vl0T",
+    "ico": "https://image.tmdb.org/t/p/original/bWcHlNhi4dMopJmDWxfo3HYqviB.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0vEnV6aUSQpZGY3PIJuN/imptQBaK01TulKtltRXTChNQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Rez Ball (2024)",
-    "ico": "https://www.hackstore.fo/wp-content/uploads/2024/09/5MKpjuiCTk8nYnsUf5QegiPKEDh-200x300.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I58Tp6WSDMqWbCB/FlytPomghS0g2Je8U/M4V4dyHOKVGGEcLRK2G0RmOdlqjnbOa7",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-		  {
-    "name": "60 minutos (2024)",
-    "ico": "https://hackstore2.com/wp-content/uploads/thumbs/dc445f30a7a959d89d06fa21fbf40f58_hd.webp",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5N7YRWqTXh4YVsk8/UWd08wlL+3AHaCrGU1JEVLtThc4=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-		  {
-    "name": "Borderlands: El destino del universo esta en juego (2024)",
-    "ico": "https://hackstore2.com/wp-content/uploads/thumbs/c434d9060d860d87ce6aadc2617865dd_hd.webp",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5uxlmUZiwPRS2fOh9duAa5S3eyirELsqyMH87IqTYZSE=",
+    "name": "Rez ball (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/eISIK4fuUJ56gT5pT4FxUmXpoTd.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0tCWIxt/Wolset+MmO/xo1tgshgv2rCA+XQcOA7Q9/l4A==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Un lugar seguro 2 (2024)",
-    "ico": "https://hackstore2.com/wp-content/uploads/thumbs/43cad229a3a848239a64db6e797e3f41_hd.webp",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5keHUn3J9vTim8SPw0BXJHZuoBf9FbQvCOXWiGT2d1f9xNe6DNLYNczzz9bOT1kBN",
+    "name": "Lobos (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/3uXwaubXNZmbhJ1qSYdink7y0RD.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0sVe/oH0s8Q6BA31FwHfK6THYUiJvztUILEty8wGglqGA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-		  {
-    "name": "Exorcismo (2024)",
-    "ico": "https://image.tmdb.org/t/p/original/wMjVDPOOZ1KPllcKat7dZTQRhOp.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br52kruNB8ZbOl5TyQmsSBN5NvaWWkgQR1H8n/SjB2LKaG/BbrojLQZZx6G8xlkBM+Gxpx+prTOWHA0SKGIvxPPEwU+sYVC5O+vdE2eLj1z31Y",
+  {
+    "name": "Sol de justicia (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/jC0ciJhQXTP26D2Dht3Mf2dAVHL.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0sNZGGPRHBIQgQzw7KKuK/AttY56HsYblK4jfnP1nEsvg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Corrupcion en Bangkok: Entre el cielo y el infierno (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/45Yxq9aEfMgPEq6bGZG0BgbDQge.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0vLie109cqQwGSVrbHJUzUSi5Li8l3g/gsHWq3jnUHSiIjUOAQo3alt5mk1Mg081Jc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MaXXXine (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/mu1YNlNz6Zx005A1IAE2JNHtAbB.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0tZ1Iv3iLiJF5DuAUGf463vSFst4cnvyWF4nZB2K+8zGQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Borderlands (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/jtEZi4eZxDjxcDIeMbkQ8HmvRs1.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0sSBOGUaLJ1RYmKRGafgu6c0JPuvfbg8qB5jgJ3qWu04w==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Parpadea dos veces (2024)",
     "ico": "https://image.tmdb.org/t/p/original/a4o3f9dmxB9TyFNMncvwspSoVLJ.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br52kruNB8ZbOl5TyQmsSBN5NvaWWkgQR1H8n/SjB2LKaGlGIXN1WZF8TAvMBtiVdImfe14ijIepTvZhSNhRbgAJZWs4PA1N2HM0naiTvHppE1",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-		  {
-    "name": "Agente cinturon negro(2024)",
-    "ico": "https://hackstore2.com/wp-content/uploads/thumbs/f4e514b9b6b1794bc5e35609bbf76700_hd.webp",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I532ZN0zjzRgEFaNSNM7Ut78PaxKPxFn0aDsjp+MmASVnKZHLPkzap/NwCXXixdVea",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-		  {
-    "name": "Los Feos(2024)",
-    "ico": "https://hackstore2.com/wp-content/uploads/thumbs/6b761e1cacfeaf12ab25c188a814ca1c_hd.webp",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I53Gqnq067Srkd3RoxYjF7WhYWPsQ8L68A/zEtsdCyebw=",
+    "uri": "YU1fXwii63zjwHX/Ys6a/c1PFZIwBefZpkz/GSteWXQ+eykQnv8xsIUibhhbtv1k74qc6bYjjWlsVPZIe6UhGw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "La trampa (2024)",
-    "ico": "https://hackstore2.com/wp-content/uploads/thumbs/14eacf48c93d0c48ed04c1a87a9f2600_hd.webp",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5Ik9Um3AzlxvXaO0DDWMCMh2H8o3WslSW0fTJJNmifYY=",
+    "name": "Exorcismo (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/wMjVDPOOZ1KPllcKat7dZTQRhOp.jpg",
+    "uri": "YU1fXwii63zjwHX/Ys6a/c1PFZIwBefZpkz/GSteWXSpsRk+hy8+0LsZL+rzatGflABKaOpPtw2ikKxGiEpFEQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Rebel Ridge  (2024)",
-    "ico": "https://hackstore2.com/wp-content/uploads/thumbs/1d61032a2321f4ce4566ea74a967097f_hd.webp",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5xPbvLMHEoB7p29lCXN+DSkDbOW4OX/i8rqLj6ejWZbY=",
+    "name": "Agente cinturon negro (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/kKViCTk38mPsK5wOOUJeLxAm3TI.jpg",
+    "uri": "YU1fXwii63zjwHX/Ys6a/c1PFZIwBefZpkz/GSteWXQDrxzbavMGmFa9vf6lv/yFqjuQSbVvJ+NWvpFKZPOF62m7WqNWAoi8F0sjAYiIFxI=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "The Killer  (2024)",
-    "ico": "https://hackstore2.com/wp-content/uploads/thumbs/54952f7e93b9bb532409a22f6df2d96b_hd.webp",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5mkNy9dj1q6X/VsG9tCv2HCC7E18xd4YW3I/0TBvaY4w=",
+    "name": "Los Feos (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/abNsPyjwSYwOVsx2m0mWrq22xGk.jpg",
+    "uri": "YU1fXwii63zjwHX/Ys6a/c1PFZIwBefZpkz/GSteWXTalZPDwtYK/ysFoIY7jar3YsKv1y8ytFJKh0gc8yAzRQ==",
     "drm_scheme": "",
     "drm_license_url": ""
-  },		
-		  {
+  },
+  {
+    "name": "Disco Ibiza locomia (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/beLbZExOZ64LzbqJbbbjhlqbezi.jpg",
+    "uri": "YU1fXwii63zjwHX/Ys6a/c1PFZIwBefZpkz/GSteWXSZhc28sdu72pGeX3zP4t/BXmZQVEZjHxUlRQJuBlfi8g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Rebel ridge (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/ymTgBQ8rCouE27oHpAUfgKEgRAj.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0sLl4k75WMwEKRQyEDiI/4rjE0q4ERMSQsAkEmsECb6tQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La Trampa (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/oY9SRUcRqdrjyINFoGewobSP7FB.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0u42N+CSuzWAgYx9aopkEaNZR5JO7LQorNqsuBJG7L86A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "The killer (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/6PCnxKZZIVRanWb710pNpYVkCSw.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0vQ8QdqyrplRMpTbQdVKdxbG2TfZId6L7dPLNO/ll08hA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
     "name": "Alien: Romulus (2024)",
     "ico": "https://image.tmdb.org/t/p/original/8PYqGSd8MOm5ce8io4qNSAiSExW.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br58mjrmbY4LFSz25THjNiQJ98pm3RTkzQCQbhPJDg5lkL+NkeMSr86HxsjpYHIYMJ/mC2lRKfYul5mz8xnOokt9Sb7SQVcTwAK7DF/3OhfFIM",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0t5cZQVbJ68uMnb2PUM0VJHrpuAHKqZ0caCAKZdJDSAbw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Harold y su crayon magico (2024)",
     "ico": "https://image.tmdb.org/t/p/original/6bx3BaI3Lhj86nRaGFNAcjisBbY.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br58mjrmbY4LFSz25THjNiQJ98pm3RTkzQCQbhPJDg5lkLpGa+H/17KQoUdfzOrVYg7qcs8XkWIGvPPCe7eMXDyGoFB67oWVMgGZ9K1WJCk5ts",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0sex+BfsUwQZnNsFDWbSS3uYDiNjzMjWYPFYdTxhDC/oVtSZ1oSF99/zbntELYFn1I=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Tipos de gentileza (2024)",
     "ico": "https://image.tmdb.org/t/p/original/7M8gZDAQsJP3BjibSt1kZ1tBvXl.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br58mjrmbY4LFSz25THjNiQJ98pm3RTkzQCQbhPJDg5lkLCW02wEZr+xqTeGH+rZWJoYAUpurxIV7XWuryGQ8gXWQ=",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0v0Zl6A7YfsYD87fKlNK8uwwZY9tFVUQ4WIlTas36BdpQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -167,49 +216,49 @@
   {
     "name": "Inexpertos (2024)",
     "ico": "https://image.tmdb.org/t/p/original/hQlFyelFIyBDKrm9B1ghlA4KJmr.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br58mjrmbY4LFSz25THjNiQJ98pm3RTkzQCQbhPJDg5lkLm2geSm909COKJ7B0OwS0UkZbaRadh4JKvAlDnW9XedhgVAczI+eK4CPt+gghPgR1",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0ujQY5zGJXAHNAqtB2i2N9EKR+peRTv+frI0u3EpGWi/A==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Una boda y otros desastres (2024)",
     "ico": "https://image.tmdb.org/t/p/original/1WDT9yacW9bceozkmlZKDTNFMj5.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br58mjrmbY4LFSz25THjNiQJ98pm3RTkzQCQbhPJDg5lkLGOMREbBWptNd6Dc9UKfPaIpwyTyN3oMdjNMus67wEvmDY0YgNX2DkBAw7hmROUyo",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0uAboL4G8idgEqGCeqhm3SiC17I42bJcHOzbuzxiI4BPGnTGkyhslbUrMoS4VJXHoc=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "El sindicato (2024)",
     "ico": "https://image.tmdb.org/t/p/original/1UHp2QEBPnTrcx0i6aYw6jWtDbI.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br58mjrmbY4LFSz25THjNiQJ98pm3RTkzQCQbhPJDg5lkL/H+cGQJVDhSi4o0OJ+FVl3dN3hd+QpunlMIzwaTWMc6MARtNyxEaUaKNlLzhkza0",
+    "uri": "YU1fXwii63zjwHX/Ys6a/c1PFZIwBefZpkz/GSteWXRK8oMlmKVQlzYjVH0ox45AE5QmxXJclAEsmH5zWJlO7Q==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Jackpot: ¡Loteria mortal! (2024)",
     "ico": "https://image.tmdb.org/t/p/original/6vVXMy9WqZQXYBHuNueAm4qc0jh.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br58mjrmbY4LFSz25THjNiQJ98pm3RTkzQCQbhPJDg5lkLyT+CB4S++Ibye+k79GMpEIsg4/IH/zuiHliKm5HUT9ONHfc4lurRSDkdHvu6dooL",
+    "uri": "YU1fXwii63zjwHX/Ys6a/c1PFZIwBefZpkz/GSteWXRZuDrN72bFwh6sq+iCk7jEVq4cLvbsf+o4dqFcrF0DZNUSFvNsovzYfL0qESW4zlI=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "La otra cara de la luna (2024)",
     "ico": "https://image.tmdb.org/t/p/original/fCXTOb7J99UJUsYNddDwiO6dxQm.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br58mjrmbY4LFSz25THjNiQJ98pm3RTkzQCQbhPJDg5lkLwVJ5JnpjT4jwW+0NoxoTd2gnDFFW/iMX37zaGVqp9Rju8Dfy0lIQG8W/1U1nfn2m",
+    "uri": "YU1fXwii63zjwHX/Ys6a/c1PFZIwBefZpkz/GSteWXRXN+ues7XAdU0MSHGG5INT9qSuN2vCozuhOckIWV1zCf4cDEE0dCOuFo+ShaRNGu4=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Exhuma: La tumba del diablo (2024)",
     "ico": "https://image.tmdb.org/t/p/original/2FnYFdfW8LR13gokzR61ial5iO1.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br58mjrmbY4LFSz25THjNiQJ98pm3RTkzQCQbhPJDg5lkLe8w3BdEgC+39yn58zUXygBbjigB8ijqp4T/o10CUg3r/3lVWKaucB6dUV9ujFGWB",
+    "uri": "YU1fXwii63zjwHX/Ys6a/c1PFZIwBefZpkz/GSteWXRrtVrfmZBGw1RVl82r5DWX7yPB8SfsIQbfJrb4S2TvrLOD/z5ae5kQ6PulswVpMAM=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Vi el brillo del televisor (2024)",
     "ico": "https://image.tmdb.org/t/p/original/3AvLBac3KejQ1cO0d183t4rALua.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br58mjrmbY4LFSz25THjNiQJ98pm3RTkzQCQbhPJDg5lkLGqUWL9QA0T8XoglD8/mu5a5GarQkYu6k6h8/j2MAcZXIRFfROJzwjteG+2vY/EZE",
+    "uri": "YU1fXwii63zjwHX/Ys6a/c1PFZIwBefZpkz/GSteWXSptoV/3ogWwYkfwchxm/7ErGOkXLs8vbF8M6ZDccf1rbvkbyydX+aOKZgPljOYqc4=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
