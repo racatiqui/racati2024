@@ -3,6 +3,41 @@
         "name": "PELICULAS ESTRENOS 2024",
         "mode": false,
         "lista": [
+	  {
+    "name": "Hellboy: The Crooked Man (2024)",
+    "ico": "https://www.hackstore.fo/wp-content/uploads/2024/10/ExFaxmvlGxBmUBVKv9ey94fNyy-202x300.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0sfR0u0aKddTgmZNL9WTwKo",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Ahi afuera (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/gNtVxOAmBD42TBwFfN52fDa56XZ.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0uUvuF0vrp8wH5jjZQk5k7w5riN9S1MW8f2tw/Bq7C9gQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Fuera de las sombras (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/rKTRkFyhRtd9Nm25GBlyEJzt9TZ.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0tHkVk4QZwMn40tbp07DAjpmzNtcM0tK9oS6Hvx53AFyNDY0HQUJgiq640LEF8AgYk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Hermanos (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/4LiZlaqMMd6TQhTUfgLn4VfD5zo.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0vZZEAIusr6hfImvzMG8k1TN6oV/1CQYSNHckQAMF9OEA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Contaminados por el miedo (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/uE8sz63PFf3exD9WvmW26lONVqA.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0tDvmUrnubptglfXqpBKvcTfvz2u2K3GN8WzWUyRH455YzAMiu3W/6Smg0GCI3dn14=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },	
   {
     "name": "Una aventura en marruecos (2024)",
     "ico": "https://image.tmdb.org/t/p/original/pN9Vw5A3Eu868XqidnKcTdUW1Kq.jpg",
