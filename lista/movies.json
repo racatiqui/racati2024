@@ -1555,6 +1555,13 @@
         "name": "PELICULAS VARIAS",
         "mode": false,
         "lista": [
+	  {
+    "name": "Lamborghini: El Hombre Detras De La Leyenda",
+    "ico": "https://image.tmdb.org/t/p/w300/lFU87NOeh6l4eos0Ahgigp6rL4P.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUcA6vziWayz/Y4V820Stnof4w/n2U6sTCXlmERBHVg00",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },	
 		  {
     "name": "Rez Ball (2024)",
     "ico": "https://www.hackstore.fo/wp-content/uploads/2024/09/5MKpjuiCTk8nYnsUf5QegiPKEDh-200x300.jpg",
