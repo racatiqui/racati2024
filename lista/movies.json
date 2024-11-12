@@ -1585,28 +1585,28 @@
   },
   {
     "name": "Leyendas de Pasión (1994)",
-    "ico": "https://hackstore.fo/wp-content/uploads/2024/01/fZjjcVq8YTOUSN6PYTIS009FsmW-212x300.jpg",
+    "ico": "https://image.tmdb.org/t/p/w300/fZjjcVq8YTOUSN6PYTIS009FsmW.jpg",
     "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8eEwmIa1fKI7OhB5OkcuEaOpF6TCSm5EABb0spkL3hdJZnwl2+dGywyVkvZ3aFrPU=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "El Guardaespaldas (1992)",
-    "ico": "https://hackstore.fo/wp-content/uploads/2022/11/pnGQbumT2SejsZprnszaI2bLA4R-200x300.jpg",
+    "ico": "https://image.tmdb.org/t/p/w300/pnGQbumT2SejsZprnszaI2bLA4R.jpg",
     "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8pAeuvBgP2zvcOZ4q1O3C60wMKZqIZROeRiQo3BJHKXw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Cara a cara (1997)",
-    "ico": "https://hackstore.fo/wp-content/uploads/2022/11/kH27W9aZWA3D122gwK2WnKRIwI1-200x300.jpg",
+    "ico": "https://image.tmdb.org/t/p/w300/kH27W9aZWA3D122gwK2WnKRIwI1.jpg",
     "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8dJ8G76ToFAniKlvCj9wMh3oJPUtjtgFz5GMvv6QjRkQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Diamante de sangre (2006)",
-    "ico": "https://hackstore.fo/wp-content/uploads/2021/11/cWp54ohPcYXK3cbNQnCjaZzqMwx-200x300.jpg",
+    "ico": "https://image.tmdb.org/t/p/w300/eMPVnHRUNW0Uue0gc7CJiM3k4oL.jpg",
     "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH96djScfDAwVslnFLRO5j0ljNmBcEDr89est2UEyY0V/o5+nEiaQbC/F5q0xxcyXPU=",
     "drm_scheme": "",
     "drm_license_url": ""
@@ -1627,7 +1627,7 @@
   },
   {
     "name": "El joven manos de tijera (1990)",
-    "ico": "https://hackstore.fo/wp-content/uploads/2023/10/El-joven-manos-de-tijera-200x300.jpg",
+    "ico": "https://image.tmdb.org/t/p/w300/vd8tCekihFx82bzmENaASvbhNmx.jpg",
     "uri": "hJuigKjFBCcbSxPPb7br58mjrmbY4LFSz25THjNiQJ98pm3RTkzQCQbhPJDg5lkLg5yXpvJGL/ZP1JtDyzy1c6yQglGPuyagAQG4ZXAQILw=",
     "drm_scheme": "",
     "drm_license_url": ""
@@ -2877,13 +2877,6 @@
         "mode": false,
         "lista": [
 		  {
-    "name": "Los tipos malos: ¿Truco o atraco? (2024)",
-    "ico": "https://www.hackstore.fo/wp-content/uploads/2024/10/oEJC05CqPugMxC4rFu9r6r6vg6m-209x300.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5v7iM7K01BjamwtcyONRAtIqBqRHim1SURoPPBT6J9yCIxEW+ynp0esZV5l95rwuv",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-		  {
     "name": "Orion y la oscuridad (2024)",
     "ico": "https://hackstore2.com/wp-content/uploads/thumbs/29e1613883093af39be0996c1e7c1528_hd.webp",
     "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5k515E40Acm54XwMuNBQfYRos3kWyFXFtDm/QEG1yp/R6j96zyhie1FSGXiNj5Kdy",
@@ -2962,7 +2955,7 @@
   },
   {
     "name": "MATILDA THE MUSICAL",
-    "ico": "http://tuvideo.tv/poster/w200/6684821673226394i.jpg",
+    "ico": "https://playmax.xyz/img/c/400/349/1677030946/174434.jpg",
     "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/i9oBYoqgEk8+W4RfHiTw1CCdhk5w/TusEJ6j0FdkBz5BfWyvFVVFdCZeVz6DGOQg=",
     "drm_scheme": "",
     "drm_license_url": ""
@@ -3011,7 +3004,7 @@
   },
   {
     "name": "LOS MINIONS Y SUS AMIGOS V1",
-    "ico": "http://tuvideo.tv/poster/w200/10291191664320653i.jpg",
+    "ico": "https://image.tmdb.org/t/p/w300/hVK35IfqYsk5jasR15aP5XBgKL1.jpg",
     "uri": "KJUqI+Vv7SeT1BjHKzrm8szk5JI3NTb2/gX4LRaYlzinvol8r8JteH1RO1a2Dbs+",
     "drm_scheme": "",
     "drm_license_url": ""
@@ -3025,14 +3018,14 @@
   },
   {
     "name": "MASCOTAS",
-    "ico": "http://tuvideo.tv/poster/w200/3281111565874770.jpg",
+    "ico": "https://image.tmdb.org/t/p/w300/kfMiEhfmsAxTUoldgR4mnKndDVv.jpg",
     "uri": "TEVbbY92FVxdqmhGTitBkx5WS/loUmpKswsP8qu2kknBO/VnFmPAVRKekGu+XiUI",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "MASCOTAS 2",
-    "ico": "http://tuvideo.tv/poster/w200/4121171565874553.jpg",
+    "ico": "https://image.tmdb.org/t/p/w300/dqGsG2uNV9JGgrfODbTafPUukci.jpg",
     "uri": "TEVbbY92FVxdqmhGTitBk2lFlfG9E6m5zOfnVuffVTZOcvbqJK0K9OtkremAKZvzCetImwBDTVuTW8srP0GsOSG/n7HLLBdyftYFmLPm8+M=",
     "drm_scheme": "",
     "drm_license_url": ""
@@ -3270,7 +3263,7 @@
   },
   {
     "name": "Las leyendas: el origen (2022)",
-    "ico": "http://tuvideo.tv/poster/w200/6672761660354475i.jpg",
+    "ico": "https://image.tmdb.org/t/p/w300/7aju8OJ2F7jHkKJ68jfM6DGzMMD.jpg",
     "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+sKn0AUulrtlh/+mE8fYDFP8O7djJibU0nTr2OSgfR/KmzcNTk589RbM8ti0gwcw0=",
     "drm_scheme": "",
     "drm_license_url": ""
@@ -3431,7 +3424,7 @@
   },
   {
     "name": "CRUELLA",
-    "ico": "https://convos.cl/wp-content/uploads/2021/02/Cruella-de-Vil.jpeg",
+    "ico": "https://image.tmdb.org/t/p/w300/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg",
     "uri": "rDXaQ6gAXtU4EO1JMelIArxvNgktdVkpKOlqnGldG+8=",
     "drm_scheme": "",
     "drm_license_url": ""
@@ -3459,7 +3452,7 @@
   },
   {
     "name": "COMO ENTRENAR A TU DRAGON 3",
-    "ico": "https://www.ecartelera.com/carteles/13600/13623/003_m.jpg",
+    "ico": "https://image.tmdb.org/t/p/w300/rhnoAReqO3Xoe6GbJhT3409lnq8.jpg",
     "uri": "rDXaQ6gAXtU4EO1JMelIAj/LieqaWSdxhVQs2dYhHpU=",
     "drm_scheme": "",
     "drm_license_url": ""
@@ -3482,13 +3475,6 @@
     "name": "CENICIENTA Y EL PRINCIPE SECRETO",
     "ico": "https://static.wikia.nocookie.net/doblaje/images/2/24/Cenicienta_2018.jpg/revision/latest?cb=20180830201700&path-prefix=es",
     "uri": "rDXaQ6gAXtU4EO1JMelIAhOo58mLUKd1tOpPbTZXk+U=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CAPERUCITA Y PULGARCITO",
-    "ico": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKiMABtY9u9HA0NB0cCsFkD4_64QMgroKMjyoLxAIPBgwS_5JxTAKda3qevlXeBC0Mmfg&usqp=CAU",
-    "uri": "MZgQzDrsyaI23w/2sL7DjOby5XJjnPlvrx5oqbOKhoo=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -3529,7 +3515,7 @@
   },
   {
     "name": "ANGRY BIRDS",
-    "ico": "https://stickerdesign.com.ar/wp-content/uploads/2016/05/Tapa.jpg",
+    "ico": "https://pics.filmaffinity.com/the_angry_birds_movie-593249429-large.jpg",
     "uri": "rDXaQ6gAXtU4EO1JMelIAlOjntZRUtbhBWf+B0me9Ms=",
     "drm_scheme": "",
     "drm_license_url": ""
@@ -3571,63 +3557,63 @@
   },
   {
     "name": "SPACE JAM",
-    "ico": "http://tuvideo.tv/poster/w200/23001626466336.jpg",
+    "ico": "https://image.tmdb.org/t/p/w300/2yyw20gloVgbzR9a5B15GqPdqux.jpg",
     "uri": "TEVbbY92FVxdqmhGTitBkxvUD+3gIqlgQ7Ra1WW0rfEQa4adgnH5l/gMNu563f+P9+BZG5ATj4ttfygF+1mJqA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "SPACE JAM 2",
-    "ico": "http://tuvideo.tv/poster/w200/3796861626466545.jpg",
+    "ico": "https://image.tmdb.org/t/p/w300/i6E8fx8lAEI0PGGCUlaA2Ap1gWi.jpg",
     "uri": "TEVbbY92FVxdqmhGTitBkxvUD+3gIqlgQ7Ra1WW0rfHQK4a1ivwtXsO70tYdqAT/a2n2+GEINJ0xI42H6jk0LG0yzghsu9APiJ9WnOPODdU=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "TEEN TITANS",
-    "ico": "http://tuvideo.tv/poster/w200/rMoVOCw6DF3zC6hS76ZhQMWiXNX.jpg",
+    "ico": "https://image.tmdb.org/t/p/w300/rMoVOCw6DF3zC6hS76ZhQMWiXNX.jpg",
     "uri": "TEVbbY92FVxdqmhGTitBk3UTGvHcLf3Beh2HwAg2jhQ6Q2dkZa7iF4TFEqsk/W1Pac1gRDMpK3CCB59q4wYeQte5zH6iR3XD4BzMdxLEt5Y=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "SOUL",
-    "ico": "http://tuvideo.tv/poster/w200/jl8rZYy7JmbWlBlvDCfwvDmGO0g.jpg",
+    "ico": "https://image.tmdb.org/t/p/w300/gI9oVLHXgPYidW2W4A7p1pYW9QB.jpg",
     "uri": "TEVbbY92FVxdqmhGTitBk/ZyfTRby8Ifl6DimkWqo1n8OZ4VuNzSgY65Hn2IH1kX",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "BOB SPONJA",
-    "ico": "http://tuvideo.tv/poster/w200/4001601604673015.jpg",
+    "ico": "https://image.tmdb.org/t/p/w300/z5aphafm6OEcAq4jwOs5Ml9F384.jpg",
     "uri": "L/44wikpkpcMYARIiCrM5AYiXYD+Zvk9cO6Kgr0TzeSZo5+9FC7KbhgyQSRWJZnzdVlE8iijZRy59HdhiABJ9mOUVwSewKhoAal3lmr7hmy1uF6UHc+b352iQhhPa26bpfMtuIcT2UQ3CP6A17lEag==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "FROZEN 1",
-    "ico": "http://tuvideo.tv/poster/w200/5p9XWeEoJzhgcpdrUmCtI0ztgxB.jpg",
+    "ico": "https://image.tmdb.org/t/p/w300/hAKhrHvzQDUHQP5zd5HFeqF2BCN.jpg",
     "uri": "TEVbbY92FVxdqmhGTitBk0AShsnMrPUqVhv5UF2CoTJy5q0dNbOBtpnc7GHsfJgzxlUjfEIKaGrcqk7FFd6dKQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "FROZEN 2",
-    "ico": "http://tuvideo.tv/poster/w200/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg",
+    "ico": "https://image.tmdb.org/t/p/w300/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg",
     "uri": "2H9UkWAGd972OtydyF2rPGkOVQ93TNdqiKgka41mdDFf5jkbpso+JmAU/deUBtZvER8kNPX13PoWh5WpH5l3MXaw2mdjWRfKcl8zy7ffHF8=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "EL REY LEON",
-    "ico": "http://tuvideo.tv/poster/w200/nA9R7KIsbbHUZdZisv7RUJMzrrH.jpg",
+    "ico": "https://image.tmdb.org/t/p/w300/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg",
     "uri": "L/44wikpkpcMYARIiCrM5FU4pyKgoSxc3UhGvXHQbM74whpKoH/BYRG3Be9FUz+A",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "EL REY LEON 2",
-    "ico": "http://tuvideo.tv/poster/w200/nFMwS929Vvk7KwUjx9lARYV5maP.jpg",
+    "ico": "https://image.tmdb.org/t/p/w300/zdD5VcvTD43p048ueswYdgLJZh.jpg",
     "uri": "L/44wikpkpcMYARIiCrM5FU4pyKgoSxc3UhGvXHQbM6nyHDEdbJZBiBozkHmzWnP",
     "drm_scheme": "",
     "drm_license_url": ""
@@ -3733,27 +3719,6 @@
     "name": "SOUTH PARK: LAS GUERRAS DE LOS STREAMING",
     "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/cbVvBYu3POY30cw4C9jtEIygiTf.jpg",
     "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+DJhtHL2R1WMLbw0oQLnH4ZnYw1fG+JRn9gdtbsz8Gft6sduHpWaM1gIjawO2HaZwXJrvPiN5iTg4oJ2SDkkzR",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "PADRE NO HAY MAS QUE UNO",
-    "ico": "http://tuvideo.tv/poster/w200/eDLO2nr5xhjOfxDAj3gQao495kw.jpg",
-    "uri": "TEVbbY92FVxdqmhGTitBk4yXbKbaTidQQZv8AmmH0Bm7i0RWwOATIYzD3Unu04Rmr5EWZB6LHGUjnRiVoJNJOBn3WQI9sEHS2JMqy34h3F4=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "PADRE NO HAY MAS QUE UNO 2",
-    "ico": "http://tuvideo.tv/poster/w200/7MjODwcPV5tAEa1zlje9N4gReGS.jpg",
-    "uri": "TEVbbY92FVxdqmhGTitBk4yXbKbaTidQQZv8AmmH0Bm7i0RWwOATIYzD3Unu04Rmr5EWZB6LHGUjnRiVoJNJOBn3WQI9sEHS2JMqy34h3F4=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "PADRE NO HAY MAS QUE UNO 3",
-    "ico": "http://tuvideo.tv/poster/w200/9751201664675093i.jpg",
-    "uri": "TEVbbY92FVxdqmhGTitBk4yXbKbaTidQQZv8AmmH0Bm7i0RWwOATIYzD3Unu04RmPA7AqN9c6LONZEUuBMjc5GiAOxB/9Oj4EY8Hn8Rgum4=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -4325,7 +4290,7 @@
   },
   {
     "name": "El Señor de la Guerra",
-    "ico": "https://hackstore.fo/wp-content/uploads/2022/08/1Z4mE3Ue4VegboGrjw5VgNFAk1l-211x300.jpg",
+    "ico": "https://image.tmdb.org/t/p/w300/1Z4mE3Ue4VegboGrjw5VgNFAk1l.jpg",
     "uri": "tPsuKAsDBcP6hIG4CYt+Py8aOPhJFa9dVFUpLp/Lr147s7Wi6XBHwsH9IvmbMIG2",
     "drm_scheme": "",
     "drm_license_url": ""
@@ -4408,13 +4373,6 @@
     "drm_license_url": ""
   },
   {
-    "name": "INTERSTELLAR",
-    "ico": "http://tuvideo.tv/poster/w200/7C0oiPn46OvaMxET9iq1f5BsyMS.jpg",
-    "uri": "TEVbbY92FVxdqmhGTitBk1/elshruK8vIC+aBUB9h5NnvGcu2mTil+ixb36h8dw8lPBiwMZYySgB00Ry+suCMw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
     "name": "INFINITY",
     "ico": "https://image.tmdb.org/t/p/w154/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg",
     "uri": "1/DMhkmHfChiIE0RJJPRu9pdlGDaXw9dQ53tuu3O4emooXjcFAaFMBSg5JBrnqFJYo/diFz5iIrUm2a7NYm46Idv7I9a8UnMwlq/+OdBWocTRSUI/1X/4pXQl+K9d1LtdK50ahdjB9d9YViabfXBEA==",
@@ -4437,7 +4395,7 @@
   },
   {
     "name": "TREN BALA",
-    "ico": "http://tuvideo.tv/poster/w200/7189301664320807i.jpg",
+    "ico": "https://image.tmdb.org/t/p/w300/tnPGFoeQpLznLplytqPjmvRIJ2F.jpg",
     "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/8yhY4Vvo2Kx8G0dBFxyc6oGhZH7TyhiIa9OMjlz/Bi1Qvexop9GZY4+AXggKt9WU=",
     "drm_scheme": "",
     "drm_license_url": ""
@@ -4446,13 +4404,6 @@
     "name": "LA MALDICION DEL HOMBRE LOBO",
     "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/qDukjmqZsgyLN7UKsaGoO69Txcq.jpg",
     "uri": "KJUqI+Vv7SeT1BjHKzrm8swLOALrnbfEnBaaX6swpTxTJoR74t3h78Dfd4Z2yCwCvcB0y//M3QK5Lw1WEdSTnw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "TROLL",
-    "ico": "http://tuvideo.tv/poster/w200/tyv3iU87q5IdTAUVLWJeILJ4Cyf.jpg",
-    "uri": "KJUqI+Vv7SeT1BjHKzrm8swLOALrnbfEnBaaX6swpTxTb+em2IExFB5H67OkThTGI6DOWHpFhGBKRzV84NcRLA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -4472,7 +4423,7 @@
   },
   {
     "name": "LA MAQUINA INFERNAL",
-    "ico": "http://tuvideo.tv/poster/w200/9166051664591634i.jpg",
+    "ico": "https://image.tmdb.org/t/p/w300/7VuQopunJnHKI1xejbdRUyDbP0S.jpg",
     "uri": "KJUqI+Vv7SeT1BjHKzrm8szk5JI3NTb2/gX4LRaYlzhPwmVU8BdaQJ9k2EwM2EKL",
     "drm_scheme": "",
     "drm_license_url": ""
@@ -4495,13 +4446,6 @@
     "name": "LOU",
     "ico": "https://elcritico.com.ar/wp-content/uploads/2022/09/lou-poster.jpg",
     "uri": "KJUqI+Vv7SeT1BjHKzrm8swLOALrnbfEnBaaX6swpTz7s+gArE/IfsLjbbrroS06KGeSKEpPpstaSNHQDtl5Ug==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "ATHENA",
-    "ico": "https://techplanet.today/storage/posts/2022/09/14/41/GdDrK6veMgBbqWfSx04FfgpgF1yY90Wfi7auzLY9.jpg",
-    "uri": "KJUqI+Vv7SeT1BjHKzrm8ozPYjI4SFNbnRLHryyIZlCwNvRiSMZAVBik4eBazECFFKFOBZyY/gLkeN4Oizw2RQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -4544,13 +4488,6 @@
     "name": "EL MARIACHI",
     "ico": "https://es.web.img3.acsta.net/medias/nmedia/18/78/92/48/20436047.jpg",
     "uri": "KJUqI+Vv7SeT1BjHKzrm8pG7TE7RLnWREo19l4vbBrTVxBlLEiDCCiVu76CQPmqT84DmBeU9Kxwbq9vk1hObxw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EL ROBO DEL SIGLO",
-    "ico": "http://tuvideo.tv/poster/w200/6092421590423892.jpg",
-    "uri": "TEVbbY92FVxdqmhGTitBk49OEgMwxKM1xzD1vfar31H8R55A7cX5qNKsoRiXYt8KW3r0o0+vuHSdIF9NXvg/Lg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -5470,45 +5407,45 @@
       "name": "PELICULAS TERROR-SUSPENSO-DRAMA",
       "mode": false,
       "lista": [
-	    {
-    "name": "La Casa De Los Despojos (2024)",
-    "ico": "https://www.hackstore.fo/wp-content/uploads/2024/10/1th6jd7Dn5Ipftlrk81DmIFAJ5c-200x300.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5oW9kXkk8k3donDh1SvqQIzbEDumHpxpJevc7SNUY+3U=",
+	  {
+    "name": "La casa de los despojos (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/1th6jd7Dn5Ipftlrk81DmIFAJ5c.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0vVYZzUtvS2bk1soRx7bcg9W53y+dxKUP1T+2bB9hOzhAkGy08XMSu0iX8hs8oYccM=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Aguanta la respiración (2024)",
-    "ico": "https://www.hackstore.fo/wp-content/uploads/2024/10/2CsrStJvRRQehLkJEPxz5GlfcYA-200x300.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5+AoC4VjPv5LLqDy0ocdlNUlKLLvO+aAHiUUaA7n2FpYQEqhpDZc4hPGWEagi7Q7rTkb+sqGUb2Z19SrQ8zwUWg==",
+    "name": "Aguanta la respiracion (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/pLxy9uzUZOjj6TTAzxhBJayPZT7.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0touySyCkndrLPOBYpHY2yLJpMGOPz9/o/lWV6SzO9iRrXZmKrPe+hh0PTaiVSCk3Y=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "El misterio de Salem’s Lot (2024)",
-    "ico": "https://www.hackstore.fo/wp-content/uploads/2024/10/4VhCWB2LjQr66EZhfhd4hLaxotC-200x300.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I51iNOM+J6+9VyOeAeLkcgPaZ8C0rvz6FftQO3MVABYwJyhW60dRVjSw/KbfMchA3c",
+    "name": "El misterio de Salem's Lot (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/lQj4jn6CmQ88Q7XsYvhenHjVIO.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0uBTQwsrv9zdvfIqOnb1sTQPY/EOA5iiZ871HtyxNvBepTe4zfDJv3ggRehU8EegUM=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "No hables con extraños (2024)",
-    "ico": "https://www.hackstore.fo/wp-content/uploads/2024/10/rdGpSGWNnpHuouEJjXOkzbTyRJk-200x300.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5Wrh1p8Nup5CCti3IHBDFpaBKBEhZkd6H6GFggYnZoE09/uxhKsbZmxGeIn6Ofv3XT4qhsI0O7QCd7IPcfcqXog==",
+    "name": "No ables con extraños (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/rdGpSGWNnpHuouEJjXOkzbTyRJk.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0uv7JOgCpZa5tntqQpmTq8LEz4NiUxs+hP/bQRDrkk24gw+DpmmMan9VOelmo5wnp8=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Instintos asesinos (2024)",
-    "ico": "https://www.hackstore.fo/wp-content/uploads/2024/09/Instintos-asesinos-2024-200x300.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5Y60VVWCIf0j5e7tJ2Ag0y809Y9FDSvzkVWmTfTmUaToQnpMjshqYVQHGFZCeEWHM",
+    "ico": "https://image.tmdb.org/t/p/original/wIDulcEDrbW5tLaAHIUqODaTGG6.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0tCrE2RUJUVNycvZ706FNnJ/WyOVW/mGUHnBVQciTFEsg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Parano-IA (2024)",
-    "ico": "https://www.hackstore.fo/wp-content/uploads/2024/09/Parano-IA-2024-200x300.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5ZyXTO/tgnhzcjrvys6eWm1iMsFyjj+q4TIkPr8oD+hALGxVVpwMigcZek4R3Vl0T",
+    "ico": "https://image.tmdb.org/t/p/original/bWcHlNhi4dMopJmDWxfo3HYqviB.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0vEnV6aUSQpZGY3PIJuN/imptQBaK01TulKtltRXTChNQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
