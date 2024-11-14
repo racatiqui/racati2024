@@ -324,6 +324,15 @@
     "mode": false,
     "lista": [
 	  {
+    "name": "ARGENTINA VS PARAGUAY",
+    "ico": "https://ztv.com.ar/Img2/EVENTOS.png",
+    "uri": "M5XLxQrp/9uEJlS9gmUwfs8u27/3w0WYkXHM17a5xyh9G8RGuVzjP2e8t+VwNexv2XEJ6ylyrG9pIvxes8w2MNMBDG4TAO4bM7QDHwiq/PA=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9aOTG9+4Uwl2zwOuMQYh47FhzSt6ODf+nBbYTxgANW1USjfGuZgPfFUqXfd+fWK2lQ=="
+    "referer": "https://player.sensa.com.ar/",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },    
+	  {
     "name": "NOCHE DE EVENTOS UFC",
     "ico": "https://ztv.com.ar/Img2/EVENTOS.png",
     "uri": "gU+wy/75hkB5WB093QHo4xRFzGh41KTZsF1VaBta2CdIeD407LeYpgVewc1DQrAaHDtnSSyocU19xoZXczpSWW2q0WJL+U6cnBLIyZCGTeIUmS3YyeTA48cybqMHKXMPHylPEJosuD7X3Qn2gcSaqar6mUK81w+oKqofk9/GSYA=",
