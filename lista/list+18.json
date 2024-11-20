@@ -3,160 +3,177 @@
     "name": "ARGENTINA",
     "mode": false,
     "lista": [	    
-      {
-        "name": "AMERICA TV",
-        "ico": "https://ztv.com.ar/Img2/americatv.png",
-        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzTyAkSd4zUa6N2iByiJQ7YBHu0maMEvUwJFzsNdV/jVhO1aXAkWJy5iTlEeRNpFennGXGmgjcTOyiKURs/OVkN",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "JykWahBk/YZpwXk5dC6hGRT+OuyPBJvXcmGKDj3SJvD7yRlnqWPfw8r7nA/N6E3Q",
-        "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "CANAL 9",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/133px-Canal_9_2015.png",
-        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgynLV1wDr49tz0N0gg/E2YXmarWDeVjnHasqKsYhTpk7tuFyaiWEL1AnsbYjCb2utBjWyFzgr/OgYvXa82RfHvM",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wruSuBRrNT2uF5u+GCnohK1S",
-        "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "TELEFE",
-        "ico": "https://ztv.com.ar/Img2/telefe.png",
-        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxA7hz9GxjT0sxv7gfzMdA3GZglafcA0ntayNS+dDM3+bSU46QR+wQPWCYUR33QaBCAojrONkwS3wIxUEkfqkae",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "JykWahBk/YZpwXk5dC6hGVo/iHlm867/BtlBXXYX9KGz52pJO40YyUOZI1RePU/h",
-        "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "EL TRECE",
-        "ico": "https://ztv.com.ar/Img2/eltrece.png",
-        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyuWp1SgRKCc0fuqIT7WPCj75yIOOcA3V5U58Zzz7NOcyVnQynMSIZNcXCaPMX9oXBmipVMCSElyVEMtAQGnG+X",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "JykWahBk/YZpwXk5dC6hGXsiSivjPZZ/2rwVgAaw/zEmArTycmVAWSxP/EPt8KL2",
-                "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "TN NOTICIAS",
-        "ico": "https://ztv.com.ar/Img2/tn.png",
-        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgx4tGl8n+K7oi1PDgK0zim4/gniyeDZqMU8Aq7wQqwJv07W4x0WWjLF8LGgKOKBra+gImKp6OsqBGi0IP8OHUUL",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "JykWahBk/YZpwXk5dC6hGUX6/ohf66G32dvO3OCHApmpt6B9hhfFlPHnAWU7H/9Y",
-                "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "A24",
-        "ico": "https://ztv.com.ar/Img2/a24_new.png",
-        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgybKavjuLQzJ8uWm0whDDoi/iK/psjiyuLbWNoHg9QELcXjRbVJdeubdNJxku2MP9mTvyfzsRJDjzoUkEl/nYDe",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "JykWahBk/YZpwXk5dC6hGWQg+KF/uUXaqoh3BM5mu1aOfgd8AXTA57mwYiNjkJcD",
-                "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "C5N",
-        "ico": "https://ztv.com.ar/Img2/c5n_new.png",
-        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwYmDDXgMJm8X8S/Vdv/5/VzE0L4Wr6UXUEIHfM/OGLMjzvv+GXTQf/+k2A61djt+8=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "JykWahBk/YZpwXk5dC6hGTDJw2/r28WwFsuYFHr5B/aR1n+qDp7KCzHOCIojFI6z",
-                "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "CANAL 26",
-        "ico": "https://ztv.com.ar/Img2/canal26.png",
-        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwFDR0ELk6bNlBgq3ZAM8ezVD/k2js/c6ZBGgw8vQXVmyQF77DeiikM1owhePdYbw2/I21HnCmsh6nxmyo3g3Vb",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wru48LOfEGXoYn6tuS9BikoE",
-                "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "CRONICA TV",
-        "ico": "https://ztv.com.ar/Img2/cronicatv.png",
-        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzfTVjXnkKTvv0/ah053NBYTgh+G8uT9D/G8z63+eAh9cJYRp8OaS3RuPqFknVUtAJVeKjN2njdNi15aAvU/FI3",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "JykWahBk/YZpwXk5dC6hGcrFhCfpbBi1+p7J7hGWSaxdvlBZUZHowx2s1MMiKx32",
-                "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "LN+",
-        "ico": "https://ztv.com.ar/Img2/ln.png",
-        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzyxL2LaXGmC3V/prSCtNpHXY3TbAvqHozWuzwW5w+NH6IikLumaWrbRCPXTY6Od8COTpOrv95c3OS6qjs8UtNP",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "JykWahBk/YZpwXk5dC6hGalEPkheD5/n/gUfpPtve2ox/3ILgDZq9P0E/pWJerrN",
-                "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "TV PUBLICA",
-        "ico": "https://ztv.com.ar/Img2/TVP.png",
-        "uri": "EpaxwvdVHLj6l4C4q+GDcGykTaOtFgWHAYAs7yOlgqYeCbM9rrvn6y0T9Ri21TqyfUIAUPHZsBk1a1DNzJTKGnywB7yxEkAEtllTULMLn9vS4F/zLaBbbyoCokeTge/A",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "JykWahBk/YZpwXk5dC6hGUQaoMCqDbBV4N8MsE+HvEh2YSzbf9Mv86e+AE9q+U0x",
-                "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "INFORMACION PERIODISTICA",
-        "ico": "https://ztv.com.ar/Img2/informacionperiodistica.png",
-        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxK4PpiupfP/36mvs6T42HwFKapBFKdCkqbq5mMGsXBIMzwvqFzQw6UdvGpWm553FL+/bbhGpVX34e6fCtXmEfNviw/DBKji5jXX/OhTR58Bf0M3wpHVFI4pbnB/5QGdog=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "JykWahBk/YZpwXk5dC6hGUToN8I28quOhG024kcPUJdCYWyJ/eu3urCnbONB2e/H",
-                "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      
-      },
-      {
-        "name": "ENCUENTRO",
-        "ico": "https://ztv.com.ar/Img2/ENCUENTRO_NEW.png",
-        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwQfOm0sO/hy+cggdxOeDr5JXPXCh9T1QVAWWH3QwG9asQB0g17MdFqB4quTFNpQRoUzxE8trVclRpdUKejd7dC",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "JykWahBk/YZpwXk5dC6hGRs3gsoOQ5yobU+k4WrGr5uECMuYUWcGrUe/E4qkYlM2",
-                "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "CANAL RURAL",
-        "ico": "https://ztv.com.ar/Img2/canalrural.png",
-        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgx8gpMZErc85hFGB1jB5G9/5aPxCjDwXD5m2oygHXG2P3aB2KFYL97zzwUfbWvcOdjrX32o+Cr+Ebswbv7V5ees",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wrs+gJAOnYuAaCpWUcg/Gc1q",
-                "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "NET TV",
-        "ico": "https://ztv.com.ar/Img2/nettv.png",
-        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyJAQF3J1MllWIXpa2rcb9vccysPiiur8WD3Y4TjsMPpHtqY+DlghyY3MDo56b843LdTBQlwse/YBfnMssqBE1G",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "JykWahBk/YZpwXk5dC6hGcdSJbfpV7FqvV5K05FBG3lji04SjbCQQBQOXzrM9cqT",
-                "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "ARGENTINISIMA SATELITAL",
-        "ico": "https://ztv.com.ar/Img2/argentinisima.png",
-        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxbNvYO/9ObKknnf9dnR7KWMN7EPwade0vuvvkilmnq3TjWES3OjcP8L0ALoQ5zsb56Unei+iWU0XZUP3d4ic9j",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "JykWahBk/YZpwXk5dC6hGbPBb8bcD2FHD1g0XyzSNTtbkYq2rZzzabmwfTGjh0dK",
-                "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "DIPUTADOS TV",
-        "ico": "https://ztv.com.ar/Img2/dtv.png",
-        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyiBjYtBiesUtZugId5V7hNSinR1mro4iUiS0bdibhMrgesy687LBfm7dHWYs8m5InZRgVdBjk+HBt75ZjQqCkt",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "JykWahBk/YZpwXk5dC6hGQhS8OoV4vZzPXCoEkmGEGA/F46nPPgg4uOT7PuLVJEm",
-                "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      }
+     {
+    "name": "AMERICA TV",
+    "ico": "https://ztv.com.ar/Img2/americatv.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzTyAkSd4zUa6N2iByiJQ7YBHu0maMEvUwJFzsNdV/jVvOVUXO51jE01dgM/NuX2+tPfso8AJJIpisZ+gdTOL66",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGRT+OuyPBJvXcmGKDj3SJvD7yRlnqWPfw8r7nA/N6E3Q",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "CANAL 9",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/133px-Canal_9_2015.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgynLV1wDr49tz0N0gg/E2YXmarWDeVjnHasqKsYhTpk7jS/h6TSawAYGxuYBosOFr0=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wruSuBRrNT2uF5u+GCnohK1S",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "AMERICA TV",
+    "ico": "https://ztv.com.ar/Img2/americatv.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzTyAkSd4zUa6N2iByiJQ7YBHu0maMEvUwJFzsNdV/jVvOVUXO51jE01dgM/NuX2+tPfso8AJJIpisZ+gdTOL66",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGRT+OuyPBJvXcmGKDj3SJvD7yRlnqWPfw8r7nA/N6E3Q",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "CANAL 9",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/133px-Canal_9_2015.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgynLV1wDr49tz0N0gg/E2YXmarWDeVjnHasqKsYhTpk7jS/h6TSawAYGxuYBosOFr0=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wruSuBRrNT2uF5u+GCnohK1S",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "TELEFE",
+    "ico": "https://ztv.com.ar/Img2/telefe.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxA7hz9GxjT0sxv7gfzMdA3GZglafcA0ntayNS+dDM3+emeJ1BRxaItJE2bQo+JOMultXSOKxD0VIIfuBQ2PUik",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGVo/iHlm867/BtlBXXYX9KGz52pJO40YyUOZI1RePU/h",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "EL TRECE",
+    "ico": "https://ztv.com.ar/Img2/eltrece.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyuWp1SgRKCc0fuqIT7WPCj75yIOOcA3V5U58Zzz7NOc7j1kXs0rvumZAOXiP/okh8HtD7aOkTwzp+cY85nT5Sg",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGXsiSivjPZZ/2rwVgAaw/zEmArTycmVAWSxP/EPt8KL2",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "TN NOTICIAS",
+    "ico": "https://ztv.com.ar/Img2/tn.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgx4tGl8n+K7oi1PDgK0zim4/gniyeDZqMU8Aq7wQqwJv7xD6Di7eYRlgB1Rn8UY9Mb9bOi5Hp4K6Mo/8vlov8Ht",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGUX6/ohf66G32dvO3OCHApmpt6B9hhfFlPHnAWU7H/9Y",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "A24",
+    "ico": "https://ztv.com.ar/Img2/a24_new.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgybKavjuLQzJ8uWm0whDDoi/iK/psjiyuLbWNoHg9QELcDCXQxgNi0UdNGJ9yz4h2ASE/uOXgHf2WweyeX/4O2Y",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGWQg+KF/uUXaqoh3BM5mu1aOfgd8AXTA57mwYiNjkJcD",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "C5N",
+    "ico": "https://ztv.com.ar/Img2/c5n_new.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwYmDDXgMJm8X8S/Vdv/5/VzE0L4Wr6UXUEIHfM/OGLMvJsdZlXUDgF7uC7wLrHR3o=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGTDJw2/r28WwFsuYFHr5B/aR1n+qDp7KCzHOCIojFI6z",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "CANAL 26",
+    "ico": "https://ztv.com.ar/Img2/canal26.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwFDR0ELk6bNlBgq3ZAM8ezVD/k2js/c6ZBGgw8vQXVm0IN/yI3r4F5PqTMl5HbYetGJF/Ha6XLOKS15OixVI2N",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wru48LOfEGXoYn6tuS9BikoE",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "CRONICA TV",
+    "ico": "https://ztv.com.ar/Img2/cronicatv.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzfTVjXnkKTvv0/ah053NBYTgh+G8uT9D/G8z63+eAh9RTeUxvZNvhCiQ90dOylSl3eD82IB4gbYC7a3HqeA1BH",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGcrFhCfpbBi1+p7J7hGWSaxdvlBZUZHowx2s1MMiKx32",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "LN+",
+    "ico": "https://ztv.com.ar/Img2/ln.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzyxL2LaXGmC3V/prSCtNpHXY3TbAvqHozWuzwW5w+NH0u0dl13fxSJl2QGs6jAAxrMDrItJ55z8QnF1EfOH8QG",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGalEPkheD5/n/gUfpPtve2ox/3ILgDZq9P0E/pWJerrN",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "TV PUBLICA",
+    "ico": "https://ztv.com.ar/Img2/TVP.png",
+    "uri": "EpaxwvdVHLj6l4C4q+GDcGykTaOtFgWHAYAs7yOlgqYeCbM9rrvn6y0T9Ri21TqyfUIAUPHZsBk1a1DNzJTKGsfnuoS4I96OwPULZ3Qlpgmj1NSHTtVBgzHaBIqR0wic",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGUQaoMCqDbBV4N8MsE+HvEh2YSzbf9Mv86e+AE9q+U0x",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "INFORMACION PERIODISTICA",
+    "ico": "https://ztv.com.ar/Img2/informacionperiodistica.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxK4PpiupfP/36mvs6T42HwFKapBFKdCkqbq5mMGsXBIMzwvqFzQw6UdvGpWm553FLzB6DoECZo2wdPoEfWUza+x0W/OhT8VL1J8UB5mp4t+redOnzkmzfilBk0JdOO4y8=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGUToN8I28quOhG024kcPUJdCYWyJ/eu3urCnbONB2e/H",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "ENCUENTRO",
+    "ico": "https://ztv.com.ar/Img2/ENCUENTRO_NEW.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwQfOm0sO/hy+cggdxOeDr5JXPXCh9T1QVAWWH3QwG9alWCuWGuGw2PD7bxDJocLnSZYJ8AUd8Y9u0P6Wzd5quA",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGRs3gsoOQ5yobU+k4WrGr5uECMuYUWcGrUe/E4qkYlM2",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "CANAL RURAL",
+    "ico": "https://ztv.com.ar/Img2/canalrural.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgx8gpMZErc85hFGB1jB5G9/5aPxCjDwXD5m2oygHXG2PwU0ewf2hjAsdC+Q8e0eCiVxJjGOJj0+5oRe7E44VI0H",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wrs+gJAOnYuAaCpWUcg/Gc1q",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "NET TV",
+    "ico": "https://ztv.com.ar/Img2/nettv.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyJAQF3J1MllWIXpa2rcb9vccysPiiur8WD3Y4TjsMPpBdiV6XBERPKNyAXIj4o6F4=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGcdSJbfpV7FqvV5K05FBG3lji04SjbCQQBQOXzrM9cqT",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "ARGENTINISIMA SATELITAL",
+    "ico": "https://ztv.com.ar/Img2/argentinisima.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxbNvYO/9ObKknnf9dnR7KWMN7EPwade0vuvvkilmnq3dCoiAPKXTst04mVY7qxQYvxDAlV6IyXJryQqZgIo2SX",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGbPBb8bcD2FHD1g0XyzSNTtbkYq2rZzzabmwfTGjh0dK",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "DIPUTADOS TV",
+    "ico": "https://ztv.com.ar/Img2/dtv.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyiBjYtBiesUtZugId5V7hNSinR1mro4iUiS0bdibhMrj5rv/WaXD0Q1V4lTrrVHxnOZDVOR+3GWgbVUQKcxijZ",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGQhS8OoV4vZzPXCoEkmGEGA/F46nPPgg4uOT7PuLVJEm",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  }
     ]
   },
   {
