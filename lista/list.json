@@ -1037,41 +1037,50 @@
     "name": "CINE",
     "mode": false,
     "lista": [
-  {
+    {
     "name": "CINE PREMIUM",
     "ico": "https://ztv.com.ar/Img2/cine_premium.png",
-    "uri": "0oxNmRKPua+uxw8G8Ymvdv1us0c4UCwXp0kQD5+Mqfp4zeehf/nCvYUh+9cI/HmoV/kbSWS6RyoD7I7UStGo/VT3Ws9PeXYDVvjeCbpZIYfIOP4m+tFI6wSwrV38mY4p",
+    "uri": "M5XLxQrp/9uEJlS9gmUwftQgSjB2QOms1yxxb9SnpqhJQCl3gnqNYKhAtU/CMtHAFEt/pTGeXHv424x8VQLZOVf68Pf/tBxKquTBP2zw9t4=",
     "drm_scheme": "clearkey",
-    "drm_license_url": "JykWahBk/YZpwXk5dC6hGTOroPHSkSCvT/7vdoZxcakncI/wnRURavvBYjHxGd8q",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGfewME/QNLj297FgcIoy2abL/yDBCTUTVjDg82D922y4S171em1pE8Ev27Hx0nw2aw==",
     "origin": null,
-    "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
     "name": "CINE HISPANO",
     "ico": "https://ztv.com.ar/Img2/cine_hispano.png",
-    "uri": "0oxNmRKPua+uxw8G8Ymvdv1us0c4UCwXp0kQD5+Mqfp4zeehf/nCvYUh+9cI/HmoycoYBvSvX+1x1impioNghgF3pUZoXqu7pG7J1VtI52aByJZVnrDVzB6iltvUb+rU",
+    "uri": "M5XLxQrp/9uEJlS9gmUwftQgSjB2QOms1yxxb9SnpqiUAIkFPMpnO9PeAJGrbzaQ+UJhVuDJJJhDhBXdAPbWrehmM9xFVaQPXjJBi6nPJFs=",
     "drm_scheme": "clearkey",
-    "drm_license_url": "JykWahBk/YZpwXk5dC6hGTOroPHSkSCvT/7vdoZxcak1+mAysZlS3I1y7g+9Unrb",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGfewME/QNLj297FgcIoy2aZYZ8wrahYwltD8c+UJPlxqDXCRAa4ee1SxuccfytVaWw==",
     "origin": null,
-    "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
     "name": "CINE FAMILIAR",
     "ico": "https://ztv.com.ar/Img2/cine_familiar.png",
-    "uri": "0oxNmRKPua+uxw8G8Ymvdv1us0c4UCwXp0kQD5+Mqfp4zeehf/nCvYUh+9cI/Hmo6IFXNw2/S9odszabdykTJioxZFPJT/SLe3Sfpcb278a+IfgzNTVaoGoRokAOJ5i3",
+    "uri": "M5XLxQrp/9uEJlS9gmUwftQgSjB2QOms1yxxb9Snpqj6saAPL1dUtzgnZZAfjBxk7QgMe4hrRhOTz00zJhDYbEd/K2+AkSerH3Wcei/lTI8=",
     "drm_scheme": "clearkey",
-    "drm_license_url": "JykWahBk/YZpwXk5dC6hGTOroPHSkSCvT/7vdoZxcamuSxHDgp8Q2UBnPCT3i3ca",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGfewME/QNLj297FgcIoy2aZIIB0/qClWeX6kHhyFR797XY5DGJSMqHVd+nsZ+JM/qQ==",
     "origin": null,
-    "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
     "name": "DPELICULA",
     "ico": "https://ztv.com.ar/Img2/dpelicula.png",
-    "uri": "0oxNmRKPua+uxw8G8Ymvdv1us0c4UCwXp0kQD5+MqfoLsFSYOGQjfZHOV8B9cdENlxPGtJJ/HVcSACT1EQrGkTQbz9uiE+iciB3DO1+FgzJJRSwt2bburzVV8VnDhaCv",
+    "uri": "M5XLxQrp/9uEJlS9gmUwfs8u27/3w0WYkXHM17a5xygAIMSLUGkrHmhvVO1KLQ9sz5ZHdoWSt89IFZrXkgaTemzqCXU5ULiG3pAUZyEPAoY=",
     "drm_scheme": "clearkey",
-    "drm_license_url": "JykWahBk/YZpwXk5dC6hGXo4fyM8Tcc3gfJ0m+IUPgTQZNWQnZnvz5/TP12gRGkO",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGfewME/QNLj297FgcIoy2aYvjLsBKPh8w18uE+0RydrV5V3A8jmt4IFz7rbPM3tYAQ==",
     "origin": null,
-    "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "CINE LATINO",
+    "ico": "https://ztv.com.ar/Img2/cine_latino.png",
+    "uri": "qIrWKnhwa2025VaJxKVcJHsdKy3F5HIQ8YTwhuKImYLt4oZYe0MzSOKUIkgxKQnmatC3e5owtrRrOYfBrzosRA==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGfewME/QNLj297FgcIoy2aa1yvXXV+Ee7E42zV4H1czVzwpcFI/shRs33iudALxQpg==",
+    "origin": null,
+    "user_agent": null
   },
   {
     "name": "CINECANAL",
