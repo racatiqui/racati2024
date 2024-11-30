@@ -4,6 +4,27 @@
         "mode": false,
         "lista": [
 		  {
+    "name": "Moana 2 (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/4YZpsylmjHbqeWzjKpUEF8gcLNW.jpg",
+    "uri": "r4tbaDVW7pvrRujsWujHGnhqAWCcKKPx29VhJS/zzO+pDzdZIK614fZ3ZJFsoMoa",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Wicked (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0tTfUOpsufadA8PIurZFgz0IrM3VW17JB8FJycJEfhbww==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Gladiador 2 (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+    "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0vmyyFKgZcOGoEetDdLYLnjER/9H1QPKnU9SH2HQTj1Pw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+		  {
     "name": "Guason 2: Folie à Deux (2024)",
     "ico": "https://image.tmdb.org/t/p/w500/tMMYwxrPwVPrxz3DqXs8DnVIOx0.jpg",
     "uri": "pMWVUPHFW66lOuqb8ZitUfr1r7s/50daKFMEryndU0sjMPFCXeIvy1ENGK+uJ/OM",
