@@ -22,24 +22,6 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
-    "name": "AMERICA TV",
-    "ico": "https://ztv.com.ar/Img2/americatv.png",
-    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzTyAkSd4zUa6N2iByiJQ7YBHu0maMEvUwJFzsNdV/jVvOVUXO51jE01dgM/NuX2+tPfso8AJJIpisZ+gdTOL66",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "JykWahBk/YZpwXk5dC6hGRT+OuyPBJvXcmGKDj3SJvD7yRlnqWPfw8r7nA/N6E3Q",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "CANAL 9",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/133px-Canal_9_2015.png",
-    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgynLV1wDr49tz0N0gg/E2YXmarWDeVjnHasqKsYhTpk7jS/h6TSawAYGxuYBosOFr0=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wruSuBRrNT2uF5u+GCnohK1S",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
     "name": "TELEFE",
     "ico": "https://ztv.com.ar/Img2/telefe.png",
     "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxA7hz9GxjT0sxv7gfzMdA3GZglafcA0ntayNS+dDM3+emeJ1BRxaItJE2bQo+JOMultXSOKxD0VIIfuBQ2PUik",
@@ -1037,7 +1019,7 @@
     "name": "CINE",
     "mode": false,
     "lista": [
-    {
+      {
     "name": "CINE PREMIUM",
     "ico": "https://ztv.com.ar/Img2/cine_premium.png",
     "uri": "M5XLxQrp/9uEJlS9gmUwftQgSjB2QOms1yxxb9SnpqhJQCl3gnqNYKhAtU/CMtHAFEt/pTGeXHv424x8VQLZOVf68Pf/tBxKquTBP2zw9t4=",
@@ -1072,6 +1054,15 @@
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGfewME/QNLj297FgcIoy2aYvjLsBKPh8w18uE+0RydrV5V3A8jmt4IFz7rbPM3tYAQ==",
     "origin": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "IVC",
+    "ico": "https://panelssh.com.ar/Local/ext/Img/ivc.png",
+    "uri": "HutcIayjrt5kBI99Gq2aN1+juNkc9bvgfGAXymlD533LqVFtWY2HzlOh6uuGINLB",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGfewME/QNLj297FgcIoy2abpaaGD2xiPVXpBov3VdMqo",
+    "origin": null,
+    "user_agent": null
   },
   {
     "name": "CINE LATINO",
