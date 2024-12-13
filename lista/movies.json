@@ -3,7 +3,14 @@
         "name": "PELICULAS ESTRENOS 2024",
         "mode": false,
         "lista": [
-		  {
+	  {
+    "name": "Jurado Nª2 (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8GxazBs1iKffJHAdeyhD9jS1aOz.jpg",
+    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYaycvLp6sqjOtM0d8bqeh3e31niAagSPOG0odbsfLZJCA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
     "name": "Venom: El último baile (2024)",
     "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b0obWWCLRVRqRzlSK1LSGtADkLM.jpg",
     "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYZkQldcGYOQidcnlg37Mko4azNGtZTNgG7rg+L77rnSRg==",
@@ -14,6 +21,13 @@
     "name": "Red One (2024)",
     "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dpskAcm71w5v8zQ8RmPmJiP31Om.jpg",
     "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYZttPkbuuV9yGNvborIf8Ymnkw6ZZCmRepksjkb0vAaCw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Maria (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oIkS6IRBmj1g2EUUgJOMRwk5hRh.jpg",
+    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYasU6ONRxip9hEDJcgxWAYzrlTUoFKTj7dbcROhStvylQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
