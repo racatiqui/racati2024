@@ -450,10 +450,10 @@
             "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
-	  {
+  {
     "name": "GH AR",
     "ico": "https://i.ibb.co/Pmc16RC/Gran-Hermano-CL-jpg.webp",
-    "uri": "http://m.mtd.llc:8880/CH0100000000341/index.mpd?|Origin="android_mobile.directvgo.com",
+    "uri": "http://m.mtd.llc:8880/CH0100000000341/index.mpd",
     "drm_scheme": "clearkey",
     "drm_license_url": "https://ztv.com.ar/tv/Claves/gh/ghk1.json",
     "origin": "android_mobile.directvgo.com",
