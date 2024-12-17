@@ -408,6 +408,75 @@
     ]
   },
       {
+    "name": "📡 GRAN HERMANO EN VIVO 🎥",
+    "mode": false,
+    "lista": [
+   {
+    "name": "Gran Hermano",
+    "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
+    "uri": "Hch6abbswTxRarmMJ0EKh/4JwcH1bky19Hcf03fMwPXL4+N2pauLKFqKuO4rg6v0NsI246HlaCOhHh3V6+admie97W/w+V2P3hXWWjk5vJg=",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "Gran Hermano 1",
+    "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
+    "uri": "Hch6abbswTxRarmMJ0EKh/4JwcH1bky19Hcf03fMwPXL4+N2pauLKFqKuO4rg6v0NsI246HlaCOhHh3V6+admt/aiE6fJoz5TNZQ5F3WlRs=",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "Gran Hermano 2",
+    "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
+    "uri": "Hch6abbswTxRarmMJ0EKh/4JwcH1bky19Hcf03fMwPXL4+N2pauLKFqKuO4rg6v0NsI246HlaCOhHh3V6+admmiXQGGAXqOfWfM2fTkxBlc=",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "Gran Hermano 3",
+    "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
+    "uri": "Hch6abbswTxRarmMJ0EKh/4JwcH1bky19Hcf03fMwPXL4+N2pauLKFqKuO4rg6v0NsI246HlaCOhHh3V6+admvO2L6VIEpWcc6Z/e5kyhIE=",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "Gran Hermano 4",
+    "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
+    "uri": "Hch6abbswTxRarmMJ0EKh/4JwcH1bky19Hcf03fMwPXL4+N2pauLKFqKuO4rg6v0NsI246HlaCOhHh3V6+admqTfBnEXv5hxfXTSWR48g/c=",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "Gran Hermano 5",
+    "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
+    "uri": "Hch6abbswTxRarmMJ0EKh/4JwcH1bky19Hcf03fMwPXL4+N2pauLKFqKuO4rg6v0NsI246HlaCOhHh3V6+admjp5uf1ceLfo6jL1FLW5ZGM=",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "Gran Hermano 6",
+    "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
+    "uri": "Hch6abbswTxRarmMJ0EKh/4JwcH1bky19Hcf03fMwPXL4+N2pauLKFqKuO4rg6v0NsI246HlaCOhHh3V6+admqvjOHUAuG71tOkxxNeLNV0=",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  }
+    ]
+  },
+      {
     "name": "📡 EVENTOS EN VIVO ⚽ 🏎️ 🏀",
     "mode": false,
     "lista": [
