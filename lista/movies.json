@@ -3,6 +3,20 @@
         "name": "PELICULAS ESTRENOS 2024",
         "mode": false,
         "lista": [
+		  {
+    "name": "Kraven el cazador (2024)",
+    "ico": "https://i.ibb.co/x6WS71b/krave.jpg",
+    "uri": "r4tbaDVW7pvrRujsWujHGnhqAWCcKKPx29VhJS/zzO8evvU8oooy9EZ69mU92yW7",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Los Simpson: Santa Homero (2024)",
+    "ico": "https://i.ibb.co/JKyVvhJ/SANTA.jpg",
+    "uri": "r4tbaDVW7pvrRujsWujHGnhqAWCcKKPx29VhJS/zzO/x/FHRpocGpe/P/4Fy8ljDX9lpJEwJZMpUiqR1dhjIpQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
 	  {
     "name": "Jurado Nª2 (2024)",
     "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8GxazBs1iKffJHAdeyhD9jS1aOz.jpg",
@@ -2458,16 +2472,16 @@
         "mode": false,
         "lista": [
   {
-    "name": "PAPA SE VOLVIO LOCO",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/papasevolvioloco.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br58mjrmbY4LFSz25THjNiQJ98pm3RTkzQCQbhPJDg5lkLYPI02mWLVVjg1U0KweqmbUIwanmERKzX+rchKqVELter9JImBX2KPF+d5wX4ROzZ",
+    "name": "Papa se volvio loco",
+    "ico": "https://i.ibb.co/gPXn6c8/papa.jpg",
+    "uri": "r4tbaDVW7pvrRujsWujHGnhqAWCcKKPx29VhJS/zzO9QM/cMJrNEwBaP5OL4YUvz/RR5GvMI3khHE/rZXv5TUQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "PIZZA BIRRA FASO",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/pizzabirrafaso.jpg",
-    "uri": "g8/r11ZKyiQPtUzbCWyC9Y3C2jFkcPp/D/qjmMSIiAJQ6nOnv+rYL1Aw01jp9cchxSMnNbpblNP8hJDT9C/rlQ==",
+    "name": "Pizza, Birra y Faso",
+    "ico": "https://i.ibb.co/fHV5MqW/piza.jpg",
+    "uri": "r4tbaDVW7pvrRujsWujHGnhqAWCcKKPx29VhJS/zzO/dRbJs76Z6eKI8ZPq18Ewm",
     "drm_scheme": "",
     "drm_license_url": ""
   },
