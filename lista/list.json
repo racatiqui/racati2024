@@ -1821,6 +1821,105 @@
     "name": "ALTERNATIVOS 24/7",
     "mode": false,
     "lista": [
+	  {
+    "name": "animaniacs",
+    "ico": "https://image.tmdb.org/t/p/w300/bYHu47S3yBPbWvlh4YbIYJ5e8X1.jpg",
+    "uri": "rwCb/LYM/khQCfDSnj+PQnGuyUBlTbi1t6P+ntH2y11BOqQ7ncJ4VoCeQ2YHRj5CUL9C/WN3GixwEWEfmOsuQQ==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "SCOOBY DOO 24/7",
+    "ico": "http://3.bp.blogspot.com/-0OKkIhiIX1M/T0X1fISVAGI/AAAAAAAAEj0/ypzZwODRw0A/s1600/The-Gang-scooby-doo-the-mystery-begins-8128722-1280-1024.jpg",
+    "uri": "rwCb/LYM/khQCfDSnj+PQnGuyUBlTbi1t6P+ntH2y11BOqQ7ncJ4VoCeQ2YHRj5ChhGRh4I4HbeglINZBocWVg==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "HEY ARNOLD",
+    "ico": "https://tse3.mm.bing.net/th?id=OIP.f0pk3FEc8svgU_DuFltH1gHaFj&pid=Api&P=0&h=180",
+    "uri": "rwCb/LYM/khQCfDSnj+PQnGuyUBlTbi1t6P+ntH2y11BOqQ7ncJ4VoCeQ2YHRj5C+p/9E+CCD75bH+4Ug6XPlw==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "EL GALLO CLAUDIO",
+    "ico": "https://tse2.mm.bing.net/th?id=OIP.EMhJaHUWUB4w_AJpnqzdwwHaKk&pid=Api&P=0&h=180",
+    "uri": "rwCb/LYM/khQCfDSnj+PQnGuyUBlTbi1t6P+ntH2y11BOqQ7ncJ4VoCeQ2YHRj5CcNl11kIuYVLj4nAbJiqW/w==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "EL PAJARO LOCO",
+    "ico": "https://tse2.mm.bing.net/th?id=OIP.dljPN85xWCK7flPdW5Hz0AHaFj&pid=Api&P=0&h=180",
+    "uri": "rwCb/LYM/khQCfDSnj+PQnGuyUBlTbi1t6P+ntH2y11BOqQ7ncJ4VoCeQ2YHRj5CZqPaHRcQTdejaICgtPXCXA==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "RANMA",
+    "ico": "https://tse4.mm.bing.net/th?id=OIP.XPjzKBk29yZffPTB9ORvhAHaFi&pid=Api&P=0&h=180",
+    "uri": "rwCb/LYM/khQCfDSnj+PQnGuyUBlTbi1t6P+ntH2y11BOqQ7ncJ4VoCeQ2YHRj5CvgL8HIyUYfKy0o7hWsQw2Q==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "EL PRINCIPE DEL RAP",
+    "ico": "https://files.lafm.com.co/assets/public/2020-04/principe_0.jpg",
+    "uri": "rwCb/LYM/khQCfDSnj+PQnGuyUBlTbi1t6P+ntH2y11BOqQ7ncJ4VoCeQ2YHRj5C0WxDTiNqmdXQjDBmVFctPQ==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "LOONEY TUNES",
+    "ico": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/39f8cc8acc30d50c46963dc9c2811afd9d7f3d58f75a9e9848b96e072fbc241d._RI_V_TTW_.jpg",
+    "uri": "rwCb/LYM/khQCfDSnj+PQnGuyUBlTbi1t6P+ntH2y11BOqQ7ncJ4VoCeQ2YHRj5CS4aT3DqxUrBE+er0pFlEAQ==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "LOS PICAPIEDRAS ",
+    "ico": "https://www.gratistodo.com/wp-content/uploads/2016/08/Los-Picapiedra-2.jpg",
+    "uri": "rwCb/LYM/khQCfDSnj+PQnGuyUBlTbi1t6P+ntH2y11BOqQ7ncJ4VoCeQ2YHRj5CrWlzNUu9g8uTVNOndzr0LA==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "DORAEMON",
+    "ico": "https://pixahive.com/wp-content/uploads/2021/04/Doraemon-Cartoon-Illustration-410092-pixahive.jpg",
+    "uri": "rwCb/LYM/khQCfDSnj+PQnGuyUBlTbi1t6P+ntH2y11BOqQ7ncJ4VoCeQ2YHRj5COIO/np5/paI8TKELDAumHw==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "LA PANTERA ROSA",
+    "ico": "https://tse3.mm.bing.net/th?id=OIP.VErK4HoRWpfEB3bqEGloRQHaJ4&pid=Api&P=0&h=180",
+    "uri": "rwCb/LYM/khQCfDSnj+PQnGuyUBlTbi1t6P+ntH2y11BOqQ7ncJ4VoCeQ2YHRj5CAnzbagMvir9xl0PPlvKz1w==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },    
     {
     "name": "BILLY Y MANDY",
     "ico": "https://ztv.com.ar/Img2/billyymandy.png",
