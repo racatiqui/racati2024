@@ -1078,17 +1078,73 @@
         "name": "Dragon Ball DAIMA (2024)",
         "ico": "https://hackstore2.com/wp-content/uploads/thumbs/2c65a29c8f30f06d5ef3a0dacaf028db_hd.webp",
         "temporada": [
-          {
+  {
     "name": "Capitulo: 01",
-    "ico": "https://hackstore2.com/wp-content/uploads/thumbs/2c65a29c8f30f06d5ef3a0dacaf028db_hd.webp",
-    "uri": "pMWVUPHFW66lOuqb8ZitUWUmCwFd458HmiSkS+Z6+Iwq0TjYjOqUNpSy+ajoXeaDEbwaesaJVgorc4RiF+QO9g==",
+    "ico": "https://image.tmdb.org/t/p/w300/pjXeHfeyHoYG8DX3YvvYd1hATgL.jpg",
+    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYZsOn7OyG43E2pcjfXpPC3bZ1u/wR80W8GmKR0/rHFw8w==",
     "drm_scheme": "",
     "drm_license_url": ""
-          },
-            {
-    "name": "02: Glorio",
-    "ico": "https://image.tmdb.org/t/p/original/h6ZzSPzRbGqFhvPJwrDrL6E3zr0.jpg",
-    "uri": "pMWVUPHFW66lOuqb8ZitUWUmCwFd458HmiSkS+Z6+Iz3lY9F4vQ48O3O59up7HP0dzBhdqtTjSJJAPGHWz9XIw==",
+  },
+  {
+    "name": "Capitulo: 02",
+    "ico": "https://image.tmdb.org/t/p/w300/h6ZzSPzRbGqFhvPJwrDrL6E3zr0.jpg",
+    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYZsOn7OyG43E2pcjfXpPC3bYJctJAGSYG2KOQPVDo9ZBg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo: 03",
+    "ico": "https://image.tmdb.org/t/p/w300/2X0r11TBs1b9tkeKA94sqYTLjfp.jpg",
+    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYZsOn7OyG43E2pcjfXpPC3bL56zzIszSM1IG0oXKsg+AQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo: 04",
+    "ico": "https://image.tmdb.org/t/p/w300/cig3XdGMpGWUQkajoGSQU9Fry1W.jpg",
+    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYZsOn7OyG43E2pcjfXpPC3bnd5YEaQiZ5fmqmH82YMvrg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo: 05",
+    "ico": "https://image.tmdb.org/t/p/w300/nBBUaAyMyOlpUMQWafmf4YUqfS1.jpg",
+    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYZsOn7OyG43E2pcjfXpPC3bShbpYrnslQqJkq6KE+ZXAQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo: 06",
+    "ico": "https://image.tmdb.org/t/p/w300/q6hKclRlRDqJuaDu67Hkmzm75pg.jpg",
+    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYZsOn7OyG43E2pcjfXpPC3bQ66m/Z0we6bDOp0gQmJCFQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo: 07",
+    "ico": "https://image.tmdb.org/t/p/w300/13InHsGD62LODGilbQY5dTuiUX0.jpg",
+    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYZsOn7OyG43E2pcjfXpPC3bASex5M/mcZK68zVjE8j87A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo: 08",
+    "ico": "https://image.tmdb.org/t/p/w300/3KbtT3bWqcQieS71dLBtpxeZLL2.jpg",
+    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYZsOn7OyG43E2pcjfXpPC3bJnlIooiUUTsTS5Zx/+sXcw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo: 09",
+    "ico": "https://image.tmdb.org/t/p/w300/8Tg3f8sPJ9fHERFkX16GAQLl1QH.jpg",
+    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYZsOn7OyG43E2pcjfXpPC3biJR+ueiZGRtRPx3tSy8b/w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo: 10",
+    "ico": "https://image.tmdb.org/t/p/w300/pF73h1gpZX0x887ph38IfDsQRkc.jpg",
+    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYZsOn7OyG43E2pcjfXpPC3bOZH7K16ykDo9GaAnjw3bWg==",
     "drm_scheme": "",
     "drm_license_url": ""
   }
