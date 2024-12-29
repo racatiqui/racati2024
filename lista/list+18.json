@@ -842,22 +842,31 @@
     "name": "📡 CANALES INFANTILES 🎡",
     "mode": false,
     "lista": [
-   {
+  {
+    "name": "KIDOO",
+    "ico": "https://ztv.com.ar/Img2/kidoo.png",
+    "uri": "6ZvLEwVir4RDu/hYm2LB+iiaNXsPp4P2G0RWBd27EKG7gnCEDhIluuVy8ihKTwPlwY7/V+k0JHG1CWkOMU96upzJP6bPGpz5wBSNnq8eqKE=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGeSEgd7DLtxnJm4ruP0OzZ5b7U8XURfXqqw0slXcG8Jk",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
     "name": "ZOOMOO",
     "ico": "https://ztv.com.ar/Img2/zoomoo.png",
-    "uri": "0oxNmRKPua+uxw8G8Ymvdv1us0c4UCwXp0kQD5+MqfpDkADaffwNO08f4hFubcmhATZoY1U1OAOOCpRyp4NZMkUtfmDP/JEqYFK//y4zYBY=",
+    "uri": "M5XLxQrp/9uEJlS9gmUwftQgSjB2QOms1yxxb9SnpqgYvSe3yunHIdiElqA7o13vGYr/bgRv1fIe05sTk3hvnozUrOMcTiLtkZsc0DqFQ5E=",
     "drm_scheme": "clearkey",
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGXYU6LZvJ3QGR1UyeTKx8hdgI3faEDoiInURMYcRDtHQ",
-    "origin": null,
+    "referer": "https://player.sensa.com.ar/",
     "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
   },
   {
     "name": "CANAL INFANTIL",
     "ico": "https://ztv.com.ar/Img2/canal_infantil.png",
-    "uri": "0oxNmRKPua+uxw8G8Ymvdv1us0c4UCwXp0kQD5+MqfpDQAVCEzsvc0Kr2IxE7GA5SqKMbVbEDc3c46kKAzHzaJiP3pq1gReDdTqomKe52RKlWlFOztzO1ZfnHEx9ru2O",
+    "uri": "M5XLxQrp/9uEJlS9gmUwftQgSjB2QOms1yxxb9Snpqj2YrphKxgsuji+IaFWVlIJw4EJ+d6M6A0fK0NjfatroxF4EpDjO3uRZ2y7gotlJgV+TL5N4xqB0rZBVgo5bFP9",
     "drm_scheme": "clearkey",
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wrskdlYD9HtClywhBQ4NH8wJ4jIIG+Ot1/vHIU7h/qFc8w==",
-    "origin": null,
+    "referer": "https://player.sensa.com.ar/",
     "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
   },
   {
@@ -1127,14 +1136,13 @@
 	"referer": "https://player.sensa.com.ar/",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
-  {
+    {
     "name": "DPELICULA",
     "ico": "https://ztv.com.ar/Img2/dpelicula.png",
-    "uri": "M5XLxQrp/9uEJlS9gmUwfs8u27/3w0WYkXHM17a5xygAIMSLUGkrHmhvVO1KLQ9sz5ZHdoWSt89IFZrXkgaTemzqCXU5ULiG3pAUZyEPAoY=",
+    "uri": "M5XLxQrp/9uEJlS9gmUwftQgSjB2QOms1yxxb9SnpqhOqEbxi7XZHjvvhn8+jmR+ioYZl+TgR7BQi/E+LobN2tz35UenT+KylEve9nkLySA=",
     "drm_scheme": "clearkey",
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGfewME/QNLj297FgcIoy2aYvjLsBKPh8w18uE+0RydrV5V3A8jmt4IFz7rbPM3tYAQ==",
-    "origin": null,
-	"referer": "https://player.sensa.com.ar/",
+    "referer": "https://player.sensa.com.ar/",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
