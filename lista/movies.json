@@ -1283,10 +1283,10 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
-    "name": "JHON WICK 4",
+   {
+    "name": "John Wick 4",
     "ico": "https://image.tmdb.org/t/p/w300/gh2bmprLtUQ8oXCSluzfqaicyrm.jpg",
-    "uri": "g8/r11ZKyiQPtUzbCWyC9UveyycRuok/45pD0SBuT9FEw0cd6/l7m44w5d0Uz40deKqTtgVXWGflGAFEazISoA==",
+    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYaTv39DQ5K/S9QRcCDPk5x3Y78eY8TtSVr0uhalHbA30Q==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -4656,6 +4656,27 @@
     "name": "FURIA DE TITANES",
     "ico": "https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/87/40/75/20034889.jpg",
     "uri": "KJUqI+Vv7SeT1BjHKzrm8vjVq1PIBCn2qf7PA0ehszMgn0dXeEI0jlAQ/UEwHARj1UeW4s9Hg2JNZmwGNVGxNQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+    {
+    "name": "John Wick 4",
+    "ico": "https://image.tmdb.org/t/p/w300/gh2bmprLtUQ8oXCSluzfqaicyrm.jpg",
+    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYaTv39DQ5K/S9QRcCDPk5x3Y78eY8TtSVr0uhalHbA30Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "John Wick 3",
+    "ico": "https://image.tmdb.org/t/p/w300/aKw7oqYdfn4pkKYvp18Gd1YhK6m.jpg",
+    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYaTv39DQ5K/S9QRcCDPk5x35YaqStNTgqQvDfHXKstOwg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "John Wick 2",
+    "ico": "https://image.tmdb.org/t/p/w300/yIa04BbZMO4pIZ1cvnYB4cZVakd.jpg",
+    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYaTv39DQ5K/S9QRcCDPk5x3XaFbwbdQ816csanH/WmFvQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
