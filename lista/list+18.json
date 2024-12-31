@@ -1811,6 +1811,15 @@
     "name": "📡 CANALES MÚSICA 🎧",
     "mode": false,
     "lista": [
+	      {
+    "name": "UN POCO DE RUIDO",
+    "ico": "https://br.maxvps.top/images/un_poco_de_ruido.png",
+    "uri": "aJp8cPn0VHj9A1UHYGvEojadcNibnt333OX9A8KgQFYpv0tnM1Qv1RIwBSeKrnMUAIFaJcYhz12cBPYR1ymgkwXam8O4g71k0Anny5I0+zg=",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": ""
+  },
   {
     "name": "NICK MUSIC",
     "ico": "https://ztv.com.ar/Img2/nickmusic.png",
