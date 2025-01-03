@@ -448,38 +448,6 @@
     "name": "📡 CANALES DEPORTIVOS ⚽",
     "mode": false,
     "lista": [
-      {
-        "name": "dazn  f1",
-        "ico": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png",
-        "uri": "d8lHy1lkeviBYox2HEZIKtuUKH2Zze8J1rWYhnhdmp7yPgjIuW7Vlmwd2I0nXBzt+gD2KIY9GT2tDEW6OrajKw5jXj8wVlvsT+RnZP7iHmSunyP8nCtdYeP9QdE4cgjxloDL0hh9H++bSpyLqq6KbUGeUvfF2YGDwzoR2Ka7dtg=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "KHEjVAU/xrrJiZDOA6JIocm+dNYvfW9hQ0zA5GeWK2Bvswh6nTBSNKt3yfAzBZrt2pm74z/qUZjJuMEz+4N+c1nLnuBxCvK80+RwWaSwlv6yZov/CvL9xjQW8rAj1jl5/Df77aIJ5SbZ36it9K+iuqg1qM1UHZevPCUs9rRCDr6AuP7dfrxNxBvg88n19oVnix7LqMwT75My6fBSW+IXNg==",
-                "origin": "https://web.app.flow.com.ar",
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },	
-      {
-        "name": "fs premium",
-        "ico": "https://ztv.com.ar/imagex/fs.png",
-        "uri": "gU+wy/75hkB5WB093QHo4xRFzGh41KTZsF1VaBta2CdIeD407LeYpgVewc1DQrAaHDtnSSyocU19xoZXczpSWW2q0WJL+U6cnBLIyZCGTeIUmS3YyeTA48cybqMHKXMPHylPEJosuD7X3Qn2gcSaqar6mUK81w+oKqofk9/GSYA=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "KHEjVAU/xrrJiZDOA6JIocm+dNYvfW9hQ0zA5GeWK2Bvswh6nTBSNKt3yfAzBZrt2pm74z/qUZjJuMEz+4N+c/n3Uu4+gxSDTXJ/BOrbm8B+SMalxtMVeeMnuuSMe0NrJBkrfKasNq1yT8VoAuTkLqAYypmM/03KvGAb8eTp4IqqN6SsQQVuxEoxkpkb0UbqVnKa0ATs2MHg9yy/dDfSow=="
-      },  
-      {
-        "name": "bein sports xtra ñ",
-        "ico": "https://image.xumo.com/v1/channels/channel/99991785/600x600.webp?type=color_onBlack",
-        "uri": "IDl2dqIOkRmxZJtwObbVOgybEummcoHyuEzP6rxqt3yq3mvnedImTxOLM0WgnJDETvL6pnf7PSWjnQ/HiyhNx+BEZfYSFzwNVORdR1/OUXWMm53TYeanwgWnrbazT326OHXX7y8UFp7O5y3DzYfAPQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-  {
-    "name": "claro sports",
-    "ico": "https://ztv.com.ar/Img2/claro_sports.png",
-    "uri": "0oxNmRKPua+uxw8G8Ymvdv1us0c4UCwXp0kQD5+MqfqDMDbOx8WBEsLFfXhfDUJKvA0q3Hmr+xSySNXnSCytoOcXTBUf+ciB0OjP+kaOrDzmClImqEiNO4nDRat3pWMj",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "JykWahBk/YZpwXk5dC6hGTFrZd8hUK58CwjCHgqQq7PXA6IYTI+DAlp+0ayb2+1W",
-    "origin": null,
-    "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
-  },
   {
     "name": "espn premium ar",
     "ico": "https://ztv.com.ar/Img2/espnpremium.png",
@@ -507,6 +475,38 @@
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
+  {
+    "name": "dazn  f1",
+    "ico": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png",
+    "uri": "d8lHy1lkeviBYox2HEZIKtuUKH2Zze8J1rWYhnhdmp7yPgjIuW7Vlmwd2I0nXBzt+gD2KIY9GT2tDEW6OrajKw5jXj8wVlvsT+RnZP7iHmSunyP8nCtdYeP9QdE4cgjxloDL0hh9H++bSpyLqq6KbUGeUvfF2YGDwzoR2Ka7dtg=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "KHEjVAU/xrrJiZDOA6JIocm+dNYvfW9hQ0zA5GeWK2Bvswh6nTBSNKt3yfAzBZrt2pm74z/qUZjJuMEz+4N+c1nLnuBxCvK80+RwWaSwlv6yZov/CvL9xjQW8rAj1jl5/Df77aIJ5SbZ36it9K+iuqg1qM1UHZevPCUs9rRCDr6AuP7dfrxNxBvg88n19oVnix7LqMwT75My6fBSW+IXNg==",
+            "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },	
+  {
+    "name": "fs premium",
+    "ico": "https://ztv.com.ar/imagex/fs.png",
+    "uri": "gU+wy/75hkB5WB093QHo4xRFzGh41KTZsF1VaBta2CdIeD407LeYpgVewc1DQrAaHDtnSSyocU19xoZXczpSWW2q0WJL+U6cnBLIyZCGTeIUmS3YyeTA48cybqMHKXMPHylPEJosuD7X3Qn2gcSaqar6mUK81w+oKqofk9/GSYA=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "KHEjVAU/xrrJiZDOA6JIocm+dNYvfW9hQ0zA5GeWK2Bvswh6nTBSNKt3yfAzBZrt2pm74z/qUZjJuMEz+4N+c/n3Uu4+gxSDTXJ/BOrbm8B+SMalxtMVeeMnuuSMe0NrJBkrfKasNq1yT8VoAuTkLqAYypmM/03KvGAb8eTp4IqqN6SsQQVuxEoxkpkb0UbqVnKa0ATs2MHg9yy/dDfSow=="
+  },  
+  {
+    "name": "bein sports xtra ñ",
+    "ico": "https://image.xumo.com/v1/channels/channel/99991785/600x600.webp?type=color_onBlack",
+    "uri": "IDl2dqIOkRmxZJtwObbVOgybEummcoHyuEzP6rxqt3yq3mvnedImTxOLM0WgnJDETvL6pnf7PSWjnQ/HiyhNx+BEZfYSFzwNVORdR1/OUXWMm53TYeanwgWnrbazT326OHXX7y8UFp7O5y3DzYfAPQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+{
+"name": "claro sports",
+"ico": "https://ztv.com.ar/Img2/claro_sports.png",
+"uri": "0oxNmRKPua+uxw8G8Ymvdv1us0c4UCwXp0kQD5+MqfqDMDbOx8WBEsLFfXhfDUJKvA0q3Hmr+xSySNXnSCytoOcXTBUf+ciB0OjP+kaOrDzmClImqEiNO4nDRat3pWMj",
+"drm_scheme": "clearkey",
+"drm_license_url": "JykWahBk/YZpwXk5dC6hGTFrZd8hUK58CwjCHgqQq7PXA6IYTI+DAlp+0ayb2+1W",
+"origin": null,
+"user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+},
   {
     "name": "espn",
     "ico": "https://ztv.com.ar/Img2/espn.png",
