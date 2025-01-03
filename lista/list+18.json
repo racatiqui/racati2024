@@ -1,6 +1,6 @@
 [
   {
-    "name": "📡 CANALES ARGENTINA 🇦🇷",
+    "name": "📡 🅲🅰🅽🅰🅻🅴🆂 🅰🆁🅶🅴🅽🆃🅸🅽🅰 🇦🇷",
     "mode": false,
     "lista": [	    
   {
@@ -407,25 +407,19 @@
   }
     ]
   },
-      {
-    "name": "📡 GRAN HERMANO EN VIVO 🎥",
-    "mode": false,
-    "lista": [
   {
-    "name": "Gran Hermano",
-    "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
-    "uri": "lq9TfXn4srXzSF+VGScHJFWbegiBK3nJ0q589X0Wb/WmFqvtHAPL99xaN/mTb1T5+NXd1dlxm1uInTFJNBChfdgoYuD+frVJJYgJG8pgfZg=",
-    "drm_scheme": "",
-    "drm_license_url": "",
-    "origin": null,
-    "user_agent": null
-  }
-    ]
-  },
-      {
     "name": "📡 EVENTOS EN VIVO ⚽ 🏎️ 🏀",
     "mode": false,
     "lista": [
+  {
+        "name": "Gran Hermano",
+        "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
+        "uri": "lq9TfXn4srXzSF+VGScHJFWbegiBK3nJ0q589X0Wb/WmFqvtHAPL99xaN/mTb1T5+NXd1dlxm1uInTFJNBChfdgoYuD+frVJJYgJG8pgfZg=",
+        "drm_scheme": "",
+        "drm_license_url": "",
+        "origin": null,
+        "user_agent": null
+  },
   {
     "name": "eventos ZTV",
     "ico": "https://ztv.com.ar/Img2/EVENTOS.png",
