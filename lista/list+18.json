@@ -411,64 +411,10 @@
     "name": "📡 GRAN HERMANO EN VIVO 🎥",
     "mode": false,
     "lista": [
-   {
+  {
     "name": "Gran Hermano",
     "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
-    "uri": "Hch6abbswTxRarmMJ0EKh/4JwcH1bky19Hcf03fMwPXL4+N2pauLKFqKuO4rg6v0NsI246HlaCOhHh3V6+admie97W/w+V2P3hXWWjk5vJg=",
-    "drm_scheme": "",
-    "drm_license_url": "",
-    "origin": null,
-    "user_agent": null
-  },
-  {
-    "name": "Gran Hermano 1",
-    "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
-    "uri": "Hch6abbswTxRarmMJ0EKh/4JwcH1bky19Hcf03fMwPXL4+N2pauLKFqKuO4rg6v0NsI246HlaCOhHh3V6+admt/aiE6fJoz5TNZQ5F3WlRs=",
-    "drm_scheme": "",
-    "drm_license_url": "",
-    "origin": null,
-    "user_agent": null
-  },
-  {
-    "name": "Gran Hermano 2",
-    "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
-    "uri": "Hch6abbswTxRarmMJ0EKh/4JwcH1bky19Hcf03fMwPXL4+N2pauLKFqKuO4rg6v0NsI246HlaCOhHh3V6+admmiXQGGAXqOfWfM2fTkxBlc=",
-    "drm_scheme": "",
-    "drm_license_url": "",
-    "origin": null,
-    "user_agent": null
-  },
-  {
-    "name": "Gran Hermano 3",
-    "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
-    "uri": "Hch6abbswTxRarmMJ0EKh/4JwcH1bky19Hcf03fMwPXL4+N2pauLKFqKuO4rg6v0NsI246HlaCOhHh3V6+admvO2L6VIEpWcc6Z/e5kyhIE=",
-    "drm_scheme": "",
-    "drm_license_url": "",
-    "origin": null,
-    "user_agent": null
-  },
-  {
-    "name": "Gran Hermano 4",
-    "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
-    "uri": "Hch6abbswTxRarmMJ0EKh/4JwcH1bky19Hcf03fMwPXL4+N2pauLKFqKuO4rg6v0NsI246HlaCOhHh3V6+admqTfBnEXv5hxfXTSWR48g/c=",
-    "drm_scheme": "",
-    "drm_license_url": "",
-    "origin": null,
-    "user_agent": null
-  },
-  {
-    "name": "Gran Hermano 5",
-    "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
-    "uri": "Hch6abbswTxRarmMJ0EKh/4JwcH1bky19Hcf03fMwPXL4+N2pauLKFqKuO4rg6v0NsI246HlaCOhHh3V6+admjp5uf1ceLfo6jL1FLW5ZGM=",
-    "drm_scheme": "",
-    "drm_license_url": "",
-    "origin": null,
-    "user_agent": null
-  },
-  {
-    "name": "Gran Hermano 6",
-    "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
-    "uri": "Hch6abbswTxRarmMJ0EKh/4JwcH1bky19Hcf03fMwPXL4+N2pauLKFqKuO4rg6v0NsI246HlaCOhHh3V6+admqvjOHUAuG71tOkxxNeLNV0=",
+    "uri": "lq9TfXn4srXzSF+VGScHJFWbegiBK3nJ0q589X0Wb/WmFqvtHAPL99xaN/mTb1T5+NXd1dlxm1uInTFJNBChfdgoYuD+frVJJYgJG8pgfZg=",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -2018,7 +1964,7 @@
    {
     "name": "BILLY Y MANDY",
     "ico": "https://ztv.com.ar/Img2/billyymandy.png",
-    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oF/WWMpEFM0IIek0elhkcFX5GuiwsM99UCquZbzrAjQscQNBeoKYz6cvrcLMgByp5Ju+71420a1lAnJAdZbfBOv0XbQPcv9yzcm486dMpIm5w==",
+    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oFY6+OcZ2hXIY8UffYThCBi7AcMubfjAXUQPo4sLxnl1qnd3Sgcq9N2UKBBUBG+bSijUyVXvciFHNQ/aOc589T6cgi0KvUzcFpM1PqzZLqLvw==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -2027,7 +1973,7 @@
   {
     "name": "ED, EDD Y EDDY",
     "ico": "https://ztv.com.ar/Img2/edyedy.png",
-    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oF/WWMpEFM0IIek0elhkcFX5GuiwsM99UCquZbzrAjQscQNBeoKYz6cvrcLMgByp5Ju+71420a1lAnJAdZbfBOvxBE39uMMhV7jOfnzczXpqg==",
+    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oFY6+OcZ2hXIY8UffYThCBi7AcMubfjAXUQPo4sLxnl1qnd3Sgcq9N2UKBBUBG+bSijUyVXvciFHNQ/aOc589T6MasMtCpqHnOQulOtWFaO9g==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -2036,7 +1982,7 @@
   {
     "name": "LOS CHICOS DEL BARRIO",
     "ico": "https://ztv.com.ar/Img2/loschicosdelbarrio.png",
-    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oF/WWMpEFM0IIek0elhkcFX5GuiwsM99UCquZbzrAjQscQNBeoKYz6cvrcLMgByp5Ju+71420a1lAnJAdZbfBOvWtegbcPih0s6h2OrWH3VFw==",
+    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oFY6+OcZ2hXIY8UffYThCBi7AcMubfjAXUQPo4sLxnl1qnd3Sgcq9N2UKBBUBG+bSijUyVXvciFHNQ/aOc589T6f2KFGL4e/3eO1cbV7fAu9Q==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -2045,7 +1991,7 @@
   {
     "name": "JHONNY BRAVO",
     "ico": "https://ztv.com.ar/Img2/jhonny_bravo.png",
-    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oF/WWMpEFM0IIek0elhkcFX5GuiwsM99UCquZbzrAjQscQNBeoKYz6cvrcLMgByp5Ju+71420a1lAnJAdZbfBOvlDHLnFrcymbtoXWSKR9HmQ==",
+    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oFY6+OcZ2hXIY8UffYThCBi7AcMubfjAXUQPo4sLxnl1qnd3Sgcq9N2UKBBUBG+bSijUyVXvciFHNQ/aOc589T6CFoLQjUi4UukiO4TFburbg==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -2054,7 +2000,7 @@
   {
     "name": "MR. BEAN",
     "ico": "https://ztv.com.ar/Img2/mr_bean.png",
-    "uri": "9tYmbO6I+owAQ7msURD4YsOUs64o9q0QTtF0wnUhQHfu2hyG7UxSJD7LBBQQWwFPmKiLbjG2TO/EldboXnkUSDhsZJx5RVWojEy5UHN9RqCAaamTJTpaQeAAlpfZgb+7E4xiG5L5/VG/+RpXI4mZYQ==",
+    "uri": "9tYmbO6I+owAQ7msURD4YsOUs64o9q0QTtF0wnUhQHfhdOd4MTaFsuyvCNX5gL1Wk5drE/rnfH9lcqYMu1SQhQBrWgIYNKvrWufC6kcJete86n5YRTw9UZsEBljsuic9nVokU4wJ+1qwNJx7flKYqg==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -2063,7 +2009,7 @@
   {
     "name": "LOS TRES CHIFLADOS",
     "ico": "https://ztv.com.ar/Img2/los_tres_chiflados.png",
-    "uri": "9tYmbO6I+owAQ7msURD4YsOUs64o9q0QTtF0wnUhQHfu2hyG7UxSJD7LBBQQWwFPmKiLbjG2TO/EldboXnkUSDhsZJx5RVWojEy5UHN9RqCAaamTJTpaQeAAlpfZgb+7io6X/HzKskKm5DFmIrbUZQ==",
+    "uri": "9tYmbO6I+owAQ7msURD4YsOUs64o9q0QTtF0wnUhQHfhdOd4MTaFsuyvCNX5gL1Wk5drE/rnfH9lcqYMu1SQhQBrWgIYNKvrWufC6kcJete86n5YRTw9UZsEBljsuic9LP94Op58wzWMSEkrQMXj7A==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -2072,7 +2018,7 @@
   {
     "name": "EL CHAVO DEL OCHO",
     "ico": "https://x.playerlatino.live/elchavodel8.png",
-    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oF/WWMpEFM0IIek0elhkcFX5GuiwsM99UCquZbzrAjQscQNBeoKYz6cvrcLMgByp5Ju+71420a1lAnJAdZbfBOv8vTzGJNfpY1UYq4jUutYcA==",
+    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oFY6+OcZ2hXIY8UffYThCBi7AcMubfjAXUQPo4sLxnl1qnd3Sgcq9N2UKBBUBG+bSijUyVXvciFHNQ/aOc589T6pJK+NbkFY8KXBvIkWKZytQ==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -2081,7 +2027,7 @@
   {
     "name": "DRAGON BALL",
     "ico": "https://x.playerlatino.live/dragonball.png",
-    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oF/WWMpEFM0IIek0elhkcFX5GuiwsM99UCquZbzrAjQscQNBeoKYz6cvrcLMgByp5Ju+71420a1lAnJAdZbfBOvyTP5/vJ58HV5B5TQF9kd/Q==",
+    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oFY6+OcZ2hXIY8UffYThCBi7AcMubfjAXUQPo4sLxnl1qnd3Sgcq9N2UKBBUBG+bSijUyVXvciFHNQ/aOc589T683pCTNcBnP/aH/s+rX/hzg==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -2090,7 +2036,7 @@
   {
     "name": "DRAGON BALL Z",
     "ico": "https://x.playerlatino.live/dragonballz.png",
-    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oF/WWMpEFM0IIek0elhkcFX5GuiwsM99UCquZbzrAjQscQNBeoKYz6cvrcLMgByp5Ju+71420a1lAnJAdZbfBOv75o+n17vx+BO/TUoOEwePQ==",
+    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oFY6+OcZ2hXIY8UffYThCBi7AcMubfjAXUQPo4sLxnl1qnd3Sgcq9N2UKBBUBG+bSijUyVXvciFHNQ/aOc589T6k+MlaRDX8bZt2CspAeysRw==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -2099,7 +2045,7 @@
   {
     "name": "DRAGON BALL GT",
     "ico": "https://x.playerlatino.live/dragonballgt.png",
-    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oF/WWMpEFM0IIek0elhkcFX5GuiwsM99UCquZbzrAjQscQNBeoKYz6cvrcLMgByp5Ju+71420a1lAnJAdZbfBOvxIHnVcC7Gb7WMSPP3R+LYw==",
+    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oFY6+OcZ2hXIY8UffYThCBi7AcMubfjAXUQPo4sLxnl1qnd3Sgcq9N2UKBBUBG+bSijUyVXvciFHNQ/aOc589T6dGMHrymmOifNQswfLq5fug==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -2108,7 +2054,7 @@
   {
     "name": "DRAGON BALL SUPER",
     "ico": "https://x.playerlatino.live/dragonballsuper.png",
-    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oF/WWMpEFM0IIek0elhkcFX5GuiwsM99UCquZbzrAjQscQNBeoKYz6cvrcLMgByp5Ju+71420a1lAnJAdZbfBOvfGlrnnBulR2CUi5PJaP8SQ==",
+    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oFY6+OcZ2hXIY8UffYThCBi7AcMubfjAXUQPo4sLxnl1qnd3Sgcq9N2UKBBUBG+bSijUyVXvciFHNQ/aOc589T6vNoTentEwdPA78IGOQ1uSQ==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -2117,7 +2063,7 @@
   {
     "name": "LOS SIMPSON",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png",
-    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oF/WWMpEFM0IIek0elhkcFX5GuiwsM99UCquZbzrAjQscQNBeoKYz6cvrcLMgByp5Ju+71420a1lAnJAdZbfBOvJKxPx+3bMNG2imS30Wl7+w==",
+    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oFY6+OcZ2hXIY8UffYThCBi7AcMubfjAXUQPo4sLxnl1qnd3Sgcq9N2UKBBUBG+bSijUyVXvciFHNQ/aOc589T6ClkHbMlKXLtlfOQ3Ln49Ew==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -2126,7 +2072,7 @@
   {
     "name": "ALF",
     "ico": "https://x.playerlatino.live/alf.png",
-    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oF/WWMpEFM0IIek0elhkcFX5GuiwsM99UCquZbzrAjQscQNBeoKYz6cvrcLMgByp5Ju+71420a1lAnJAdZbfBOvf6AnliW+Q2KqzfV4b4od8A==",
+    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oFY6+OcZ2hXIY8UffYThCBi7AcMubfjAXUQPo4sLxnl1qnd3Sgcq9N2UKBBUBG+bSijUyVXvciFHNQ/aOc589T6ng1Cr2yZxRiBvjesZv9GHg==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -2135,7 +2081,7 @@
   {
     "name": "BOB ESPONJA",
     "ico": "https://x.playerlatino.live/bobesponja.png",
-    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oF/WWMpEFM0IIek0elhkcFX5GuiwsM99UCquZbzrAjQscQNBeoKYz6cvrcLMgByp5Ju+71420a1lAnJAdZbfBOviCN0dvQBvP+gL56E62gnXA==",
+    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oFY6+OcZ2hXIY8UffYThCBi7AcMubfjAXUQPo4sLxnl1qnd3Sgcq9N2UKBBUBG+bSijUyVXvciFHNQ/aOc589T6N+hscfB4QyW9OEtP4mERYg==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -2144,7 +2090,7 @@
   {
     "name": "TOM Y JERRY",
     "ico": "https://ztv.com.ar/Img2/tom_and_jerry.png",
-    "uri": "9tYmbO6I+owAQ7msURD4YsOUs64o9q0QTtF0wnUhQHfu2hyG7UxSJD7LBBQQWwFPmKiLbjG2TO/EldboXnkUSDhsZJx5RVWojEy5UHN9RqCAaamTJTpaQeAAlpfZgb+7OlHzii6Oqcxc8k0lrTwZQA==",
+    "uri": "9tYmbO6I+owAQ7msURD4YsOUs64o9q0QTtF0wnUhQHfhdOd4MTaFsuyvCNX5gL1Wk5drE/rnfH9lcqYMu1SQhQBrWgIYNKvrWufC6kcJete86n5YRTw9UZsEBljsuic9qHkoac/tbKe4ylENmVjiZQ==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -2153,7 +2099,7 @@
   {
     "name": "CORAJE EL PERRO COBARDE",
     "ico": "https://x.playerlatino.live/coraje.png",
-    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oF/WWMpEFM0IIek0elhkcFX5GuiwsM99UCquZbzrAjQscQNBeoKYz6cvrcLMgByp5Ju+71420a1lAnJAdZbfBOvABL2Qa6UHBYPOSQ4Oi5ByA==",
+    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oFY6+OcZ2hXIY8UffYThCBi7AcMubfjAXUQPo4sLxnl1qnd3Sgcq9N2UKBBUBG+bSijUyVXvciFHNQ/aOc589T656nRpXnjdJZt+yGQKdbVXA==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
