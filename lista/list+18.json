@@ -1961,10 +1961,109 @@
     "origin": null,
     "user_agent": null
   },    
-   {
+ {
+    "name": "LOONEY TUNES",
+    "ico": "https://br.maxvps.top/images/looney_tunes.png",
+    "uri": "nKgTWtbJrV7F6kDipKxVmn69bNnv8cGe7dQhgrf1IYfeIZ10H6CG4zT9Un6xzps2EljmFd7GerWDU4VKanIT4isjoOggb9N4DslI/+Lqa4DvjAeytDIa+AKOWg3VRSlV5wpn+PBqKAhVp8e3wr8tPw==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "LA PANTERA ROSA",
+    "ico": "https://br.maxvps.top/images/la_pantera_rosa.png",
+    "uri": "nKgTWtbJrV7F6kDipKxVmn69bNnv8cGe7dQhgrf1IYfeIZ10H6CG4zT9Un6xzps2EljmFd7GerWDU4VKanIT4isjoOggb9N4DslI/+Lqa4DvjAeytDIa+AKOWg3VRSlVwa/Yk2zkWmjJbAMJV2CaSA==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "Los pitufos",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_Los_Pitufos_%282019%29.png",
+    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oF/WWMpEFM0IIek0elhkcFX5GuiwsM99UCquZbzrAjQscQNBeoKYz6cvrcLMgByp5Ju+71420a1lAnJAdZbfBOvYQMJGKNkiFsAZj1v+eMMmA==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "Rick and morty",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Rick_and_Morty.svg",
+    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oF/WWMpEFM0IIek0elhkcFX5GuiwsM99UCquZbzrAjQscQNBeoKYz6cvrcLMgByp5Ju+71420a1lAnJAdZbfBOvyjU+atg9RoHSdL/D0tEWQA==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "Scooby doo",
+    "ico": "https://static.tvtropes.org/pmwiki/pub/images/scooby_doo_9.png",
+    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oF/WWMpEFM0IIek0elhkcFX5GuiwsM99UCquZbzrAjQscQNBeoKYz6cvrcLMgByp5Ju+71420a1lAnJAdZbfBOvEF9QkHU+UVLQhyLUDmJKpA==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "HEY ARNOLD",
+    "ico": "https://br.maxvps.top/images/hey_arnold.png",
+    "uri": "nKgTWtbJrV7F6kDipKxVmn69bNnv8cGe7dQhgrf1IYfeIZ10H6CG4zT9Un6xzps2EljmFd7GerWDU4VKanIT4isjoOggb9N4DslI/+Lqa4DvjAeytDIa+AKOWg3VRSlVnwQZ1TIHvIzYkpaYEQvM7g==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "GARFIELD",
+    "ico": "https://br.maxvps.top/images/garfield.png",
+    "uri": "nKgTWtbJrV7F6kDipKxVmn69bNnv8cGe7dQhgrf1IYfeIZ10H6CG4zT9Un6xzps2EljmFd7GerWDU4VKanIT4isjoOggb9N4DslI/+Lqa4DvjAeytDIa+AKOWg3VRSlVLlYYjsf6P8Oo20GxdnbbFw==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "EL PAJARO LOCO",
+    "ico": "https://br.maxvps.top/images/el_pajaro_loco.png",
+    "uri": "nKgTWtbJrV7F6kDipKxVmn69bNnv8cGe7dQhgrf1IYfeIZ10H6CG4zT9Un6xzps2EljmFd7GerWDU4VKanIT4isjoOggb9N4DslI/+Lqa4DvjAeytDIa+AKOWg3VRSlVjur56RS1md1DSf2xTe0oMA==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "LOS PADRINOS MAGICOS",
+    "ico": "https://br.maxvps.top/images/los_padrinos_magicos.png",
+    "uri": "0Z5c6VNlmQBF+6dytVv3JROYWxNuHv6ZZzs6J/3rCgz13C50ke5REu2/+hqjiVJHPi1gRB6vSnRkn09kBpnYhhEb+E/t1I1oy19L7qdWrztv370cZHZh32YkpDqDe+CRW8ZXTT0MhJAl4azKMAassMzgfeZQiVOePwfb8jbq8RmIu45tHKQDRghqh1mlzrsYWfVWaknfFoZERDUD2RBw92ZvQkwqqTIex6XZDtlWkfqZl5OYf2aUuq3wmD0CxL7gKa6rugbDZd8vHsCEazLxYktrkPeH2KbI4K7Q5/pYh5xbza9lH3Uji1FrRlLuzIwgmh4L7I9VPZvCI1YmKymKbDTQbgpAKeQSAE9fEE1gnP4=",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "BARNEY",
+    "ico": "https://br.maxvps.top/images/barney.png",
+    "uri": "0Z5c6VNlmQBF+6dytVv3JROYWxNuHv6ZZzs6J/3rCgz13C50ke5REu2/+hqjiVJH/531UyZ4UFMYed4GoC7IzXRAxGHXVGIevZtObti5WG3sOpvKiSqHj8ZRR6bS1QLyCSwSwsiky8y/bzTkp+EznBG1wMOnJYSTc5WYh7NyAyDoEbfPnw54nt03BhPXilK3YDmQk74suM5D+aWi81GBbn/ZEdOTJ3a2paC/hmWKWOtUFSO/VeSkeosf41uHeS7KMNnGfqEKMck8cDjgM4O8OTBObJFmOhXPtKDQlWIJY44XckA+VNF3f/wtimeDTJPqoU30jxsMsxAOQN5j8A6H3ZkhfeCrHyxgffxKAF5SlRc=",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "DORA LA EXPLORADORA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Dora_la_exploradora.png",
+    "uri": "0Z5c6VNlmQBF+6dytVv3JROYWxNuHv6ZZzs6J/3rCgz13C50ke5REu2/+hqjiVJHshiLdJGHl446TTf3YmzT/gPtB4ihbHymH8cTYYq6KhLgoR3PuMZPXXlgqT9jxfFsQpVUgrKqjBU18S/l+Oyw360Dv1SKkq9tEnJj6iXcVS1x2SFFP/VyQSwNVFv0C/RF++qxL4mdHw+f4+s93RcfLemckpQrwVGoWuXqTYVfW8v3RwkrjcU1tWk4xlCrqzZN+8trwCe3Kmvy/rPCW7zelTM/TqGomTzHveHRklihKiOtbYXpYKAzUTbA++vAdcHRJn6nYGiWJ4Xg1D5TJP6lR5vgqnY3i3vHpHMeOK9Vqao=",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
     "name": "BILLY Y MANDY",
-    "ico": "https://ztv.com.ar/Img2/billyymandy.png",
-    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oFY6+OcZ2hXIY8UffYThCBi7AcMubfjAXUQPo4sLxnl1qnd3Sgcq9N2UKBBUBG+bSijUyVXvciFHNQ/aOc589T6cgi0KvUzcFpM1PqzZLqLvw==",
+    "ico": "https://br.maxvps.top/images/billyymandy.png",
+    "uri": "9tYmbO6I+owAQ7msURD4YsOUs64o9q0QTtF0wnUhQHdRSpp7pVci3JdYrGq+A8u2ZQ/6v/TH9yuzEPpCcuEQaELqbPuQuDUoD1YjiSkS+zKo9Lky3MVGYem1LPU3NESmPSzSPg6vq6L7gE4oPuApjQ==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -1972,8 +2071,8 @@
   },
   {
     "name": "ED, EDD Y EDDY",
-    "ico": "https://ztv.com.ar/Img2/edyedy.png",
-    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oFY6+OcZ2hXIY8UffYThCBi7AcMubfjAXUQPo4sLxnl1qnd3Sgcq9N2UKBBUBG+bSijUyVXvciFHNQ/aOc589T6MasMtCpqHnOQulOtWFaO9g==",
+    "ico": "https://br.maxvps.top/images/edyedy.png",
+    "uri": "9tYmbO6I+owAQ7msURD4YsOUs64o9q0QTtF0wnUhQHdRSpp7pVci3JdYrGq+A8u2ZQ/6v/TH9yuzEPpCcuEQaELqbPuQuDUoD1YjiSkS+zKo9Lky3MVGYem1LPU3NESmeYWiUjEC0fXZfQ0FPINslw==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -1981,8 +2080,8 @@
   },
   {
     "name": "LOS CHICOS DEL BARRIO",
-    "ico": "https://ztv.com.ar/Img2/loschicosdelbarrio.png",
-    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oFY6+OcZ2hXIY8UffYThCBi7AcMubfjAXUQPo4sLxnl1qnd3Sgcq9N2UKBBUBG+bSijUyVXvciFHNQ/aOc589T6f2KFGL4e/3eO1cbV7fAu9Q==",
+    "ico": "https://br.maxvps.top/images/loschicosdelbarrio.png",
+    "uri": "9tYmbO6I+owAQ7msURD4YsOUs64o9q0QTtF0wnUhQHdRSpp7pVci3JdYrGq+A8u2ZQ/6v/TH9yuzEPpCcuEQaELqbPuQuDUoD1YjiSkS+zKo9Lky3MVGYem1LPU3NESm9AW4ppwMIV+IU4BSwgN6mQ==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -1990,8 +2089,8 @@
   },
   {
     "name": "JHONNY BRAVO",
-    "ico": "https://ztv.com.ar/Img2/jhonny_bravo.png",
-    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oFY6+OcZ2hXIY8UffYThCBi7AcMubfjAXUQPo4sLxnl1qnd3Sgcq9N2UKBBUBG+bSijUyVXvciFHNQ/aOc589T6CFoLQjUi4UukiO4TFburbg==",
+    "ico": "https://br.maxvps.top/images/jhonny_bravo.png",
+    "uri": "9tYmbO6I+owAQ7msURD4YsOUs64o9q0QTtF0wnUhQHdRSpp7pVci3JdYrGq+A8u2ZQ/6v/TH9yuzEPpCcuEQaELqbPuQuDUoD1YjiSkS+zKo9Lky3MVGYem1LPU3NESmTdAocCCXp9jmw5pVYwIdug==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -1999,8 +2098,8 @@
   },
   {
     "name": "MR. BEAN",
-    "ico": "https://ztv.com.ar/Img2/mr_bean.png",
-    "uri": "9tYmbO6I+owAQ7msURD4YsOUs64o9q0QTtF0wnUhQHfhdOd4MTaFsuyvCNX5gL1Wk5drE/rnfH9lcqYMu1SQhQBrWgIYNKvrWufC6kcJete86n5YRTw9UZsEBljsuic9nVokU4wJ+1qwNJx7flKYqg==",
+    "ico": "https://br.maxvps.top/images/mr_bean.png",
+    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oGRasmFDToJtNGZB2pvhgIulwZsnfMqez5/8b2HCN7yifSJBLFvyMxCIJNp6fIvROjtczYfj0FHqt5aoCMchrizOsaFpUDLAyo+T20f3haNQA==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -2008,8 +2107,8 @@
   },
   {
     "name": "LOS TRES CHIFLADOS",
-    "ico": "https://ztv.com.ar/Img2/los_tres_chiflados.png",
-    "uri": "9tYmbO6I+owAQ7msURD4YsOUs64o9q0QTtF0wnUhQHfhdOd4MTaFsuyvCNX5gL1Wk5drE/rnfH9lcqYMu1SQhQBrWgIYNKvrWufC6kcJete86n5YRTw9UZsEBljsuic9LP94Op58wzWMSEkrQMXj7A==",
+    "ico": "https://br.maxvps.top/images/los_tres_chiflados.png",
+    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oGRasmFDToJtNGZB2pvhgIulwZsnfMqez5/8b2HCN7yifSJBLFvyMxCIJNp6fIvROjtczYfj0FHqt5aoCMchriz2M550WEJzbHfVUMgXkOecQ==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -2018,7 +2117,7 @@
   {
     "name": "EL CHAVO DEL OCHO",
     "ico": "https://x.playerlatino.live/elchavodel8.png",
-    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oFY6+OcZ2hXIY8UffYThCBi7AcMubfjAXUQPo4sLxnl1qnd3Sgcq9N2UKBBUBG+bSijUyVXvciFHNQ/aOc589T6pJK+NbkFY8KXBvIkWKZytQ==",
+    "uri": "9tYmbO6I+owAQ7msURD4YsOUs64o9q0QTtF0wnUhQHdRSpp7pVci3JdYrGq+A8u2ZQ/6v/TH9yuzEPpCcuEQaELqbPuQuDUoD1YjiSkS+zKo9Lky3MVGYem1LPU3NESmqVBKr18b/11Z3Stj1WaC0w==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -2027,7 +2126,7 @@
   {
     "name": "DRAGON BALL",
     "ico": "https://x.playerlatino.live/dragonball.png",
-    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oFY6+OcZ2hXIY8UffYThCBi7AcMubfjAXUQPo4sLxnl1qnd3Sgcq9N2UKBBUBG+bSijUyVXvciFHNQ/aOc589T683pCTNcBnP/aH/s+rX/hzg==",
+    "uri": "9tYmbO6I+owAQ7msURD4YsOUs64o9q0QTtF0wnUhQHdRSpp7pVci3JdYrGq+A8u2ZQ/6v/TH9yuzEPpCcuEQaELqbPuQuDUoD1YjiSkS+zKo9Lky3MVGYem1LPU3NESmTVG6HFBhbwvUBthAq801Zg==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -2036,7 +2135,7 @@
   {
     "name": "DRAGON BALL Z",
     "ico": "https://x.playerlatino.live/dragonballz.png",
-    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oFY6+OcZ2hXIY8UffYThCBi7AcMubfjAXUQPo4sLxnl1qnd3Sgcq9N2UKBBUBG+bSijUyVXvciFHNQ/aOc589T6k+MlaRDX8bZt2CspAeysRw==",
+    "uri": "9tYmbO6I+owAQ7msURD4YsOUs64o9q0QTtF0wnUhQHdRSpp7pVci3JdYrGq+A8u2ZQ/6v/TH9yuzEPpCcuEQaELqbPuQuDUoD1YjiSkS+zKo9Lky3MVGYem1LPU3NESmBjZnCldMh6fg2ThwfUNxQA==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -2045,7 +2144,7 @@
   {
     "name": "DRAGON BALL GT",
     "ico": "https://x.playerlatino.live/dragonballgt.png",
-    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oFY6+OcZ2hXIY8UffYThCBi7AcMubfjAXUQPo4sLxnl1qnd3Sgcq9N2UKBBUBG+bSijUyVXvciFHNQ/aOc589T6dGMHrymmOifNQswfLq5fug==",
+    "uri": "9tYmbO6I+owAQ7msURD4YsOUs64o9q0QTtF0wnUhQHdRSpp7pVci3JdYrGq+A8u2ZQ/6v/TH9yuzEPpCcuEQaELqbPuQuDUoD1YjiSkS+zKo9Lky3MVGYem1LPU3NESmBtr7kE2dKSfXvuDZZPbvCg==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -2054,7 +2153,7 @@
   {
     "name": "DRAGON BALL SUPER",
     "ico": "https://x.playerlatino.live/dragonballsuper.png",
-    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oFY6+OcZ2hXIY8UffYThCBi7AcMubfjAXUQPo4sLxnl1qnd3Sgcq9N2UKBBUBG+bSijUyVXvciFHNQ/aOc589T6vNoTentEwdPA78IGOQ1uSQ==",
+    "uri": "9tYmbO6I+owAQ7msURD4YsOUs64o9q0QTtF0wnUhQHdRSpp7pVci3JdYrGq+A8u2ZQ/6v/TH9yuzEPpCcuEQaELqbPuQuDUoD1YjiSkS+zKo9Lky3MVGYem1LPU3NESmT0g+V8GX2vMB6oQ/QM5XSw==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -2063,7 +2162,7 @@
   {
     "name": "LOS SIMPSON",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png",
-    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oFY6+OcZ2hXIY8UffYThCBi7AcMubfjAXUQPo4sLxnl1qnd3Sgcq9N2UKBBUBG+bSijUyVXvciFHNQ/aOc589T6ClkHbMlKXLtlfOQ3Ln49Ew==",
+    "uri": "9tYmbO6I+owAQ7msURD4YsOUs64o9q0QTtF0wnUhQHdRSpp7pVci3JdYrGq+A8u2ZQ/6v/TH9yuzEPpCcuEQaELqbPuQuDUoD1YjiSkS+zKo9Lky3MVGYem1LPU3NESmZjnPMIqM0ysiPrllfAD7zA==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -2072,7 +2171,7 @@
   {
     "name": "ALF",
     "ico": "https://x.playerlatino.live/alf.png",
-    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oFY6+OcZ2hXIY8UffYThCBi7AcMubfjAXUQPo4sLxnl1qnd3Sgcq9N2UKBBUBG+bSijUyVXvciFHNQ/aOc589T6ng1Cr2yZxRiBvjesZv9GHg==",
+    "uri": "9tYmbO6I+owAQ7msURD4YsOUs64o9q0QTtF0wnUhQHdRSpp7pVci3JdYrGq+A8u2ZQ/6v/TH9yuzEPpCcuEQaELqbPuQuDUoD1YjiSkS+zKo9Lky3MVGYem1LPU3NESm3uz0OHfILPGm1IKPMe2sdg==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -2081,7 +2180,7 @@
   {
     "name": "BOB ESPONJA",
     "ico": "https://x.playerlatino.live/bobesponja.png",
-    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oFY6+OcZ2hXIY8UffYThCBi7AcMubfjAXUQPo4sLxnl1qnd3Sgcq9N2UKBBUBG+bSijUyVXvciFHNQ/aOc589T6N+hscfB4QyW9OEtP4mERYg==",
+    "uri": "9tYmbO6I+owAQ7msURD4YsOUs64o9q0QTtF0wnUhQHdRSpp7pVci3JdYrGq+A8u2ZQ/6v/TH9yuzEPpCcuEQaELqbPuQuDUoD1YjiSkS+zKo9Lky3MVGYem1LPU3NESm5Z/0R0Q2oR6VfT7B+O7MYg==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -2089,8 +2188,8 @@
   },
   {
     "name": "TOM Y JERRY",
-    "ico": "https://ztv.com.ar/Img2/tom_and_jerry.png",
-    "uri": "9tYmbO6I+owAQ7msURD4YsOUs64o9q0QTtF0wnUhQHfhdOd4MTaFsuyvCNX5gL1Wk5drE/rnfH9lcqYMu1SQhQBrWgIYNKvrWufC6kcJete86n5YRTw9UZsEBljsuic9qHkoac/tbKe4ylENmVjiZQ==",
+    "ico": "https://br.maxvps.top/images/tom_and_jerry.png",
+    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oGRasmFDToJtNGZB2pvhgIulwZsnfMqez5/8b2HCN7yifSJBLFvyMxCIJNp6fIvROjtczYfj0FHqt5aoCMchrizDGBiswgBMS8KF9WrNfrvgQ==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
@@ -2099,7 +2198,7 @@
   {
     "name": "CORAJE EL PERRO COBARDE",
     "ico": "https://x.playerlatino.live/coraje.png",
-    "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oFY6+OcZ2hXIY8UffYThCBi7AcMubfjAXUQPo4sLxnl1qnd3Sgcq9N2UKBBUBG+bSijUyVXvciFHNQ/aOc589T656nRpXnjdJZt+yGQKdbVXA==",
+    "uri": "9tYmbO6I+owAQ7msURD4YsOUs64o9q0QTtF0wnUhQHdRSpp7pVci3JdYrGq+A8u2ZQ/6v/TH9yuzEPpCcuEQaELqbPuQuDUoD1YjiSkS+zKo9Lky3MVGYem1LPU3NESmg3CFO1Hy5tqnWQXnjx0I9A==",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
