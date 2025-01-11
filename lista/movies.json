@@ -4,6 +4,41 @@
         "mode": false,
         "lista": [
 		  {
+    "name": "Ad Vitam",
+    "ico": "https://image.tmdb.org/t/p/w300/86X5tsaIMmyE0en6Mt9nuT0xJ51.jpg",
+    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYamUoiVLk7FwiOppoSp7x9F4poD8SN3jch8KJvDgDR/iQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Robot salvaje",
+    "ico": "https://image.tmdb.org/t/p/w300/sDoXpaKZmrzCSJH63zZvQQ9A7VK.jpg",
+    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYZymnGsjzJ15rOI3TaQnr/omSOeHHjCXGhi4Xmc1ZtVwA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Sonrie 2",
+    "ico": "https://image.tmdb.org/t/p/w300/6AWBa4JFtaC4eEs48qjCCJd9BMr.jpg",
+    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYY28HP7qL3AczJUh83eqi+WNvEaFi6EHdhZIHnoh7hIUA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Terrifier 3: Payaso Siniestro",
+    "ico": "https://image.tmdb.org/t/p/w300/iaGfB2itLC8exBvfLUoadS0Q6tP.jpg",
+    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYY81Wd7rtmjF/eI5xK+tNqLnWd9Oss/T7tBvArRpKVTNw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La hora del silencio",
+    "ico": "https://image.tmdb.org/t/p/w300/nOCPjP1kPxfn4PFwbpMlOzedjNW.jpg",
+    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYaMtIqP+4lVZUFFrdJzqigldCwZOWaKC7HSRmIiAGm8F4DqTJY8SLsbr5jjpUE5CRc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+		  {
     "name": "Sonic 3 (2024)",
     "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rqvtiGmHubDElsKxlCWPuCTkwPI.jpg",
     "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYa6BzgpRKHkwcfWNNNLm2Zr6YvclkVmNhplJ7x0rIITpQ==",
@@ -5323,6 +5358,20 @@
       "name": "𝐏𝐄𝐋𝐈𝐂𝐔𝐋𝐀𝐒 𝐓𝐄𝐑𝐑𝐎𝐑-𝐒𝐔𝐒𝐏𝐄𝐍𝐒𝐎-𝐃𝐑𝐀𝐌𝐀",
       "mode": false,
       "lista": [
+	        {
+    "name": "Sonrie 2",
+    "ico": "https://image.tmdb.org/t/p/w300/6AWBa4JFtaC4eEs48qjCCJd9BMr.jpg",
+    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYY28HP7qL3AczJUh83eqi+WNvEaFi6EHdhZIHnoh7hIUA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Terrifier 3: Payaso Siniestro",
+    "ico": "https://image.tmdb.org/t/p/w300/iaGfB2itLC8exBvfLUoadS0Q6tP.jpg",
+    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYY81Wd7rtmjF/eI5xK+tNqLnWd9Oss/T7tBvArRpKVTNw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
 	  {
     "name": "La casa de los despojos (2024)",
     "ico": "https://image.tmdb.org/t/p/original/1th6jd7Dn5Ipftlrk81DmIFAJ5c.jpg",
