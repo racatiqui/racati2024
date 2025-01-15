@@ -427,6 +427,15 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }, 
+	      {
+    "name": "INTERN MIAMI (MLS)",
+    "ico": "https://i.postimg.cc/bwHJK8GQ/mls.png",
+    "uri": "rwCb/LYM/khQCfDSnj+PQnGuyUBlTbi1t6P+ntH2y11BOqQ7ncJ4VoCeQ2YHRj5CbP/u33RFiJhJm52nilhfrA==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
   	 {
     "name": "FLOW MUSIC",
     "ico": "https://ztv.com.ar/Img2/ICO.jpg",
