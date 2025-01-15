@@ -2150,69 +2150,69 @@
         "name": "Inventando a Anna",
         "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/enI3uV2zxMNNYaTArzn3EgG72O0.jpg",
         "temporada": [
-      {
-        "name": "Inventando a Anna S01 E01",
-        "ico": "https://image.tmdb.org/t/p/w300/5rHRdQ3NNAXIyhrXUD09DvbMBwJ.jpg",
-        "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/71335.mkv",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Inventando a Anna S01 E02",
-        "ico": "https://image.tmdb.org/t/p/w300/oliQaN3YpCGQCY5oXCT5nbVAH3c.jpg",
-        "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/71336.mkv",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Inventando a Anna S01 E03",
-        "ico": "https://image.tmdb.org/t/p/w300/zmoNhA7GnDANS4aglWIKSit2huJ.jpg",
-        "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/71337.mkv",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Inventando a Anna S01 E04",
-        "ico": "https://image.tmdb.org/t/p/w300/3GAkb0Yofea8x8glK9oQyvER4TE.jpg",
-        "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/71338.mkv",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Inventando a Anna S01 E05",
-        "ico": "https://image.tmdb.org/t/p/w300/qkjYOVVhUUW9HSnmzHRQd1xwEb3.jpg",
-        "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/71339.mkv",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Inventando a Anna S01 E06",
-        "ico": "https://image.tmdb.org/t/p/w300/zG4j9w0spJKSKEa10ihnp2AZomy.jpg",
-        "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/71340.mkv",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Inventando a Anna S01 E07",
-        "ico": "https://image.tmdb.org/t/p/w300/4wipoC2eNpjEpiCAouLDm4JaNG9.jpg",
-        "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/71341.mkv",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Inventando a Anna S01 E08",
-        "ico": "https://image.tmdb.org/t/p/w300/vfdtjqoCi3MsTgEgu64LdFB9YB5.jpg",
-        "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/71342.mkv",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Inventando a Anna S01 E09",
-        "ico": "https://image.tmdb.org/t/p/w300/i4TbkgOfqFqTsZWQHushNz3x3J8.jpg",
-        "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/71343.mkv",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
+  {
+    "name": "Inventando a Anna S01 E01",
+    "ico": "https://image.tmdb.org/t/p/w300/5rHRdQ3NNAXIyhrXUD09DvbMBwJ.jpg",
+    "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jGXAIQgaAhh3mG+c8RtH/JQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Inventando a Anna S01 E02",
+    "ico": "https://image.tmdb.org/t/p/w300/oliQaN3YpCGQCY5oXCT5nbVAH3c.jpg",
+    "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jSLbVH3zhXNd48nuxhM/7gw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Inventando a Anna S01 E03",
+    "ico": "https://image.tmdb.org/t/p/w300/zmoNhA7GnDANS4aglWIKSit2huJ.jpg",
+    "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jG67IyTv1uksqsr3Ey2sspQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Inventando a Anna S01 E04",
+    "ico": "https://image.tmdb.org/t/p/w300/3GAkb0Yofea8x8glK9oQyvER4TE.jpg",
+    "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j53vWubp2uxKy1w1cmik1+g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Inventando a Anna S01 E05",
+    "ico": "https://image.tmdb.org/t/p/w300/qkjYOVVhUUW9HSnmzHRQd1xwEb3.jpg",
+    "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jprsFG35pe7ZLwupnRrUCxQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Inventando a Anna S01 E06",
+    "ico": "https://image.tmdb.org/t/p/w300/zG4j9w0spJKSKEa10ihnp2AZomy.jpg",
+    "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jUmGu4lPipWuqZSiwLxHk+A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Inventando a Anna S01 E07",
+    "ico": "https://image.tmdb.org/t/p/w300/4wipoC2eNpjEpiCAouLDm4JaNG9.jpg",
+    "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jesrT49zS96VRid1vzUFRwQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Inventando a Anna S01 E08",
+    "ico": "https://image.tmdb.org/t/p/w300/vfdtjqoCi3MsTgEgu64LdFB9YB5.jpg",
+    "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j5dVqfOMDCf88KgVBEK+1zQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Inventando a Anna S01 E09",
+    "ico": "https://image.tmdb.org/t/p/w300/i4TbkgOfqFqTsZWQHushNz3x3J8.jpg",
+    "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+joTLCNpE7gIHdSf/rtbOqKA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
     ]
   },
   {
@@ -2222,30 +2222,30 @@
   {
     "name": "Así nos ven S01 E01",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2cqbOwbPH6W9GWxQ4nvTSxitjd.jpg",
-    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/67159.mkv",
+    "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j0M+2OfHxLgsBjdZO+zMr4A==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Así nos ven S01 E02",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcRzUAqISiHVSsJdQlLYimLFN0W.jpg",
-    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/67160.mkv",
+    "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jQH9v3m2I7CJYXYcrBF7Dxg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Así nos ven S01 E03",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/njxWiBpOklUgffQ8okYDQEcVEJM.jpg",
-    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/67161.mkv",
+    "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j5aAU3A/lkjY+BMfzKcb4sQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Así nos ven S01 E04",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qH6Lm3BB53vkJdnO2GdJusj6rLT.jpg",
-    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/67162.mkv",
+    "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jJNQWxW69HceWiOSw1wgTBQ==",
     "drm_scheme": "",
-    "drm_license_url":""
+    "drm_license_url": ""
   }
 ]
 },
