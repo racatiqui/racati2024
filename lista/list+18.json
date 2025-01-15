@@ -511,6 +511,51 @@
 "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 },
   {
+    "name": "WIN SPORTS",
+    "ico": "https://ztv.com.ar/imagex/wins.png",
+    "uri": "rwCb/LYM/khQCfDSnj+PQnGuyUBlTbi1t6P+ntH2y11BOqQ7ncJ4VoCeQ2YHRj5CaSPD05AtNHGBcO03Uo8e0w==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "LA LIGA TV",
+    "ico": "https://ztv.com.ar/imagex/laliga.png",
+    "uri": "rwCb/LYM/khQCfDSnj+PQnGuyUBlTbi1t6P+ntH2y11BOqQ7ncJ4VoCeQ2YHRj5CYhNOXKHs5OGycVYwAnWGjg==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "LIGA DE CAMPEONES",
+    "ico": "https://ztv.com.ar/imagex/moviliga.png",
+    "uri": "rwCb/LYM/khQCfDSnj+PQnGuyUBlTbi1t6P+ntH2y11BOqQ7ncJ4VoCeQ2YHRj5ClHMeOZCdLhiFl7S12y+9Ww==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "EUROSPORTS 1",
+    "ico": "https://ztv.com.ar/imagex/euro1.png",
+    "uri": "rwCb/LYM/khQCfDSnj+PQnGuyUBlTbi1t6P+ntH2y11BOqQ7ncJ4VoCeQ2YHRj5CUCUARTdILEZ0NODvh8NGqQ==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "EUROSPORTS 2",
+    "ico": "https://ztv.com.ar/imagex/euro2.png",
+    "uri": "rwCb/LYM/khQCfDSnj+PQnGuyUBlTbi1t6P+ntH2y11BOqQ7ncJ4VoCeQ2YHRj5CV7kM9ctK7a7uky90mNvlaA==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
+  },	    
+  {
     "name": "ESPN",
     "ico": "https://ztv.com.ar/Img2/espn.png",
     "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxZe6rrm+B1Iu5adAGZoyVMLbkDUuCScsi0ZWVu2fhnlP0oMsIEiiyJc0JHX8xPHJdNF3G0fql38dobhOsFvFSN",
