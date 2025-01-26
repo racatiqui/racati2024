@@ -4,6 +4,67 @@
     "mode": true,
     "lista": [
       {
+        "name": "Los Tinelli ",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg",
+        "temporada": [  {
+    "name": "Capitulo 01",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg",
+    "uri": "r4tbaDVW7pvrRujsWujHGicJNOttg//Q4MPZ76urQ/GaWxsEx0PmxHaub3gaoNmhw6rnPHgaMIJ5J3V1CIeLSg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 02",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg",
+    "uri": "r4tbaDVW7pvrRujsWujHGicJNOttg//Q4MPZ76urQ/GaWxsEx0PmxHaub3gaoNmhuTjfZqh/Da7z7nLLvLsMBg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 03",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg",
+    "uri": "r4tbaDVW7pvrRujsWujHGicJNOttg//Q4MPZ76urQ/GaWxsEx0PmxHaub3gaoNmhW3GB8J7wNPmEBlhbP1oAmw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 04",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg",
+    "uri": "r4tbaDVW7pvrRujsWujHGicJNOttg//Q4MPZ76urQ/GaWxsEx0PmxHaub3gaoNmhBz5SPpa+0KYquEQ9LcePNw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 05",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg",
+    "uri": "r4tbaDVW7pvrRujsWujHGicJNOttg//Q4MPZ76urQ/GaWxsEx0PmxHaub3gaoNmhrrgpf6YNKxF/obO4jkDhyg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 06",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg",
+    "uri": "r4tbaDVW7pvrRujsWujHGicJNOttg//Q4MPZ76urQ/GaWxsEx0PmxHaub3gaoNmhZiHH09psFgG9CdesWKGiJQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 07",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg",
+    "uri": "r4tbaDVW7pvrRujsWujHGicJNOttg//Q4MPZ76urQ/GaWxsEx0PmxHaub3gaoNmh4bw/Au6H5cmtK9aNMnzePQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 08",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg",
+    "uri": "r4tbaDVW7pvrRujsWujHGicJNOttg//Q4MPZ76urQ/GaWxsEx0PmxHaub3gaoNmhf+kiXgs9rOLmjzcfbg53Ng==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+    ]
+  },
+      {
         "name": "El juego del calamar 2",
         "ico": "https://image.tmdb.org/t/p/original/zyAQIyneN4b1t0yjfvYdeooXjJA.jpg",
         "temporada": [
