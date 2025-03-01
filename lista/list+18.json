@@ -2182,14 +2182,15 @@
     "origin": null,
     "user_agent": null
   },
-  {
+{
     "name": "ALF",
     "ico": "https://x.playerlatino.live/alf.png",
-    "uri": "9tYmbO6I+owAQ7msURD4YsOUs64o9q0QTtF0wnUhQHdRSpp7pVci3JdYrGq+A8u2ZQ/6v/TH9yuzEPpCcuEQaELqbPuQuDUoD1YjiSkS+zKo9Lky3MVGYem1LPU3NESm3uz0OHfILPGm1IKPMe2sdg==",
+    "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSidW/MWa/vfJyBAsNmCkw49",
     "drm_scheme": "",
     "drm_license_url": "",
     "origin": null,
-    "user_agent": null
+    "user_agent": "PLPro/6",
+	"hash": "GoIjhpTqa44YC65PDbpdLSW7wSxdG_nnKlfwXRjSX1bF6ncVBOMnLhjNWw12hc_LXIMBLVxeIYBFyxgeHjf0c4y0x-HAxjPyjNsJw3CVJNX90e-wgmI-6UJDOUrrS9YLVVA1eti_-bZ5WlxT_8kw6XABtGt10yWh9togtY53Y8XP5fTAYfQMxGHNVvyvMnhxEChEhPOFZ4sWsru66FHJHqxwhmKZk_yRauQi1wzT507bcpnqUF0IYn-rNtbDjK8SozRYXWZdG89Mx_KtdWrHIaKCSNz5GekaFn3Fvz9v78lCy9gqAplyYgigmF_5qtA7PzDjkDXhfRKlfbmRGWF_OA"
   },
   {
     "name": "BOB ESPONJA",
