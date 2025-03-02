@@ -1,6 +1,6 @@
 [
   {
-    "name": "📡 𝐂𝐀𝐍𝐀𝐋𝐄𝐒 𝐀𝐑𝐆𝐄𝐍𝐓𝐈𝐍𝐀 🇦🇷",
+    "name": "📡 CANALES ARGENTINA 🇦🇷",
     "mode": false,
     "lista": [	    
   {
@@ -159,7 +159,7 @@
     ]
   },
   {
-    "name": "📡 𝐂𝐀𝐍𝐀𝐋𝐄𝐒 𝐈𝐍𝐓𝐄𝐑𝐈𝐎𝐑 𝐀𝐑𝐆𝐄𝐍𝐓𝐈𝐍𝐀 🇦🇷",
+    "name": "📡 CANALES INTERIOR ARGENTINA 🇦🇷",
     "mode": false,
     "lista": [
   {
@@ -408,11 +408,11 @@
     ]
   },
   {
-    "name": "📡 𝐄𝐕𝐄𝐍𝐓𝐎𝐒 𝐄𝐍 𝐕𝐈𝐕𝐎⚽ 🏎️ 🏀",
+    "name": "📡 EVENTOS EN VIVO⚽ 🏎️ 🏀",
     "mode": false,
     "lista": [
   {
-        "name": "RIVER VS MEXICO",
+        "name": "EVENTOS ZTV",
         "ico": "https://ztv.com.ar/Img2/EVENTOS.png",
         "uri": "lq9TfXn4srXzSF+VGScHJFWbegiBK3nJ0q589X0Wb/WmFqvtHAPL99xaN/mTb1T5+NXd1dlxm1uInTFJNBChfdgoYuD+frVJJYgJG8pgfZg=",
         "drm_scheme": "",
@@ -457,7 +457,7 @@
     ]
   },
   {
-    "name": "📡 𝐂𝐀𝐍𝐀𝐋𝐄𝐒 𝐃𝐄𝐏𝐎𝐑𝐓𝐈𝐕𝐎𝐒 ⚽",
+    "name": "📡 CANALES DEPORTIVOS ⚽",
     "mode": false,
     "lista": [
   {
@@ -490,11 +490,11 @@
   {
     "name": "DAZN F1",
     "ico": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png",
-    "uri": "d8lHy1lkeviBYox2HEZIKtuUKH2Zze8J1rWYhnhdmp7yPgjIuW7Vlmwd2I0nXBzt+gD2KIY9GT2tDEW6OrajKw5jXj8wVlvsT+RnZP7iHmSunyP8nCtdYeP9QdE4cgjxloDL0hh9H++bSpyLqq6KbUGeUvfF2YGDwzoR2Ka7dtg=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "KHEjVAU/xrrJiZDOA6JIocm+dNYvfW9hQ0zA5GeWK2Bvswh6nTBSNKt3yfAzBZrt2pm74z/qUZjJuMEz+4N+c1nLnuBxCvK80+RwWaSwlv6yZov/CvL9xjQW8rAj1jl5/Df77aIJ5SbZ36it9K+iuqg1qM1UHZevPCUs9rRCDr6AuP7dfrxNxBvg88n19oVnix7LqMwT75My6fBSW+IXNg==",
-            "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nShCY22/cbTwlrGz7WvfAopK",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "user_agent": "PLPro/6",
+	"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
   },	
   {
     "name": "FS PREMIUM",
@@ -510,59 +510,86 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
-{
-"name": "CLARO SPORTS",
-"ico": "https://ztv.com.ar/Img2/claro_sports.png",
-"uri": "0oxNmRKPua+uxw8G8Ymvdv1us0c4UCwXp0kQD5+MqfqDMDbOx8WBEsLFfXhfDUJKvA0q3Hmr+xSySNXnSCytoOcXTBUf+ciB0OjP+kaOrDzmClImqEiNO4nDRat3pWMj",
-"drm_scheme": "clearkey",
-"drm_license_url": "JykWahBk/YZpwXk5dC6hGTFrZd8hUK58CwjCHgqQq7PXA6IYTI+DAlp+0ayb2+1W",
-"origin": null,
-"user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
-},
-  {
-    "name": "WIN SPORTS",
-    "ico": "https://ztv.com.ar/imagex/wins.png",
-    "uri": "rwCb/LYM/khQCfDSnj+PQnGuyUBlTbi1t6P+ntH2y11BOqQ7ncJ4VoCeQ2YHRj5Ckci3detdXwuumZD0Fd1aNQ==",
+    {
+    "name": "DIRECTV SPORTS",
+    "ico": "http://x.playerlatino.live/directvsports.png",
+    "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSjLrWz/IUx9W3v73mz5qXuM",
     "drm_scheme": "",
     "drm_license_url": "",
-    "origin": null,
-    "user_agent": null
+    "user_agent": "PLPro/6",
+	"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+  },
+    {
+    "name": "DIRECTV SPORTS 2",
+    "ico": "https://ztv.com.ar/imagex/directv2.png",
+    "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nShDKqlxbuGYYutDwRXTzVCb",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "user_agent": "PLPro/6",
+		"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
   },
   {
-    "name": "LA LIGA TV",
-    "ico": "https://ztv.com.ar/imagex/laliga.png",
-    "uri": "rwCb/LYM/khQCfDSnj+PQnGuyUBlTbi1t6P+ntH2y11BOqQ7ncJ4VoCeQ2YHRj5CYhNOXKHs5OGycVYwAnWGjg==",
+    "name": "GOL PERU",
+    "ico": "http://x.playerlatino.live/golperu.png",
+    "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSh84pb2tL/IDzCfoQPGrvnI",
     "drm_scheme": "",
     "drm_license_url": "",
-    "origin": null,
-    "user_agent": null
+    "user_agent": "PLPro/6",
+	"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+  },
+  {
+    "name": "CLARO SPORTS",
+    "ico": "https://ztv.com.ar/Img2/claro_sports.png",
+    "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSgpxauzqWBrL5m/Wo0wARyY",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "user_agent": "PLPro/6",
+	"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
   },
   {
     "name": "LIGA DE CAMPEONES",
     "ico": "https://ztv.com.ar/imagex/moviliga.png",
-    "uri": "rwCb/LYM/khQCfDSnj+PQnGuyUBlTbi1t6P+ntH2y11BOqQ7ncJ4VoCeQ2YHRj5ClHMeOZCdLhiFl7S12y+9Ww==",
+    "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nShbYaddFHb+jTo7+J3xJePm",
     "drm_scheme": "",
     "drm_license_url": "",
-    "origin": null,
-    "user_agent": null
+    "user_agent": "PLPro/6",
+	"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
   },
   {
-    "name": "EUROSPORTS 1",
-    "ico": "https://ztv.com.ar/imagex/euro1.png",
-    "uri": "rwCb/LYM/khQCfDSnj+PQnGuyUBlTbi1t6P+ntH2y11BOqQ7ncJ4VoCeQ2YHRj5CUCUARTdILEZ0NODvh8NGqQ==",
+    "name": "TUDN",
+    "ico": "https://ztv.com.ar/imagex/TUDN.png",
+    "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSgjylDQ7VbnQVegKjscGGNY",
     "drm_scheme": "",
     "drm_license_url": "",
-    "origin": null,
-    "user_agent": null
+    "user_agent": "PLPro/6",
+	"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
   },
   {
-    "name": "EUROSPORTS 2",
-    "ico": "https://ztv.com.ar/imagex/euro2.png",
-    "uri": "rwCb/LYM/khQCfDSnj+PQnGuyUBlTbi1t6P+ntH2y11BOqQ7ncJ4VoCeQ2YHRj5CV7kM9ctK7a7uky90mNvlaA==",
+    "name": "TVC DEPORTES",
+    "ico": "https://ztv.com.ar/imagex/TVCDE.png",
+    "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSgbViYw8pOJZvAXKgQp5AZ8",
     "drm_scheme": "",
     "drm_license_url": "",
-    "origin": null,
-    "user_agent": null
+    "user_agent": "PLPro/6",
+	"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+  },
+  {
+    "name": "WIN SPORTS",
+    "ico": "https://ztv.com.ar/imagex/WIN.png",
+    "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSjZojV+snW5RH2vN6NRmKLC",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "user_agent": "PLPro/6",
+	"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+  },
+  {
+    "name": "WIN SPORTS+",
+    "ico": "https://ztv.com.ar/imagex/WIN+.png",
+    "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSgv3c1qhryWJOAfWNQ1xFQd",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "user_agent": "PLPro/6",
+	"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
   },	    
   {
     "name": "ESPN",
@@ -672,15 +699,6 @@
             "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },  
-  {
-    "name": "DIRECT TV",
-    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
-    "uri": "oiBmAZHCCFVl+IuNDg7bXFvVm1WaWvUh0PFsB6H/JyLV6QYrjkHzkfOymvyV5wVPBH3nexbnl/WIUG7RrJ8GOA==",
-    "drm_scheme": "",
-    "drm_license_url": "",
-    "origin": null,
-    "user_agent": null
-  },
   {
     "name": "VTV",
     "ico": "https://ztv.com.ar/Img2/vtv.png",
@@ -817,7 +835,7 @@
     ]
   },
   {
-    "name": "📡 𝐂𝐀𝐍𝐀𝐋𝐄𝐒 𝐈𝐍𝐅𝐀𝐍𝐓𝐈𝐋𝐄𝐒 🎡",
+    "name": "📡 CANALES INFANTILES 🎡",
     "mode": false,
     "lista": [
   {
@@ -836,7 +854,8 @@
     "drm_scheme": "clearkey",
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGXYU6LZvJ3QGR1UyeTKx8hdgI3faEDoiInURMYcRDtHQ",
     "referer": "https://player.sensa.com.ar/",
-    "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+	"token": "1.0"
   },
   {
     "name": "CANAL INFALTIL",
@@ -845,7 +864,8 @@
     "drm_scheme": "clearkey",
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wrskdlYD9HtClywhBQ4NH8wJ4jIIG+Ot1/vHIU7h/qFc8w==",
     "referer": "https://player.sensa.com.ar/",
-    "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+	"token": "1.0"
   },
   {
     "name": "PLIM PLIM TV",
@@ -958,7 +978,7 @@
     ]
   },
   {
-    "name": "📡 𝐏𝐀𝐂𝐊 𝐏𝐑𝐄𝐌𝐈𝐔𝐌 [𝐇𝐁𝐎-𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐀𝐋] 👑",
+    "name": "📡 PACK PREMIUM [HBO] 👑",
     "mode": false,
     "lista": [
   {
@@ -1032,56 +1052,62 @@
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGRk7+gA3pAWp+ZtleSMxsT/WCv7mUkhwPyqTStcVlDIUArUvYyT4tOWqzm4A1D046Q==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "UNIVERSAL CINEMA",
-    "ico": "https://ztv.com.ar/Img2/universalcinema.png",
-    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgy6esGRazBt06i41CG14kw7XmQj7FDqn2o0O3Yj/7s/AYC++VI0BdzLrVffXY7iFofMzK6CPORy/67cw5rLkzUoHKtLVgT7B2KNtAYopmZpQw==",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "JykWahBk/YZpwXk5dC6hGa8JUNGEaYHjeLHXbKuZHbjQkQ2OX7wZsCU1jbaFL4ls",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "UNIVERSAL COMEDY",
-    "ico": "https://ztv.com.ar/Img2/universalcomedy.png",
-    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgy6esGRazBt06i41CG14kw7Ziv8T/TwkePvuqewfuPAfbT5kotU1Y1brcpBSHORIO6dTOEgIiyQAoTCmgq4aK3jN08S3BuV3hcxoiHiaSZPBA==",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "JykWahBk/YZpwXk5dC6hGa8JUNGEaYHjeLHXbKuZHbjh5z6y7kw4kNbaARusiwRu",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "UNIVERSAL CRIME",
-    "ico": "https://ztv.com.ar/Img2/universalcrime.png",
-    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgycI8dZi6lA6LtMqRd1rvk6kFjY6JoG+IzaOaZi/E3HXSv4D870LD4VlWOPSXSHKDzuWtnUEwITQFt4zy9hT1F0d+aqUrQbvRf7GmxLzR9cuw==",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "JykWahBk/YZpwXk5dC6hGa8JUNGEaYHjeLHXbKuZHbgq1fs8VUCFqPr/4a+S64i0",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "UNIVERSAL PREMIERE",
-    "ico": "https://ztv.com.ar/Img2/universalpremiere.png",
-    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgy6esGRazBt06i41CG14kw7NuWHlK7nuetHoedon2xyt45l0uxBMBoF8QKoq9AuTlKMuHk+yn42xImelMm5pbs6HuivENAZKnvyOk2Bo08cWA==",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "JykWahBk/YZpwXk5dC6hGa8JUNGEaYHjeLHXbKuZHbhDcbdITz0SVbUHL7+jzU1Q",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "UNIVERSAL REALITY",
-    "ico": "https://ztv.com.ar/Img2/universalreality.png",
-    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgy6esGRazBt06i41CG14kw7D83irwGoR44jVn5iXB6sUKtkXgy+To1PVt/PMsMBF8Wvw277gnkj8hb3EQFy0TvPRWSpUyY0gaFDKs6D+jF6vw==",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "JykWahBk/YZpwXk5dC6hGa8JUNGEaYHjeLHXbKuZHbgGEw9Ia2sphMX95b88/RcK",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   }
-    ]
-  },
+]
+},
+{
+      "name": "📡 PACK PREMIUM [UNIVERSAL] 👑",
+      "mode": false,
+      "lista": [
+    {
+      "name": "UNIVERSAL CINEMA",
+      "ico": "https://ztv.com.ar/Img2/universalcinema.png",
+      "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgy6esGRazBt06i41CG14kw7XmQj7FDqn2o0O3Yj/7s/AYC++VI0BdzLrVffXY7iFofMzK6CPORy/67cw5rLkzUoHKtLVgT7B2KNtAYopmZpQw==",
+      "drm_scheme": "clearkey",
+      "drm_license_url": "JykWahBk/YZpwXk5dC6hGa8JUNGEaYHjeLHXbKuZHbjQkQ2OX7wZsCU1jbaFL4ls",
+      "origin": "https://web.app.flow.com.ar",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    },
+    {
+      "name": "UNIVERSAL COMEDY",
+      "ico": "https://ztv.com.ar/Img2/universalcomedy.png",
+      "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgy6esGRazBt06i41CG14kw7Ziv8T/TwkePvuqewfuPAfbT5kotU1Y1brcpBSHORIO6dTOEgIiyQAoTCmgq4aK3jN08S3BuV3hcxoiHiaSZPBA==",
+      "drm_scheme": "clearkey",
+      "drm_license_url": "JykWahBk/YZpwXk5dC6hGa8JUNGEaYHjeLHXbKuZHbjh5z6y7kw4kNbaARusiwRu",
+      "origin": "https://web.app.flow.com.ar",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    },
+    {
+      "name": "UNIVERSAL CRIME",
+      "ico": "https://ztv.com.ar/Img2/universalcrime.png",
+      "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgycI8dZi6lA6LtMqRd1rvk6kFjY6JoG+IzaOaZi/E3HXSv4D870LD4VlWOPSXSHKDzuWtnUEwITQFt4zy9hT1F0d+aqUrQbvRf7GmxLzR9cuw==",
+      "drm_scheme": "clearkey",
+      "drm_license_url": "JykWahBk/YZpwXk5dC6hGa8JUNGEaYHjeLHXbKuZHbgq1fs8VUCFqPr/4a+S64i0",
+      "origin": "https://web.app.flow.com.ar",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    },
+    {
+      "name": "UNIVERSAL PREMIERE",
+      "ico": "https://ztv.com.ar/Img2/universalpremiere.png",
+      "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgy6esGRazBt06i41CG14kw7NuWHlK7nuetHoedon2xyt45l0uxBMBoF8QKoq9AuTlKMuHk+yn42xImelMm5pbs6HuivENAZKnvyOk2Bo08cWA==",
+      "drm_scheme": "clearkey",
+      "drm_license_url": "JykWahBk/YZpwXk5dC6hGa8JUNGEaYHjeLHXbKuZHbhDcbdITz0SVbUHL7+jzU1Q",
+      "origin": "https://web.app.flow.com.ar",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    },
+    {
+      "name": "UNIVERSAL REALITY",
+      "ico": "https://ztv.com.ar/Img2/universalreality.png",
+      "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgy6esGRazBt06i41CG14kw7D83irwGoR44jVn5iXB6sUKtkXgy+To1PVt/PMsMBF8Wvw277gnkj8hb3EQFy0TvPRWSpUyY0gaFDKs6D+jF6vw==",
+      "drm_scheme": "clearkey",
+      "drm_license_url": "JykWahBk/YZpwXk5dC6hGa8JUNGEaYHjeLHXbKuZHbgGEw9Ia2sphMX95b88/RcK",
+      "origin": "https://web.app.flow.com.ar",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    }
+  ]
+},
   {
-    "name": "📡 𝐂𝐀𝐍𝐀𝐋𝐄𝐒 𝐂𝐈𝐍𝐄 🍿",
+    "name": "📡 CANALES CINE 🍿",
     "mode": false,
     "lista": [
         {
@@ -1363,7 +1389,7 @@
     ]
   },
   {
-    "name": "📡 𝐂𝐀𝐍𝐀𝐋𝐄𝐒 𝐂𝐔𝐋𝐓𝐔𝐑𝐀𝐋𝐄𝐒 🌎",
+    "name": "📡 CANALES CULTURALES 🌎",
     "mode": false,
     "lista": [
    {
@@ -1504,7 +1530,7 @@
     ]
   },
   {
-    "name": "📡 𝐂𝐀𝐍𝐀𝐋𝐄𝐒 𝐍𝐎𝐕𝐄𝐋𝐀𝐒 & 𝐕𝐀𝐑𝐈𝐄𝐃𝐀𝐃𝐄𝐒 📚",
+    "name": "📡 CANALES NOVELAS & VARIEDADES 📚",
     "mode": false,
     "lista": [
    {
@@ -1789,7 +1815,7 @@
     ]
   },
   {
-    "name": "📡 𝐂𝐀𝐍𝐀𝐋𝐄𝐒 𝐌Ú𝐒𝐈𝐂𝐀 🎧",
+    "name": "📡 CANALES MUSICA 🎧",
     "mode": false,
     "lista": [
 	      {
@@ -1894,7 +1920,7 @@
     ]
 	  },
   {
-    "name": "📡 𝐂𝐀𝐍𝐀𝐋𝐄𝐒 𝐀𝐋𝐓𝐄𝐑𝐍𝐀𝐓𝐈𝐕𝐎𝐒 𝟐𝟒/𝟕 ⏰",
+    "name": "📡 CANALES ALTERNATIVOS 24/7 ⏰",
     "mode": false,
     "lista": [
   {
@@ -2287,7 +2313,7 @@
 ]
 },
 {
-  "name": "CINE 24/7",
+  "name": "📡 CINE 24/7 ⏰",
   "mode": false,
   "lista": [
  {
@@ -2527,7 +2553,7 @@
   ]
 },
 {
-"name": "PACK FREETV",
+"name": "📡 PACK FREETV 🆓",
 "mode": false,
 "lista": [
 {
@@ -2596,7 +2622,7 @@
 ]
   },
   {
-    "name": "📡 𝐂𝐀𝐍𝐀𝐋𝐄𝐒 𝐗𝐗𝐗 +𝟏𝟖 🔞",
+    "name": "📡 CANALES XXX 🔞",
     "mode": false,
     "lista": [
   {
@@ -2824,7 +2850,7 @@
     ]
   },
   {
-    "name": "📡 𝐂𝐀𝐍𝐀𝐋𝐄𝐒 𝐓𝐕 𝐈𝐍𝐓𝐄𝐑𝐍𝐀𝐂𝐈𝐎𝐍𝐀𝐋 🌐",
+    "name": "📡 CANALES TV INTERNACIONAL 🌐",
     "mode": false,
     "lista": [
    {
