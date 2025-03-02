@@ -1090,9 +1090,9 @@
     "uri": "M5XLxQrp/9uEJlS9gmUwftQgSjB2QOms1yxxb9SnpqhJQCl3gnqNYKhAtU/CMtHAFEt/pTGeXHv424x8VQLZOVf68Pf/tBxKquTBP2zw9t4=",
     "drm_scheme": "clearkey",
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGfewME/QNLj297FgcIoy2abL/yDBCTUTVjDg82D922y4S171em1pE8Ev27Hx0nw2aw==",
-    "origin": null,
 	"referer": "https://player.sensa.com.ar/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+	"token": "1.0"
   },
   {
     "name": "CINE HISPANO",
@@ -1102,7 +1102,8 @@
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGfewME/QNLj297FgcIoy2aZYZ8wrahYwltD8c+UJPlxqDXCRAa4ee1SxuccfytVaWw==",
     "origin": null,
 	"referer": "https://player.sensa.com.ar/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+	"token": "1.0"
   },
   {
     "name": "CINE FAMILIAR",
@@ -1112,7 +1113,8 @@
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGfewME/QNLj297FgcIoy2aZIIB0/qClWeX6kHhyFR797XY5DGJSMqHVd+nsZ+JM/qQ==",
     "origin": null,
 	"referer": "https://player.sensa.com.ar/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+	"token": "1.0"
   },
     {
     "name": "DPELICULA",
@@ -1121,7 +1123,8 @@
     "drm_scheme": "clearkey",
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGfewME/QNLj297FgcIoy2aYvjLsBKPh8w18uE+0RydrV5V3A8jmt4IFz7rbPM3tYAQ==",
     "referer": "https://player.sensa.com.ar/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+	"token": "1.0"
   },
   {
     "name": "CINE LATINO",
