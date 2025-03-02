@@ -2287,6 +2287,246 @@
 ]
 },
 {
+  "name": "CINE 24/7",
+  "mode": false,
+  "lista": [
+ {
+  "name": "CINE MARVEL HD",
+  "ico": "http://x.playerlatino.live/cine247.png",
+  "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSh/7AQX+KHsnOmE+V9JtsGn",
+  "drm_scheme": "",
+  "drm_license_url": "",
+  "user_agent": "PLPro/6",
+"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+},
+{
+  "name": "CINE MARVEL",
+  "ico": "http://x.playerlatino.live/cine247.png",
+  "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSjXpGHSpLxOidHsoQ85gO0t",
+  "drm_scheme": "",
+  "drm_license_url": "",
+  "user_agent": "PLPro/6",
+"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+},
+{
+  "name": "CINE ACCION",
+  "ico": "http://x.playerlatino.live/cine247.png",
+  "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nShNZqqz4Fcwv+5U5e7SbVqx",
+  "drm_scheme": "",
+  "drm_license_url": "",
+  "user_agent": "PLPro/6",
+"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+},
+{
+  "name": "CINE ACCION HD",
+  "ico": "http://x.playerlatino.live/cine247.png",
+  "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSg+3RpvIQ500KToLewHtyTk",
+  "drm_scheme": "",
+  "drm_license_url": "",
+  "user_agent": "PLPro/6",
+"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+},
+{
+  "name": "CINE TERROR",
+  "ico": "http://x.playerlatino.live/cine247.png",
+  "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSh2XhZJPueQuT7Tsb7qLyvT",
+  "drm_scheme": "",
+  "drm_license_url": "",
+  "user_agent": "PLPro/6",
+"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+},
+{
+  "name": "CINE ZOMBIES HD",
+  "ico": "http://x.playerlatino.live/cine247.png",
+  "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSin56O7U67Esw1/ITVSOjnA",
+  "drm_scheme": "",
+  "drm_license_url": "",
+  "user_agent": "PLPro/6",
+"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+},
+{
+  "name": "CINE COMEDIA 1 HD",
+  "ico": "http://x.playerlatino.live/cine247.png",
+  "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSgJQzr2elxkH3W5Z86wNVfW",
+  "drm_scheme": "",
+  "drm_license_url": "",
+  "user_agent": "PLPro/6",
+"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+},
+{
+  "name": "CINE TERROR HD",
+  "ico": "http://x.playerlatino.live/cine247.png",
+  "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nShj2ACDa2t9mdJGdKlf9Hqn",
+  "drm_scheme": "",
+  "drm_license_url": "",
+  "user_agent": "PLPro/6",
+"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+},
+{
+  "name": "CINE FICCION/FANTASIA 2 HD",
+  "ico": "http://x.playerlatino.live/cine247.png",
+  "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSiCzHqLAzQpfA/QciRzc0Lk",
+  "drm_scheme": "",
+  "drm_license_url": "",
+  "user_agent": "PLPro/6",
+"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+},
+{
+  "name": "CINE INFANTIL SAGAS HD",
+  "ico": "http://x.playerlatino.live/cine247.png",
+  "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nShtyo/Q+XGK3r4xQV+tRvtA",
+  "drm_scheme": "",
+  "drm_license_url": "",
+  "user_agent": "PLPro/6",
+"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+},
+{
+  "name": "CINE ACCION SAGAS HD",
+  "ico": "http://x.playerlatino.live/cine247.png",
+  "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSiqVo3VkmhUXMoiW8VdeFMK",
+  "drm_scheme": "",
+  "drm_license_url": "",
+  "user_agent": "PLPro/6",
+"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+},
+{
+  "name": "CINE FICCION/FANTANSIA",
+  "ico": "http://x.playerlatino.live/cine247.png",
+  "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nShV01wac0G9XOiXszpvi3B0",
+  "drm_scheme": "",
+  "drm_license_url": "",
+  "user_agent": "PLPro/6",
+"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+},
+{
+  "name": "CINE INFANTIL",
+  "ico": "http://x.playerlatino.live/cine247.png",
+  "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSiK282bp4PZ7Ol8sSnM8CKb",
+  "drm_scheme": "",
+  "drm_license_url": "",
+  "user_agent": "PLPro/6",
+"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+},
+{
+  "name": "CINE COMEDIA 2",
+  "ico": "http://x.playerlatino.live/cine247.png",
+  "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSg/smQ1YkZ2/vkUTIZ2e0Q5",
+  "drm_scheme": "",
+  "drm_license_url": "",
+  "user_agent": "PLPro/6",
+"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+},
+{
+  "name": "CINE INFANTIL HD",
+  "ico": "http://x.playerlatino.live/cine247.png",
+  "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nShYw2/YeDlFvJTGNwN1x1IP",
+  "drm_scheme": "",
+  "drm_license_url": "",
+  "user_agent": "PLPro/6",
+"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+},
+{
+  "name": "CINE COMEDIA 2 HD",
+  "ico": "http://x.playerlatino.live/cine247.png",
+  "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSjltW705pZsVZErMrJpEBy1",
+  "drm_scheme": "",
+  "drm_license_url": "",
+  "user_agent": "PLPro/6",
+"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+},
+{
+  "name": "CINE INFANTIL SAGAS",
+  "ico": "http://x.playerlatino.live/cine247.png",
+  "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSh7CtULrlVBpB82AGKEN6+O",
+  "drm_scheme": "",
+  "drm_license_url": "",
+  "user_agent": "PLPro/6",
+"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+},
+{
+  "name": "CINE ACCION SAGAS",
+  "ico": "http://x.playerlatino.live/cine247.png",
+  "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSgR6ZIb5YefsmPVN6u+dnaF",
+  "drm_scheme": "",
+  "drm_license_url": "",
+  "user_agent": "PLPro/6",
+"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+},
+{
+  "name": "CINE FICCION/FANTASIA HD",
+  "ico": "http://x.playerlatino.live/cine247.png",
+  "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSgAeCt3nwb20RXYE7sIDHwU",
+  "drm_scheme": "",
+  "drm_license_url": "",
+  "user_agent": "PLPro/6",
+"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+},
+{
+  "name": "CINE COMEDIA",
+  "ico": "http://x.playerlatino.live/cine247.png",
+  "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSjkLD5XDek+FRcxIdK167VM",
+  "drm_scheme": "",
+  "drm_license_url": "",
+  "user_agent": "PLPro/6",
+"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+},
+{
+  "name": "CINE ROMANCE HD",
+  "ico": "http://x.playerlatino.live/cine247.png",
+  "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSgiJ0Ul/mNoVaUKxoYYUXag",
+  "drm_scheme": "",
+  "drm_license_url": "",
+  "user_agent": "PLPro/6",
+"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+},
+{
+  "name": "CINE NAVIDEÑO HD",
+  "ico": "http://x.playerlatino.live/cine247.png",
+  "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSicqvYurSa+XfTuJPwhJ3n/",
+  "drm_scheme": "",
+  "drm_license_url": "",
+  "user_agent": "PLPro/6",
+"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+},
+{
+  "name": "CINE FICCION/FANTASIA 2",
+  "ico": "http://x.playerlatino.live/cine247.png",
+  "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nShj/QGfQyo/IT6DKgTSgd6Y",
+  "drm_scheme": "",
+  "drm_license_url": "",
+  "user_agent": "PLPro/6",
+"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+},
+{
+  "name": "CINE ZOMBIES",
+  "ico": "http://x.playerlatino.live/cine247.png",
+  "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSi4O2JyXX2XSUNf/953K65y",
+  "drm_scheme": "",
+  "drm_license_url": "",
+  "user_agent": "PLPro/6",
+"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+},
+{
+  "name": "CINE NAVIDEÑO",
+  "ico": "http://x.playerlatino.live/cine247.png",
+  "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSjEg3EnwlPkg9hVE+nl8VHf",
+  "drm_scheme": "",
+  "drm_license_url": "",
+  "user_agent": "PLPro/6",
+"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+},
+{
+  "name": "CINE ROMANCE",
+  "ico": "http://x.playerlatino.live/cine247.png",
+  "uri": "FvO9qtplXXIXj/DN5dBqFawjnJXNXFcYt0NcdwA+nSiCv5OL/D4+70Iy8mYpeHWb",
+  "drm_scheme": "",
+  "drm_license_url": "",
+  "user_agent": "PLPro/6",
+"hash": "jp4aeTYSOpDmxjKOyperBSj7_ai4MNP30WyL9u1SkZ4iRZ5kTRHcwjR8CD336Xee4Rv4EBs9VEuxuk1-n3JhYOGOAne7yGTHodymNCH5CyLv9Cy-Agl07WNxHNZQFJN3ew88NjAOgHwCGZ0o8g0rkrHPpqkpQXX_43Uq0uWveUzqQShPF_fnwDGZx5I2E7MHyT1Ou1CjkKlahRQa3EJM_W6KHbWMPl0iEriCt0wqq_9aoD3xqucjnWveTj13dTvhYeI46rU0ZWA0EnM-7EeTdbSeSmNM1KxZSfobnZXGdI6SBYBsT2mhOLd_gKv6HHrUfsSdror1dBMtlf2Vt24-1w"
+}
+  ]
+},
+{
 "name": "PACK FREETV",
 "mode": false,
 "lista": [
