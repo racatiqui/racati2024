@@ -2,67 +2,158 @@
   {
     "name": "𝐕𝐀𝐑𝐈𝐀𝐃𝐀𝐒",
     "mode": true,
-    "lista": [
-      {
-        "name": "Los Tinelli ",
-        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg",
-        "temporada": [  {
-    "name": "Capitulo 01",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg",
-    "uri": "r4tbaDVW7pvrRujsWujHGicJNOttg//Q4MPZ76urQ/GaWxsEx0PmxHaub3gaoNmhw6rnPHgaMIJ5J3V1CIeLSg==",
+    "lista": [  
+	 {
+    "name": "Reacher Temp. 1 ,2 y 3",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+    "temporada": [   {
+    "name": "Capitulo 1",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+    "uri": "WC8Eo0uBy1y5KFTziFvMJoOFAkQ2tFrnuOwPz1rC4Wixp3FYi5RM2KG3vpTEIYNj2CqAIpjJU0lE67jZwRldkQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Capitulo 02",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg",
-    "uri": "r4tbaDVW7pvrRujsWujHGicJNOttg//Q4MPZ76urQ/GaWxsEx0PmxHaub3gaoNmhuTjfZqh/Da7z7nLLvLsMBg==",
+    "name": "Capitulo 2",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+    "uri": "WC8Eo0uBy1y5KFTziFvMJoOFAkQ2tFrnuOwPz1rC4Wixp3FYi5RM2KG3vpTEIYNjC4gkJRxjZy/9/1+JNTOmcQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Capitulo 03",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg",
-    "uri": "r4tbaDVW7pvrRujsWujHGicJNOttg//Q4MPZ76urQ/GaWxsEx0PmxHaub3gaoNmhW3GB8J7wNPmEBlhbP1oAmw==",
+    "name": "Capitulo 3",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+    "uri": "WC8Eo0uBy1y5KFTziFvMJoOFAkQ2tFrnuOwPz1rC4Wixp3FYi5RM2KG3vpTEIYNjSul/colbq34CeAeYcIYadg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Capitulo 04",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg",
-    "uri": "r4tbaDVW7pvrRujsWujHGicJNOttg//Q4MPZ76urQ/GaWxsEx0PmxHaub3gaoNmhBz5SPpa+0KYquEQ9LcePNw==",
+    "name": "Capitulo 4",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+    "uri": "WC8Eo0uBy1y5KFTziFvMJoOFAkQ2tFrnuOwPz1rC4Wixp3FYi5RM2KG3vpTEIYNjAsteB24cuiQ1KqVEUbeb2g==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Capitulo 05",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg",
-    "uri": "r4tbaDVW7pvrRujsWujHGicJNOttg//Q4MPZ76urQ/GaWxsEx0PmxHaub3gaoNmhrrgpf6YNKxF/obO4jkDhyg==",
+    "name": "Capitulo 5",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+    "uri": "WC8Eo0uBy1y5KFTziFvMJoOFAkQ2tFrnuOwPz1rC4Wixp3FYi5RM2KG3vpTEIYNj3F95Nxk6AYy5wJALKIq3CQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Capitulo 06",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg",
-    "uri": "r4tbaDVW7pvrRujsWujHGicJNOttg//Q4MPZ76urQ/GaWxsEx0PmxHaub3gaoNmhZiHH09psFgG9CdesWKGiJQ==",
+    "name": "Capitulo 6",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+    "uri": "WC8Eo0uBy1y5KFTziFvMJoOFAkQ2tFrnuOwPz1rC4Wixp3FYi5RM2KG3vpTEIYNja5De82Yk5zsX4LE0bbSKDA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Capitulo 07",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg",
-    "uri": "r4tbaDVW7pvrRujsWujHGicJNOttg//Q4MPZ76urQ/GaWxsEx0PmxHaub3gaoNmh4bw/Au6H5cmtK9aNMnzePQ==",
+    "name": "Capitulo 7",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+    "uri": "WC8Eo0uBy1y5KFTziFvMJoOFAkQ2tFrnuOwPz1rC4Wixp3FYi5RM2KG3vpTEIYNjG+U0XbH7hkjDMYGqCHE0rQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Capitulo 08",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg",
-    "uri": "r4tbaDVW7pvrRujsWujHGicJNOttg//Q4MPZ76urQ/GaWxsEx0PmxHaub3gaoNmhf+kiXgs9rOLmjzcfbg53Ng==",
+    "name": "Capitulo 8",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+    "uri": "WC8Eo0uBy1y5KFTziFvMJoOFAkQ2tFrnuOwPz1rC4Wixp3FYi5RM2KG3vpTEIYNjLVsUCwTsknnGcSA+ofpS2w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 9",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+    "uri": "WC8Eo0uBy1y5KFTziFvMJoOFAkQ2tFrnuOwPz1rC4WgNgta+hZGmCBZHEbDol96kN7/VJlvwd5kabUIj/Gzyjw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 10",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+    "uri": "WC8Eo0uBy1y5KFTziFvMJoOFAkQ2tFrnuOwPz1rC4WgNgta+hZGmCBZHEbDol96kKRyCZZsLNGVIyybwpvZRIg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 11",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+    "uri": "WC8Eo0uBy1y5KFTziFvMJoOFAkQ2tFrnuOwPz1rC4WgNgta+hZGmCBZHEbDol96klv09ECjApLsIBwahQJbgtw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 12",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+    "uri": "WC8Eo0uBy1y5KFTziFvMJoOFAkQ2tFrnuOwPz1rC4WgNgta+hZGmCBZHEbDol96klVHI07dvFHgLyoxZ+YKx9g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 13",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+    "uri": "WC8Eo0uBy1y5KFTziFvMJoOFAkQ2tFrnuOwPz1rC4WgNgta+hZGmCBZHEbDol96keF5tF2RIDkNfmjsKl4hilw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 14",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+    "uri": "WC8Eo0uBy1y5KFTziFvMJoOFAkQ2tFrnuOwPz1rC4WgNgta+hZGmCBZHEbDol96kT06cM1IJhsKics2mKmH1lQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 15",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+    "uri": "WC8Eo0uBy1y5KFTziFvMJoOFAkQ2tFrnuOwPz1rC4WgNgta+hZGmCBZHEbDol96keoXvG/lpI+P4gAaTDrvCnQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 16",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+    "uri": "WC8Eo0uBy1y5KFTziFvMJoOFAkQ2tFrnuOwPz1rC4WgNgta+hZGmCBZHEbDol96kwA88HZluEKEMNvGjLvbUpg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 17",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+    "uri": "WC8Eo0uBy1y5KFTziFvMJoOFAkQ2tFrnuOwPz1rC4WjNQ2ObijlnIHw7R3Xzn/8n2+0FuxkxeBrB0DzTRq2ggA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 18",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+    "uri": "WC8Eo0uBy1y5KFTziFvMJoOFAkQ2tFrnuOwPz1rC4WjNQ2ObijlnIHw7R3Xzn/8nhyfxhpeq/OrV/fCVM+5Kdg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 19",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+    "uri": "WC8Eo0uBy1y5KFTziFvMJoOFAkQ2tFrnuOwPz1rC4WjNQ2ObijlnIHw7R3Xzn/8nMqF+EXmxfHd4I6vp4y22lg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 20",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+    "uri": "WC8Eo0uBy1y5KFTziFvMJoOFAkQ2tFrnuOwPz1rC4WjNQ2ObijlnIHw7R3Xzn/8nD9BYWtK4cARI2I69e0TOfA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 21",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+    "uri": "WC8Eo0uBy1y5KFTziFvMJoOFAkQ2tFrnuOwPz1rC4WjNQ2ObijlnIHw7R3Xzn/8nksXtBpTrXVuJdg0KsZNLeg==",
     "drm_scheme": "",
     "drm_license_url": ""
   }
-    ]
+      ]
   },
       {
         "name": "El juego del calamar 2",
