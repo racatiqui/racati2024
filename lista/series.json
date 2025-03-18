@@ -47022,902 +47022,2242 @@
     ]
   },
   {
-  "name": "ASIATICAS",
+  "name": "DOCUMENTALES",
   "mode": true,
   "lista": [
     {
-      "name": "Kingdom T.1",
-      "ico": "https://i.ibb.co/RT4nGj6/Kingdom1.jpg",
+      "tipo": "serie",
+      "name": "72 ANIMALES PELIGROSOS",
+      "ico": "https://image.tmdb.org/t/p/w500/xL1pkGfR2NzJhj7NJS6ZZMGARBx.jpg",
       "temporada": [
-        {
-          "name": "Capitulo 1",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyfv3BgUM85KXSvMqjMi0NEYDtN.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j/G+gr6uOBq+RYGNDvo6yCQ==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 2",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyfv3BgUM85KXSvMqjMi0NEYDtN.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+ju7XJu9EoSRiqFDaw1hVZ3A==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 3",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyfv3BgUM85KXSvMqjMi0NEYDtN.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jbaUw/CS2UyPRSmk423t9Vw==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 4",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyfv3BgUM85KXSvMqjMi0NEYDtN.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jqd6YK1ILNBAoyU901QMHMA==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 5",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyfv3BgUM85KXSvMqjMi0NEYDtN.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jdVWWP0Zc33ULR4w37daRbw==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 6",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyfv3BgUM85KXSvMqjMi0NEYDtN.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j2evN4foZsRSmrP2T+QEgXg==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        }
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/xL1pkGfR2NzJhj7NJS6ZZMGARBx.jpg",
+              "uri": "http://series.tuxchannel.mx/series/72%20dangerous%20animals%20latin%20america/s%2001%20e%2001.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/xL1pkGfR2NzJhj7NJS6ZZMGARBx.jpg",
+              "uri": "http://series.tuxchannel.mx/series/72%20dangerous%20animals%20latin%20america/s%2001%20e%2002.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/xL1pkGfR2NzJhj7NJS6ZZMGARBx.jpg",
+              "uri": "http://series.tuxchannel.mx/series/72%20dangerous%20animals%20latin%20america/s%2001%20e%2003.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://image.tmdb.org/t/p/w500/xL1pkGfR2NzJhj7NJS6ZZMGARBx.jpg",
+              "uri": "http://series.tuxchannel.mx/series/72%20dangerous%20animals%20latin%20america/s%2001%20e%2004.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 5",
+              "ico": "https://image.tmdb.org/t/p/w500/xL1pkGfR2NzJhj7NJS6ZZMGARBx.jpg",
+              "uri": "http://series.tuxchannel.mx/series/72%20dangerous%20animals%20latin%20america/s%2001%20e%2005.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 6",
+              "ico": "https://image.tmdb.org/t/p/w500/xL1pkGfR2NzJhj7NJS6ZZMGARBx.jpg",
+              "uri": "http://series.tuxchannel.mx/series/72%20dangerous%20animals%20latin%20america/s%2001%20e%2006.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 7",
+              "ico": "https://image.tmdb.org/t/p/w500/xL1pkGfR2NzJhj7NJS6ZZMGARBx.jpg",
+              "uri": "http://series.tuxchannel.mx/series/72%20dangerous%20animals%20latin%20america/s%2001%20e%2007.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 8",
+              "ico": "https://image.tmdb.org/t/p/w500/xL1pkGfR2NzJhj7NJS6ZZMGARBx.jpg",
+              "uri": "http://series.tuxchannel.mx/series/72%20dangerous%20animals%20latin%20america/s%2001%20e%2008.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 9",
+              "ico": "https://image.tmdb.org/t/p/w500/xL1pkGfR2NzJhj7NJS6ZZMGARBx.jpg",
+              "uri": "http://series.tuxchannel.mx/series/72%20dangerous%20animals%20latin%20america/s%2001%20e%2009.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 10",
+              "ico": "https://image.tmdb.org/t/p/w500/xL1pkGfR2NzJhj7NJS6ZZMGARBx.jpg",
+              "uri": "http://series.tuxchannel.mx/series/72%20dangerous%20animals%20latin%20america/s%2001%20e%2010.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 11",
+              "ico": "https://image.tmdb.org/t/p/w500/xL1pkGfR2NzJhj7NJS6ZZMGARBx.jpg",
+              "uri": "http://series.tuxchannel.mx/series/72%20dangerous%20animals%20latin%20america/s%2001%20e%2011.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 12",
+              "ico": "https://image.tmdb.org/t/p/w500/xL1pkGfR2NzJhj7NJS6ZZMGARBx.jpg",
+              "uri": "http://series.tuxchannel.mx/series/72%20dangerous%20animals%20latin%20america/s%2001%20e%2012.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
       ]
-    },
-    {
-      "name": "Kingdom T.2",
-      "ico": "https://i.ibb.co/64tfhm6/KINDOM.jpg",
+  },
+  {
+      "tipo": "serie",
+      "name": "ACOSADOR NOCTURNO",
+      "ico": "https://image.tmdb.org/t/p/w500/fOX6cKsDSCRKrDCk4vWFv2MgzM3.jpg",
       "temporada": [
-        {
-          "name": "Capitulo 1",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3E1Zha8bViI5q5rYmJc79KjFHi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jOUSBI3eUVL54SVcsQLHI5Q==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 2",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3E1Zha8bViI5q5rYmJc79KjFHi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jsBd66rYMxHWeWRAFnPcFTw==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 3",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3E1Zha8bViI5q5rYmJc79KjFHi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jwC5yRyh85tS+h8sayB/v3g==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 4",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3E1Zha8bViI5q5rYmJc79KjFHi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jtNywt4MYhR6sAe///dbOLA==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 5",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3E1Zha8bViI5q5rYmJc79KjFHi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jCGxbV++l5zqUSkXarT9VWg==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 6",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3E1Zha8bViI5q5rYmJc79KjFHi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jNNXIL9A4bLvpieVUvpu1Tw==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        }
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/fOX6cKsDSCRKrDCk4vWFv2MgzM3.jpg",
+              "uri": "http://series.tuxchannel.mx/series/night_stalker_the_hunt_for_a_serial_killer/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/fOX6cKsDSCRKrDCk4vWFv2MgzM3.jpg",
+              "uri": "http://series.tuxchannel.mx/series/night_stalker_the_hunt_for_a_serial_killer/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/fOX6cKsDSCRKrDCk4vWFv2MgzM3.jpg",
+              "uri": "http://series.tuxchannel.mx/series/night_stalker_the_hunt_for_a_serial_killer/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://image.tmdb.org/t/p/w500/fOX6cKsDSCRKrDCk4vWFv2MgzM3.jpg",
+              "uri": "http://series.tuxchannel.mx/series/night_stalker_the_hunt_for_a_serial_killer/s_01_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
       ]
-    },
-    {
-      "name": "Snowdrop T.1",
-      "ico": "https://i.ibb.co/WK69X62/SNOW.jpg",
+  },
+  {
+      "tipo": "serie",
+      "name": "ALL OR NOTHING MANCHESTER CITY",
+      "ico": "https://image.tmdb.org/t/p/w500/2Q3mKXNX7rm2kyPesS9KEFs8VcN.jpg",
       "temporada": [
-        {
-          "name": "Capitulo 1",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jDiX60us7rmWmDI75iemk+g==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 2",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jJwgi8IpDZZUFNAEl/gS90Q==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 3",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jj6n+mzdNh8f9OzVluBNPdg==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 4",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jaDH2VauIX+049CbiMe0hUw==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 5",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jlNp/WjeQD+8VsH8KbWG+wQ==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 6",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jfTNWWSR5z/b4KS73J5DPrg==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 7",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jfNIXtDoEANTrPt/6JJ2NqA==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 8",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jl9pQm6JhGItgY90QxyQuKQ==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 9",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jwbwDUX2BHa7+XVh6qwTWsw==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 10",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jvc4G1pxaeHP7we1KNoXRew==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 11",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j8ona1mszXW1gpB97+XjQaQ==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 12",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jA7CAb1WMm8M8gQjZKLw79g==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 13",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j+MJd3E3AJnPI4YAHsCJv6Q==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 14",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jmpUl4ThVJgrUr8z3uN+s3Q==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 15",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jwyXKn9PhDLIUkMXHFma2pg==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 16",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jVMl94uITouePE6w9Ey48MQ==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        }
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/2Q3mKXNX7rm2kyPesS9KEFs8VcN.jpg",
+              "uri": "http://series.tuxchannel.mx/series/all_or_nothing_manchester_city/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/2Q3mKXNX7rm2kyPesS9KEFs8VcN.jpg",
+              "uri": "http://series.tuxchannel.mx/series/all_or_nothing_manchester_city/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/2Q3mKXNX7rm2kyPesS9KEFs8VcN.jpg",
+              "uri": "http://series.tuxchannel.mx/series/all_or_nothing_manchester_city/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://image.tmdb.org/t/p/w500/2Q3mKXNX7rm2kyPesS9KEFs8VcN.jpg",
+              "uri": "http://series.tuxchannel.mx/series/all_or_nothing_manchester_city/s_01_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 5",
+              "ico": "https://image.tmdb.org/t/p/w500/2Q3mKXNX7rm2kyPesS9KEFs8VcN.jpg",
+              "uri": "http://series.tuxchannel.mx/series/all_or_nothing_manchester_city/s_01_e_05.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 6",
+              "ico": "https://image.tmdb.org/t/p/w500/2Q3mKXNX7rm2kyPesS9KEFs8VcN.jpg",
+              "uri": "http://series.tuxchannel.mx/series/all_or_nothing_manchester_city/s_01_e_06.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 7",
+              "ico": "https://image.tmdb.org/t/p/w500/2Q3mKXNX7rm2kyPesS9KEFs8VcN.jpg",
+              "uri": "http://series.tuxchannel.mx/series/all_or_nothing_manchester_city/s_01_e_07.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 8",
+              "ico": "https://image.tmdb.org/t/p/w500/2Q3mKXNX7rm2kyPesS9KEFs8VcN.jpg",
+              "uri": "http://series.tuxchannel.mx/series/all_or_nothing_manchester_city/s_01_e_08.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
       ]
-    },
-    {
-      "name": "Una familia ejemplar T.1",
-      "ico": "https://i.ibb.co/bdkHy3F/unafamilia.webp",
+  },
+  {
+      "tipo": "serie",
+      "name": "AMERICA VS AMERICA",
+      "ico": "https://image.tmdb.org/t/p/w500/zzqQ3JSfRUaUJFL0OC6Sn7gF6hE.jpg",
       "temporada": [
-        {
-          "name": "Capitulo 1",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJQpMD1o7NLN83u4BDkfROWEeLK.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jP/OFEIekDfgRa9VAHj/L0w==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 2",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJQpMD1o7NLN83u4BDkfROWEeLK.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jexJWoY7kUcRU4wwlVP669A==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 3",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJQpMD1o7NLN83u4BDkfROWEeLK.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j5a2Mc/MaW8Jdv4WvEV7B3w==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 4",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJQpMD1o7NLN83u4BDkfROWEeLK.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j0jgP2ZYQIvfXufMwLx7BSg==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 5",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJQpMD1o7NLN83u4BDkfROWEeLK.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jbDjXmwuRzrdE9gs5E5TS0A==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 6",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJQpMD1o7NLN83u4BDkfROWEeLK.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jkeTguTIMFRs3ep3K+QkpQg==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 7",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJQpMD1o7NLN83u4BDkfROWEeLK.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jaNjPTm5ax0sooCwAGDObBg==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 8",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJQpMD1o7NLN83u4BDkfROWEeLK.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jBWzOFb/HPex/IXmJSxhc5g==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 9",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJQpMD1o7NLN83u4BDkfROWEeLK.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j67gfLA5RpKpm4sErRwJYQQ==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 10",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJQpMD1o7NLN83u4BDkfROWEeLK.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jT5NloescRMcGofxA2B76Ag==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        }
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/zzqQ3JSfRUaUJFL0OC6Sn7gF6hE.jpg",
+              "uri": "http://series.tuxchannel.mx/series/america_vs_america/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/zzqQ3JSfRUaUJFL0OC6Sn7gF6hE.jpg",
+              "uri": "http://series.tuxchannel.mx/series/america_vs_america/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/zzqQ3JSfRUaUJFL0OC6Sn7gF6hE.jpg",
+              "uri": "http://series.tuxchannel.mx/series/america_vs_america/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://image.tmdb.org/t/p/w500/zzqQ3JSfRUaUJFL0OC6Sn7gF6hE.jpg",
+              "uri": "http://series.tuxchannel.mx/series/america_vs_america/s_01_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 5",
+              "ico": "https://image.tmdb.org/t/p/w500/zzqQ3JSfRUaUJFL0OC6Sn7gF6hE.jpg",
+              "uri": "http://series.tuxchannel.mx/series/america_vs_america/s_01_e_05.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 6",
+              "ico": "https://image.tmdb.org/t/p/w500/zzqQ3JSfRUaUJFL0OC6Sn7gF6hE.jpg",
+              "uri": "http://series.tuxchannel.mx/series/america_vs_america/s_01_e_06.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
       ]
-    },
-    {
-      "name": "No soy un robot T.1",
-      "ico": "https://i.ibb.co/kHQ1kkP/no-soy-un-robot.jpg",
+  },
+  {
+      "tipo": "serie",
+      "name": "ANDES MAGICO",
+      "ico": "https://image.tmdb.org/t/p/w500/381dit4NxyMt5j7BPNkwKj3FPZr.jpg",
       "temporada": [
-        {
-          "name": "Capitulo 1",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VoCJArt3KtRDtfxJRRp7vkzwi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jb6v5Sb9UarieKQk45QSdwQ==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 2",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VoCJArt3KtRDtfxJRRp7vkzwi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j4P/aUVdJfAC93+wxBukxrA==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 3",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VoCJArt3KtRDtfxJRRp7vkzwi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jHPnZmi1Kbffcutz9kYzvww==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 4",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VoCJArt3KtRDtfxJRRp7vkzwi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j9zLfv4LNj2/Qv4mfEPjvhw==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 5",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VoCJArt3KtRDtfxJRRp7vkzwi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jLzBAvQuJ/xIxzy70LF+tpA==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 6",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VoCJArt3KtRDtfxJRRp7vkzwi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jgo6B4TsyrKQJ849dFCrbng==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 7",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VoCJArt3KtRDtfxJRRp7vkzwi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jnS2kCsFvtTbUE1kKYJsUnw==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 8",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VoCJArt3KtRDtfxJRRp7vkzwi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jj+b/6egKWBzTXaZ5E+f4GQ==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 9",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VoCJArt3KtRDtfxJRRp7vkzwi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jYGF2W/6J0QfDtAC4MRRh6w==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 10",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VoCJArt3KtRDtfxJRRp7vkzwi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j/CG/9Nq2mPuHQYn+xA9jgw==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 11",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VoCJArt3KtRDtfxJRRp7vkzwi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jjyET4LmaH/bKcmn0Pxd8Bw==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 12",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VoCJArt3KtRDtfxJRRp7vkzwi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jOZvJJjPPwDQA+ldN+3wI3A==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 13",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VoCJArt3KtRDtfxJRRp7vkzwi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jidbxffymAbh1fiBY7IrEkA==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 14",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VoCJArt3KtRDtfxJRRp7vkzwi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jB836kWYMb/QEAbCk9+R/7g==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 15",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VoCJArt3KtRDtfxJRRp7vkzwi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jxuDTaaNqpOzYPJl5TL4MoQ==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 16",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VoCJArt3KtRDtfxJRRp7vkzwi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jBespuoK3M8JI7LO4G3e0Bw==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        }
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/381dit4NxyMt5j7BPNkwKj3FPZr.jpg",
+              "uri": "http://series.tuxchannel.mx/series/andes_magicos/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/381dit4NxyMt5j7BPNkwKj3FPZr.jpg",
+              "uri": "http://series.tuxchannel.mx/series/andes_magicos/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/381dit4NxyMt5j7BPNkwKj3FPZr.jpg",
+              "uri": "http://series.tuxchannel.mx/series/andes_magicos/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://image.tmdb.org/t/p/w500/381dit4NxyMt5j7BPNkwKj3FPZr.jpg",
+              "uri": "http://series.tuxchannel.mx/series/andes_magicos/s_01_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 5",
+              "ico": "https://image.tmdb.org/t/p/w500/381dit4NxyMt5j7BPNkwKj3FPZr.jpg",
+              "uri": "http://series.tuxchannel.mx/series/andes_magicos/s_01_e_05.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 6",
+              "ico": "https://image.tmdb.org/t/p/w500/381dit4NxyMt5j7BPNkwKj3FPZr.jpg",
+              "uri": "http://series.tuxchannel.mx/series/andes_magicos/s_01_e_06.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
       ]
-    },
-    {
-      "name": "A la caza de espiritus malignos T.1",
-      "ico": "https://i.ibb.co/bdQxS2M/The-Uncanny-Counter.webp",
+  },
+  {
+      "tipo": "serie",
+      "name": "ANITTA MADE IN HONORIO",
+      "ico": "https://image.tmdb.org/t/p/w500/nPVcV461ZTj72w9ZtHvZr6ASgzM.jpg",
       "temporada": [
-        {
-          "name": "Capitulo 1",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2jQYm3YGy8J6wBs8bLDDqIPSnB.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jYFAgVHjOBQZuyL2Ht21TSQ==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 2",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2jQYm3YGy8J6wBs8bLDDqIPSnB.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jWJvf0RM2oeyWaUeGpU9wRw==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 3",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2jQYm3YGy8J6wBs8bLDDqIPSnB.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jJVmzU+SoAySZZyw0kDZTBg==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 4",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2jQYm3YGy8J6wBs8bLDDqIPSnB.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jbqJ3crz9DXdM0LAOfYNmMA==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 5",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2jQYm3YGy8J6wBs8bLDDqIPSnB.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jmGkYqE18xDm/ER1t1JFY4A==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 6",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2jQYm3YGy8J6wBs8bLDDqIPSnB.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j/wVHyH9ht7TozWbqBUiIGg==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 7",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2jQYm3YGy8J6wBs8bLDDqIPSnB.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jRLias3pYwc3pW+ni4aefoQ==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 8",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2jQYm3YGy8J6wBs8bLDDqIPSnB.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jUEGpVcl/l8rsTuH8nKUKAQ==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 9",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2jQYm3YGy8J6wBs8bLDDqIPSnB.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jdfgcHmVCGg1cEDsxMzWifw==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 10",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2jQYm3YGy8J6wBs8bLDDqIPSnB.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jMtL2/sMKVYhkT9MyGVetOQ==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 11",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2jQYm3YGy8J6wBs8bLDDqIPSnB.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j8IM+/swWcRc0q0ppg2aB1g==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 12",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2jQYm3YGy8J6wBs8bLDDqIPSnB.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jf0LHW3gHxUwSZ8av8f1BZA==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 13",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2jQYm3YGy8J6wBs8bLDDqIPSnB.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jOtypT2o3Jfjnsn8Sjlue4A==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 14",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2jQYm3YGy8J6wBs8bLDDqIPSnB.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j5s9+pPb8ivjCeZp1SyruxQ==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 15",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2jQYm3YGy8J6wBs8bLDDqIPSnB.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jqAR+LdzOxMqfIX65TTf9sw==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 16",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2jQYm3YGy8J6wBs8bLDDqIPSnB.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jKABT9DmZB2hk8xDtFHiEqg==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        }
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/nPVcV461ZTj72w9ZtHvZr6ASgzM.jpg",
+              "uri": "http://series.tuxchannel.mx/series/anitta_made_in_honorio/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/nPVcV461ZTj72w9ZtHvZr6ASgzM.jpg",
+              "uri": "http://series.tuxchannel.mx/series/anitta_made_in_honorio/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/nPVcV461ZTj72w9ZtHvZr6ASgzM.jpg",
+              "uri": "http://series.tuxchannel.mx/series/anitta_made_in_honorio/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://image.tmdb.org/t/p/w500/nPVcV461ZTj72w9ZtHvZr6ASgzM.jpg",
+              "uri": "http://series.tuxchannel.mx/series/anitta_made_in_honorio/s_01_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 5",
+              "ico": "https://image.tmdb.org/t/p/w500/nPVcV461ZTj72w9ZtHvZr6ASgzM.jpg",
+              "uri": "http://series.tuxchannel.mx/series/anitta_made_in_honorio/s_01_e_05.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 6",
+              "ico": "https://image.tmdb.org/t/p/w500/nPVcV461ZTj72w9ZtHvZr6ASgzM.jpg",
+              "uri": "http://series.tuxchannel.mx/series/anitta_made_in_honorio/s_01_e_06.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
       ]
-    },
-    {
-      "name": "A la caza de espiritus malignos T.2",
-      "ico": "https://i.ibb.co/QbyghJZ/temporada-2.jpg",
+  },
+  {
+      "tipo": "serie",
+      "name": "ASES DEL BISTURI",
+      "ico": "https://image.tmdb.org/t/p/w500/55m3YlPRpRiZ6owpDXy8iJyjUG9.jpg",
       "temporada": [
-        {
-          "name": "Capitulo 1",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0PThW9zC8QTASAQvHn4pKzABey.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jVOs3JhzTvzIwM6YcpsT3Og==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 2",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0PThW9zC8QTASAQvHn4pKzABey.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j9lrjlfp8N5fs33yBZbnWYA==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 3",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0PThW9zC8QTASAQvHn4pKzABey.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j9mE0qdAh+bDzfJWr39EH/Q==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 4",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0PThW9zC8QTASAQvHn4pKzABey.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jxHKvJ4C+blUWDEpb/VHGVA==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 5",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0PThW9zC8QTASAQvHn4pKzABey.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jzhAId3XAEjKtMM65y/22Tw==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 6",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0PThW9zC8QTASAQvHn4pKzABey.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jrGZ0CwmQm3JQWQNauEWzNw==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 7",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0PThW9zC8QTASAQvHn4pKzABey.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jpSRd1jISOvNSTglbe/6L1Q==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 8",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0PThW9zC8QTASAQvHn4pKzABey.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jyU4AMDbrpsoT31WXAUIQtQ==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 9",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0PThW9zC8QTASAQvHn4pKzABey.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jdeY+SXszZ4N6uGD0/FW3pA==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 10",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0PThW9zC8QTASAQvHn4pKzABey.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jRre5wxXzYtUNs4gOSqQZdA==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 11",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0PThW9zC8QTASAQvHn4pKzABey.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jlBh7SPv6GmvanrTYhDkl9Q==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 12",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0PThW9zC8QTASAQvHn4pKzABey.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jAzgyN1YfJTee3Iw21a+u5g==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        }
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/55m3YlPRpRiZ6owpDXy8iJyjUG9.jpg",
+              "uri": "http://series.tuxchannel.mx/series/the_surgeons_cut/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/55m3YlPRpRiZ6owpDXy8iJyjUG9.jpg",
+              "uri": "http://series.tuxchannel.mx/series/the_surgeons_cut/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/55m3YlPRpRiZ6owpDXy8iJyjUG9.jpg",
+              "uri": "http://series.tuxchannel.mx/series/the_surgeons_cut/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://image.tmdb.org/t/p/w500/55m3YlPRpRiZ6owpDXy8iJyjUG9.jpg",
+              "uri": "http://series.tuxchannel.mx/series/the_surgeons_cut/s_01_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
       ]
-    },
-    {
-      "name": "King the land T.1",
-      "ico": "https://i.ibb.co/kh2Swx9/temporada-1.jpg",
+  },
+  {
+      "tipo": "serie",
+      "name": "ATRACOS",
+      "ico": "https://image.tmdb.org/t/p/w500/ttG7SIqtuYRLSHJWE27zdY71hJo.jpg",
       "temporada": [
-        {
-          "name": "Capitulo 1",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bM1v73KEFfCtucy1uyqku8dOv9J.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jK6+pIFUwi8PEtcNZELT9yQ==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 2",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bM1v73KEFfCtucy1uyqku8dOv9J.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j4eGdAE79RhhdRB7QIcwBDQ==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 3",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bM1v73KEFfCtucy1uyqku8dOv9J.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jFClgqb77JTxPk3HafGFQGg==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 4",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bM1v73KEFfCtucy1uyqku8dOv9J.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jMixTWQbeQ4bgyf1lIrGYDg==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 5",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bM1v73KEFfCtucy1uyqku8dOv9J.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j/3doz0NiU1k9CDsjjpUnZg==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 6",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bM1v73KEFfCtucy1uyqku8dOv9J.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jl9VFIN1l7LLY8Cx82TjZxA==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 7",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bM1v73KEFfCtucy1uyqku8dOv9J.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jp6HOJSWO/cD9k+tU6jwBSA==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 8",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bM1v73KEFfCtucy1uyqku8dOv9J.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jfQG/GiLLk14J2yUUJ5mJlA==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 9",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bM1v73KEFfCtucy1uyqku8dOv9J.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j0hLr/vVOkI/h5tWhOufNrQ==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 10",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bM1v73KEFfCtucy1uyqku8dOv9J.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jwKxMWFQ+22g3ykDpJUhOFA==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 11",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bM1v73KEFfCtucy1uyqku8dOv9J.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jFhRqCntt6OVGo/USB7my1g==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 12",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bM1v73KEFfCtucy1uyqku8dOv9J.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j045Ig4nBB3lznWibtsnsdA==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 13",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bM1v73KEFfCtucy1uyqku8dOv9J.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j+p7c63uPUEltxvJpzFyq6w==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 14",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bM1v73KEFfCtucy1uyqku8dOv9J.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jTS5OR3WdL/lPEsVsqeY/Kg==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 15",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bM1v73KEFfCtucy1uyqku8dOv9J.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j86TEFt4uWjL7kxSSLE1Diw==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 16",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bM1v73KEFfCtucy1uyqku8dOv9J.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jSptAdFHoGO1vY1WyWWoDXw==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        }
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/ttG7SIqtuYRLSHJWE27zdY71hJo.jpg",
+              "uri": "http://series.tuxchannel.mx/series/heist/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/ttG7SIqtuYRLSHJWE27zdY71hJo.jpg",
+              "uri": "http://series.tuxchannel.mx/series/heist/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/ttG7SIqtuYRLSHJWE27zdY71hJo.jpg",
+              "uri": "http://series.tuxchannel.mx/series/heist/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://image.tmdb.org/t/p/w500/ttG7SIqtuYRLSHJWE27zdY71hJo.jpg",
+              "uri": "http://series.tuxchannel.mx/series/heist/s_01_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 5",
+              "ico": "https://image.tmdb.org/t/p/w500/ttG7SIqtuYRLSHJWE27zdY71hJo.jpg",
+              "uri": "http://series.tuxchannel.mx/series/heist/s_01_e_05.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 6",
+              "ico": "https://image.tmdb.org/t/p/w500/ttG7SIqtuYRLSHJWE27zdY71hJo.jpg",
+              "uri": "http://series.tuxchannel.mx/series/heist/s_01_e_06.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
       ]
-    },
-    {
-      "name": "La cancion de los bandidos T.1",
-      "ico": "https://i.ibb.co/xqKQ94s/cancion.jpg",
+  },
+  {
+      "tipo": "serie",
+      "name": "AUDIENCIA CAUTIVA",
+      "ico": "https://image.tmdb.org/t/p/w500/cTeASlHFdnB4xBX9WrWuf4Sp9R0.jpg",
       "temporada": [
-        {
-          "name": "Capitulo 1",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBwRSywED04vCkZgnhHPHqBcBL2.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jG7YRAq+JpPAA2zWPK/RzRQ==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 2",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBwRSywED04vCkZgnhHPHqBcBL2.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jifh1RyRdzwll4T3pFqpbkg==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 3",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBwRSywED04vCkZgnhHPHqBcBL2.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j/Jxh0yFBduh+cJuEFdmJdA==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 4",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBwRSywED04vCkZgnhHPHqBcBL2.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jAYKzXP0B4PHj3vgLsiueWg==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 5",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBwRSywED04vCkZgnhHPHqBcBL2.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jFHac5UHVxvIOQ874UfHANg==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 6",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBwRSywED04vCkZgnhHPHqBcBL2.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+js/qmAWjyIjgxDHmU5BzSEw==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 7",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBwRSywED04vCkZgnhHPHqBcBL2.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jzbFdof9JB7okXgseK/nEUQ==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 8",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBwRSywED04vCkZgnhHPHqBcBL2.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jy7VJXuzf1M2f4b8ejCGSfg==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 9",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBwRSywED04vCkZgnhHPHqBcBL2.jpg",
-          "uri": "YQQvqWdeD/C9GOHwNzRGvIvIEZBcjBkRqmvGuXgBC5PM+VZ0MCZUaqFG1dac0x7AU+JZN/XK6jlxi+D06JPWWtk2id2arJ+5/ZsTQxEvB++WOOjq14SM9V5TflQeMR9j",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        }
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/cTeASlHFdnB4xBX9WrWuf4Sp9R0.jpg",
+              "uri": "http://series.tuxchannel.mx/series/captive_audience/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/cTeASlHFdnB4xBX9WrWuf4Sp9R0.jpg",
+              "uri": "http://series.tuxchannel.mx/series/captive_audience/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/cTeASlHFdnB4xBX9WrWuf4Sp9R0.jpg",
+              "uri": "http://series.tuxchannel.mx/series/captive_audience/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
       ]
-    },
-    {
-      "name": "Vida imcompleta T.1",
-      "ico": "https://i.ibb.co/KLWWyX8/tem.jpg",
+  },
+  {
+      "tipo": "serie",
+      "name": "BASKETBALL OR NOTHING",
+      "ico": "https://image.tmdb.org/t/p/w500/kKzGcTc1URsjhqbiuh7BMNyxTuV.jpg",
       "temporada": [
-        {
-          "name": "Capitulo 1",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmi9T1JAng5TP6Taf3tH1xUrPBi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jH5Nn7C2SzdywglJvJX5Tdw==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 2",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmi9T1JAng5TP6Taf3tH1xUrPBi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j6oHp6/UPX9CuD3Mu0CFdsw==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 3",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmi9T1JAng5TP6Taf3tH1xUrPBi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j3GS2Pt1EF+3BYQ/WWRN1Hg==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 4",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmi9T1JAng5TP6Taf3tH1xUrPBi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jAigUe1iSOY6/wxNTsWje/Q==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 5",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmi9T1JAng5TP6Taf3tH1xUrPBi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jpzV2+I45oNucOnpfuBYmFw==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 6",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmi9T1JAng5TP6Taf3tH1xUrPBi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+j7kNXDfAZkBweexfSuK3tiA==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 7",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmi9T1JAng5TP6Taf3tH1xUrPBi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jV/k8PeVRgvYhforr0r40Mw==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 8",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmi9T1JAng5TP6Taf3tH1xUrPBi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jVkBHO/H8tCBexeF1gmdWuA==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 9",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmi9T1JAng5TP6Taf3tH1xUrPBi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jcSf9t+ixf30ombEGizXTuA==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 10",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmi9T1JAng5TP6Taf3tH1xUrPBi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jYc+Wwg8pQVy6v2LjkbPP8A==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 11",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmi9T1JAng5TP6Taf3tH1xUrPBi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jikcYz2mjCDdUF7Ay1aEhjQ==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "Capitulo 12",
-          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmi9T1JAng5TP6Taf3tH1xUrPBi.jpg",
-          "uri": "rwCb/LYM/khQCfDSnj+PQkdHrlewydle8RUWeRX4A2QZMnqqT2cVr3UFn0JdHf+jEErulxZ36rrHfgCXglnGqQ==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        }
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/kKzGcTc1URsjhqbiuh7BMNyxTuV.jpg",
+              "uri": "http://series.tuxchannel.mx/series/basketball_or_nothing/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/kKzGcTc1URsjhqbiuh7BMNyxTuV.jpg",
+              "uri": "http://series.tuxchannel.mx/series/basketball_or_nothing/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/kKzGcTc1URsjhqbiuh7BMNyxTuV.jpg",
+              "uri": "http://series.tuxchannel.mx/series/basketball_or_nothing/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://image.tmdb.org/t/p/w500/kKzGcTc1URsjhqbiuh7BMNyxTuV.jpg",
+              "uri": "http://series.tuxchannel.mx/series/basketball_or_nothing/s_01_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 5",
+              "ico": "https://image.tmdb.org/t/p/w500/kKzGcTc1URsjhqbiuh7BMNyxTuV.jpg",
+              "uri": "http://series.tuxchannel.mx/series/basketball_or_nothing/s_01_e_05.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 6",
+              "ico": "https://image.tmdb.org/t/p/w500/kKzGcTc1URsjhqbiuh7BMNyxTuV.jpg",
+              "uri": "http://series.tuxchannel.mx/series/basketball_or_nothing/s_01_e_06.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
       ]
-    }
+  },
+  {
+      "tipo": "serie",
+      "name": "BEAR GRYLLS ESCAPE FROM HELL",
+      "ico": "https://image.tmdb.org/t/p/w500/fRFr8E4rE3igUBiRM1HA3kQo1JC.jpg",
+      "temporada": [
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/fRFr8E4rE3igUBiRM1HA3kQo1JC.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bear%20grylls%20escape%20from%20hell/s%2001%20episodio%2001.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/fRFr8E4rE3igUBiRM1HA3kQo1JC.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bear%20grylls%20escape%20from%20hell/s%2001%20episodio%2002.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/fRFr8E4rE3igUBiRM1HA3kQo1JC.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bear%20grylls%20escape%20from%20hell/s%2001%20episodio%2003.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://image.tmdb.org/t/p/w500/fRFr8E4rE3igUBiRM1HA3kQo1JC.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bear%20grylls%20escape%20from%20hell/s%2001%20episodio%2004.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 5",
+              "ico": "https://image.tmdb.org/t/p/w500/fRFr8E4rE3igUBiRM1HA3kQo1JC.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bear%20grylls%20escape%20from%20hell/s%2001%20episodio%2005.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 6",
+              "ico": "https://image.tmdb.org/t/p/w500/fRFr8E4rE3igUBiRM1HA3kQo1JC.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bear%20grylls%20escape%20from%20hell/s%2001%20episodio%2006.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
+      ]
+  },
+  {
+      "tipo": "serie",
+      "name": "BITCHIN RIDES T1,2,3,4,5,7,8",
+      "ico": "https://i.ibb.co/JWyYBtjP/BITCHIN-RIDES1.jpg",
+      "temporada": [
+          {
+              "name": "Capitulo 1",
+              "ico": "https://i.ibb.co/JWyYBtjP/BITCHIN-RIDES1.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://i.ibb.co/JWyYBtjP/BITCHIN-RIDES1.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://i.ibb.co/JWyYBtjP/BITCHIN-RIDES1.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://i.ibb.co/JWyYBtjP/BITCHIN-RIDES1.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_01_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 5",
+              "ico": "https://i.ibb.co/JWyYBtjP/BITCHIN-RIDES1.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_01_e_05.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 6",
+              "ico": "https://i.ibb.co/JWyYBtjP/BITCHIN-RIDES1.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_01_e_06.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 7",
+              "ico": "https://i.ibb.co/JWyYBtjP/BITCHIN-RIDES1.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_01_e_07.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 8",
+              "ico": "https://i.ibb.co/JWyYBtjP/BITCHIN-RIDES1.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_01_e_08.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 9",
+              "ico": "https://i.ibb.co/JWyYBtjP/BITCHIN-RIDES1.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_01_e_09.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 10",
+              "ico": "https://i.ibb.co/JWyYBtjP/BITCHIN-RIDES1.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_01_e_10.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 1",
+              "ico": "https://i.ibb.co/Myby1nGf/BITCHIN-RIDES2.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_02_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://i.ibb.co/Myby1nGf/BITCHIN-RIDES2.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_02_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://i.ibb.co/Myby1nGf/BITCHIN-RIDES2.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_02_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://i.ibb.co/Myby1nGf/BITCHIN-RIDES2.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_02_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 5",
+              "ico": "https://i.ibb.co/Myby1nGf/BITCHIN-RIDES2.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_02_e_05.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 6",
+              "ico": "https://i.ibb.co/Myby1nGf/BITCHIN-RIDES2.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_02_e_06.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 7",
+              "ico": "https://i.ibb.co/Myby1nGf/BITCHIN-RIDES2.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_02_e_07.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 8",
+              "ico": "https://i.ibb.co/Myby1nGf/BITCHIN-RIDES2.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_02_e_08.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 9",
+              "ico": "https://i.ibb.co/Myby1nGf/BITCHIN-RIDES2.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_02_e_09.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 10",
+              "ico": "https://i.ibb.co/Myby1nGf/BITCHIN-RIDES2.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_02_e_10.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 11",
+              "ico": "https://i.ibb.co/Myby1nGf/BITCHIN-RIDES2.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_02_e_11.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 12",
+              "ico": "https://i.ibb.co/Myby1nGf/BITCHIN-RIDES2.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_02_e_12.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 1",
+              "ico": "https://i.ibb.co/YFwDcgYW/BITCHIN-RIDES3.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_03_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://i.ibb.co/YFwDcgYW/BITCHIN-RIDES3.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_03_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://i.ibb.co/YFwDcgYW/BITCHIN-RIDES3.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_03_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://i.ibb.co/YFwDcgYW/BITCHIN-RIDES3.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_03_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 5",
+              "ico": "https://i.ibb.co/YFwDcgYW/BITCHIN-RIDES3.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_03_e_05.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 6",
+              "ico": "https://i.ibb.co/YFwDcgYW/BITCHIN-RIDES3.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_03_e_06.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 7",
+              "ico": "https://i.ibb.co/YFwDcgYW/BITCHIN-RIDES3.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_03_e_07.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 8",
+              "ico": "https://i.ibb.co/YFwDcgYW/BITCHIN-RIDES3.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_03_e_08.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 9",
+              "ico": "https://i.ibb.co/YFwDcgYW/BITCHIN-RIDES3.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_03_e_09.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 10",
+              "ico": "https://i.ibb.co/YFwDcgYW/BITCHIN-RIDES3.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_03_e_10.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 11",
+              "ico": "https://i.ibb.co/YFwDcgYW/BITCHIN-RIDES3.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_03_e_11.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 12",
+              "ico": "https://i.ibb.co/YFwDcgYW/BITCHIN-RIDES3.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_03_e_12.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 1",
+              "ico": "https://i.ibb.co/XfJzxw51/BITCHIN-RIDES4.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_04_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://i.ibb.co/XfJzxw51/BITCHIN-RIDES4.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_04_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://i.ibb.co/XfJzxw51/BITCHIN-RIDES4.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_04_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://i.ibb.co/XfJzxw51/BITCHIN-RIDES4.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_04_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 5",
+              "ico": "https://i.ibb.co/XfJzxw51/BITCHIN-RIDES4.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_04_e_05.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 6",
+              "ico": "https://i.ibb.co/XfJzxw51/BITCHIN-RIDES4.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_04_e_06.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 7",
+              "ico": "https://i.ibb.co/XfJzxw51/BITCHIN-RIDES4.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_04_e_07.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 8",
+              "ico": "https://i.ibb.co/XfJzxw51/BITCHIN-RIDES4.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_04_e_08.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 9",
+              "ico": "https://i.ibb.co/XfJzxw51/BITCHIN-RIDES4.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_04_e_09.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 10",
+              "ico": "https://i.ibb.co/XfJzxw51/BITCHIN-RIDES4.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_04_e_10.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 11",
+              "ico": "https://i.ibb.co/XfJzxw51/BITCHIN-RIDES4.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_04_e_11.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 12",
+              "ico": "https://i.ibb.co/XfJzxw51/BITCHIN-RIDES4.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_04_e_12.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 13",
+              "ico": "https://i.ibb.co/XfJzxw51/BITCHIN-RIDES4.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_04_e_13.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 14",
+              "ico": "https://i.ibb.co/XfJzxw51/BITCHIN-RIDES4.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_04_e_14.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 15",
+              "ico": "https://i.ibb.co/XfJzxw51/BITCHIN-RIDES4.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_04_e_15.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 16",
+              "ico": "https://i.ibb.co/XfJzxw51/BITCHIN-RIDES4.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_04_e_16.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 1",
+              "ico": "https://i.ibb.co/Kc1RGCNx/BITCHIN-RIDES5.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_05_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://i.ibb.co/Kc1RGCNx/BITCHIN-RIDES5.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_05_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://i.ibb.co/Kc1RGCNx/BITCHIN-RIDES5.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_05_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://i.ibb.co/Kc1RGCNx/BITCHIN-RIDES5.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_05_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 5",
+              "ico": "https://i.ibb.co/Kc1RGCNx/BITCHIN-RIDES5.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_05_e_05.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 6",
+              "ico": "https://i.ibb.co/Kc1RGCNx/BITCHIN-RIDES5.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_05_e_06.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 7",
+              "ico": "https://i.ibb.co/Kc1RGCNx/BITCHIN-RIDES5.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_05_e_07.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 8",
+              "ico": "https://i.ibb.co/Kc1RGCNx/BITCHIN-RIDES5.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_05_e_08.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 9",
+              "ico": "https://i.ibb.co/Kc1RGCNx/BITCHIN-RIDES5.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_05_e_09.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 10",
+              "ico": "https://i.ibb.co/Kc1RGCNx/BITCHIN-RIDES5.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_05_e_10.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 11",
+              "ico": "https://i.ibb.co/Kc1RGCNx/BITCHIN-RIDES5.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_05_e_11.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 12",
+              "ico": "https://i.ibb.co/Kc1RGCNx/BITCHIN-RIDES5.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_05_e_12.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 13",
+              "ico": "https://i.ibb.co/Kc1RGCNx/BITCHIN-RIDES5.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_05_e_13.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 14",
+              "ico": "https://i.ibb.co/Kc1RGCNx/BITCHIN-RIDES5.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_05_e_14.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 1",
+              "ico": "https://i.ibb.co/HDHdchLb/BITCHIN-RIDES7.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_07_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://i.ibb.co/HDHdchLb/BITCHIN-RIDES7.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_07_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://i.ibb.co/HDHdchLb/BITCHIN-RIDES7.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_07_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://i.ibb.co/HDHdchLb/BITCHIN-RIDES7.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_07_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 5",
+              "ico": "https://i.ibb.co/HDHdchLb/BITCHIN-RIDES7.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_07_e_05.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 6",
+              "ico": "https://i.ibb.co/HDHdchLb/BITCHIN-RIDES7.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_07_e_06.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 7",
+              "ico": "https://i.ibb.co/HDHdchLb/BITCHIN-RIDES7.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_07_e_07.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 8",
+              "ico": "https://i.ibb.co/HDHdchLb/BITCHIN-RIDES7.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_07_e_08.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 9",
+              "ico": "https://i.ibb.co/HDHdchLb/BITCHIN-RIDES7.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_07_e_09.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 10",
+              "ico": "https://i.ibb.co/HDHdchLb/BITCHIN-RIDES7.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_07_e_10.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 11",
+              "ico": "https://i.ibb.co/HDHdchLb/BITCHIN-RIDES7.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_07_e_11.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 12",
+              "ico": "https://i.ibb.co/HDHdchLb/BITCHIN-RIDES7.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_07_e_12.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 13",
+              "ico": "https://i.ibb.co/HDHdchLb/BITCHIN-RIDES7.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_07_e_13.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 14",
+              "ico": "https://i.ibb.co/HDHdchLb/BITCHIN-RIDES7.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_07_e_14.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 1",
+              "ico": "https://i.ibb.co/Zp1YWbRt/BITCHIN-RIDES8.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_08_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://i.ibb.co/Zp1YWbRt/BITCHIN-RIDES8.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_08_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://i.ibb.co/Zp1YWbRt/BITCHIN-RIDES8.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_08_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://i.ibb.co/Zp1YWbRt/BITCHIN-RIDES8.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_08_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 5",
+              "ico": "https://i.ibb.co/Zp1YWbRt/BITCHIN-RIDES8.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_08_e_05.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 6",
+              "ico": "https://i.ibb.co/Zp1YWbRt/BITCHIN-RIDES8.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_08_e_06.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 7",
+              "ico": "https://i.ibb.co/Zp1YWbRt/BITCHIN-RIDES8.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_08_e_07.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 8",
+              "ico": "https://i.ibb.co/Zp1YWbRt/BITCHIN-RIDES8.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_08_e_08.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 9",
+              "ico": "https://i.ibb.co/Zp1YWbRt/BITCHIN-RIDES8.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_08_e_09.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 10",
+              "ico": "https://i.ibb.co/Zp1YWbRt/BITCHIN-RIDES8.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bitchin%20rides/s_08_e_10.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
+      ]
+  },
+  {
+      "tipo": "serie",
+      "name": "BLOWN AWAY",
+      "ico": "https://image.tmdb.org/t/p/w500/9YmSm6x2aER6a7vfoOTDL9cKEuF.jpg",
+      "temporada": [
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/9YmSm6x2aER6a7vfoOTDL9cKEuF.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bown_away/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/9YmSm6x2aER6a7vfoOTDL9cKEuF.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bown_away/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/9YmSm6x2aER6a7vfoOTDL9cKEuF.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bown_away/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://image.tmdb.org/t/p/w500/9YmSm6x2aER6a7vfoOTDL9cKEuF.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bown_away/s_01_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 5",
+              "ico": "https://image.tmdb.org/t/p/w500/9YmSm6x2aER6a7vfoOTDL9cKEuF.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bown_away/s_01_e_05.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 6",
+              "ico": "https://image.tmdb.org/t/p/w500/9YmSm6x2aER6a7vfoOTDL9cKEuF.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bown_away/s_01_e_06.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 7",
+              "ico": "https://image.tmdb.org/t/p/w500/9YmSm6x2aER6a7vfoOTDL9cKEuF.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bown_away/s_01_e_07.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 8",
+              "ico": "https://image.tmdb.org/t/p/w500/9YmSm6x2aER6a7vfoOTDL9cKEuF.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bown_away/s_01_e_08.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 9",
+              "ico": "https://image.tmdb.org/t/p/w500/9YmSm6x2aER6a7vfoOTDL9cKEuF.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bown_away/s_01_e_09.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 10",
+              "ico": "https://image.tmdb.org/t/p/w500/9YmSm6x2aER6a7vfoOTDL9cKEuF.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bown_away/s_01_e_10.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
+      ]
+  },
+  {
+      "tipo": "serie",
+      "name": "BOCA JUNIOR CONFIDENTIAL",
+      "ico": "https://image.tmdb.org/t/p/w500/i5BCZOkZ6O2iemvDRwH8tTwcFM4.jpg",
+      "temporada": [
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/i5BCZOkZ6O2iemvDRwH8tTwcFM4.jpg",
+              "uri": "http://series.tuxchannel.mx/series/boca%20juniors%20confidential/s%2001%20e%2001.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/i5BCZOkZ6O2iemvDRwH8tTwcFM4.jpg",
+              "uri": "http://series.tuxchannel.mx/series/boca%20juniors%20confidential/s%2001%20e%2002.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/i5BCZOkZ6O2iemvDRwH8tTwcFM4.jpg",
+              "uri": "http://series.tuxchannel.mx/series/boca%20juniors%20confidential/s%2001%20e%2003.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://image.tmdb.org/t/p/w500/i5BCZOkZ6O2iemvDRwH8tTwcFM4.jpg",
+              "uri": "http://series.tuxchannel.mx/series/boca%20juniors%20confidential/s%2001%20e%2004.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
+      ]
+  },
+  {
+      "tipo": "serie",
+      "name": "BTS MONUMENTS BEYOND THE STAR",
+      "ico": "https://image.tmdb.org/t/p/w500/t4zBtETTby5WCLWAMvWPYHDuw41.jpg",
+      "temporada": [
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/t4zBtETTby5WCLWAMvWPYHDuw41.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bts_monuments_beyond_the_star/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/t4zBtETTby5WCLWAMvWPYHDuw41.jpg",
+              "uri": "http://series.tuxchannel.mx/series/bts_monuments_beyond_the_star/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
+      ]
+  },
+  {
+      "tipo": "serie",
+      "name": "CANINE INTERVENTION",
+      "ico": "https://image.tmdb.org/t/p/w500/2di7dBLfYpTo4DOeISgxRkL30g9.jpg",
+      "temporada": [
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/2di7dBLfYpTo4DOeISgxRkL30g9.jpg",
+              "uri": "http://series.tuxchannel.mx/series/canine_intervention/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/2di7dBLfYpTo4DOeISgxRkL30g9.jpg",
+              "uri": "http://series.tuxchannel.mx/series/canine_intervention/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/2di7dBLfYpTo4DOeISgxRkL30g9.jpg",
+              "uri": "http://series.tuxchannel.mx/series/canine_intervention/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://image.tmdb.org/t/p/w500/2di7dBLfYpTo4DOeISgxRkL30g9.jpg",
+              "uri": "http://series.tuxchannel.mx/series/canine_intervention/s_01_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 5",
+              "ico": "https://image.tmdb.org/t/p/w500/2di7dBLfYpTo4DOeISgxRkL30g9.jpg",
+              "uri": "http://series.tuxchannel.mx/series/canine_intervention/s_01_e_05.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 6",
+              "ico": "https://image.tmdb.org/t/p/w500/2di7dBLfYpTo4DOeISgxRkL30g9.jpg",
+              "uri": "http://series.tuxchannel.mx/series/canine_intervention/s_01_e_06.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
+      ]
+  },
+  {
+      "tipo": "serie",
+      "name": "CARMEL QUIEN MATO A MARIA MARTA",
+      "ico": "https://image.tmdb.org/t/p/w500/snmVxrXyZ9DShBL5olPvcuWlCab.jpg",
+      "temporada": [
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/snmVxrXyZ9DShBL5olPvcuWlCab.jpg",
+              "uri": "http://series.tuxchannel.mx/series/carmel_who_killed_maria_marta/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/snmVxrXyZ9DShBL5olPvcuWlCab.jpg",
+              "uri": "http://series.tuxchannel.mx/series/carmel_who_killed_maria_marta/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/snmVxrXyZ9DShBL5olPvcuWlCab.jpg",
+              "uri": "http://series.tuxchannel.mx/series/carmel_who_killed_maria_marta/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://image.tmdb.org/t/p/w500/snmVxrXyZ9DShBL5olPvcuWlCab.jpg",
+              "uri": "http://series.tuxchannel.mx/series/carmel_who_killed_maria_marta/s_01_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
+      ]
+  },
+  {
+      "tipo": "serie",
+      "name": "CHALLENGER EL VUELO FINAL",
+      "ico": "https://image.tmdb.org/t/p/w500/nJqCgP3vzu79mtf3i51Dv2B20Oy.jpg",
+      "temporada": [
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/nJqCgP3vzu79mtf3i51Dv2B20Oy.jpg",
+              "uri": "http://series.tuxchannel.mx/series/challenger_the_final_flight/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/nJqCgP3vzu79mtf3i51Dv2B20Oy.jpg",
+              "uri": "http://series.tuxchannel.mx/series/challenger_the_final_flight/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/nJqCgP3vzu79mtf3i51Dv2B20Oy.jpg",
+              "uri": "http://series.tuxchannel.mx/series/challenger_the_final_flight/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://image.tmdb.org/t/p/w500/nJqCgP3vzu79mtf3i51Dv2B20Oy.jpg",
+              "uri": "http://series.tuxchannel.mx/series/challenger_the_final_flight/s_01_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
+      ]
+  },
+  {
+      "tipo": "serie",
+      "name": "CIUDAD DEL MIEDO  NUEVA YORK",
+      "ico": "https://image.tmdb.org/t/p/w500/jQntaJvCakqbGJs8ihahXV8xk9f.jpg",
+      "temporada": [
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/jQntaJvCakqbGJs8ihahXV8xk9f.jpg",
+              "uri": "http://series.tuxchannel.mx/series/fear_city_new_york_vs_the_mafia/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/jQntaJvCakqbGJs8ihahXV8xk9f.jpg",
+              "uri": "http://series.tuxchannel.mx/series/fear_city_new_york_vs_the_mafia/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/jQntaJvCakqbGJs8ihahXV8xk9f.jpg",
+              "uri": "http://series.tuxchannel.mx/series/fear_city_new_york_vs_the_mafia/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
+      ]
+  },
+  {
+      "tipo": "serie",
+      "name": "COACH SNOOP",
+      "ico": "https://image.tmdb.org/t/p/w500/AaUuffBSzEByjiFW0FFnBK2BkOb.jpg",
+      "temporada": [
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/AaUuffBSzEByjiFW0FFnBK2BkOb.jpg",
+              "uri": "http://series.tuxchannel.mx/series/coach%20snoop%20/s%2001%20e%2001.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/AaUuffBSzEByjiFW0FFnBK2BkOb.jpg",
+              "uri": "http://series.tuxchannel.mx/series/coach%20snoop%20/s%2001%20e%2002.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/AaUuffBSzEByjiFW0FFnBK2BkOb.jpg",
+              "uri": "http://series.tuxchannel.mx/series/coach%20snoop%20/s%2001%20e%2003.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://image.tmdb.org/t/p/w500/AaUuffBSzEByjiFW0FFnBK2BkOb.jpg",
+              "uri": "http://series.tuxchannel.mx/series/coach%20snoop%20/s%2001%20e%2004.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 5",
+              "ico": "https://image.tmdb.org/t/p/w500/AaUuffBSzEByjiFW0FFnBK2BkOb.jpg",
+              "uri": "http://series.tuxchannel.mx/series/coach%20snoop%20/s%2001%20e%2005.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 6",
+              "ico": "https://image.tmdb.org/t/p/w500/AaUuffBSzEByjiFW0FFnBK2BkOb.jpg",
+              "uri": "http://series.tuxchannel.mx/series/coach%20snoop%20/s%2001%20e%2006.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 7",
+              "ico": "https://image.tmdb.org/t/p/w500/AaUuffBSzEByjiFW0FFnBK2BkOb.jpg",
+              "uri": "http://series.tuxchannel.mx/series/coach%20snoop%20/s%2001%20e%2007.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 8",
+              "ico": "https://image.tmdb.org/t/p/w500/AaUuffBSzEByjiFW0FFnBK2BkOb.jpg",
+              "uri": "http://series.tuxchannel.mx/series/coach%20snoop%20/s%2001%20e%2008.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
+      ]
+  },
+  {
+      "tipo": "serie",
+      "name": "COLONIA PINGUINO",
+      "ico": "https://image.tmdb.org/t/p/w500/3LtKOlUBdk6t3B01gbaR332YI2U.jpg",
+      "temporada": [
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/3LtKOlUBdk6t3B01gbaR332YI2U.jpg",
+              "uri": "http://series.tuxchannel.mx/series/penguin_town/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/3LtKOlUBdk6t3B01gbaR332YI2U.jpg",
+              "uri": "http://series.tuxchannel.mx/series/penguin_town/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/3LtKOlUBdk6t3B01gbaR332YI2U.jpg",
+              "uri": "http://series.tuxchannel.mx/series/penguin_town/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://image.tmdb.org/t/p/w500/3LtKOlUBdk6t3B01gbaR332YI2U.jpg",
+              "uri": "http://series.tuxchannel.mx/series/penguin_town/s_01_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 5",
+              "ico": "https://image.tmdb.org/t/p/w500/3LtKOlUBdk6t3B01gbaR332YI2U.jpg",
+              "uri": "http://series.tuxchannel.mx/series/penguin_town/s_01_e_05.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 6",
+              "ico": "https://image.tmdb.org/t/p/w500/3LtKOlUBdk6t3B01gbaR332YI2U.jpg",
+              "uri": "http://series.tuxchannel.mx/series/penguin_town/s_01_e_06.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 7",
+              "ico": "https://image.tmdb.org/t/p/w500/3LtKOlUBdk6t3B01gbaR332YI2U.jpg",
+              "uri": "http://series.tuxchannel.mx/series/penguin_town/s_01_e_07.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 8",
+              "ico": "https://image.tmdb.org/t/p/w500/3LtKOlUBdk6t3B01gbaR332YI2U.jpg",
+              "uri": "http://series.tuxchannel.mx/series/penguin_town/s_01_e_08.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
+      ]
+  },
+  {
+      "tipo": "serie",
+      "name": "MOB BOSS",
+      "ico": "https://image.tmdb.org/t/p/w500/s6tFEGwTPzU3y6DoijzKaaJAjjs.jpg",
+      "temporada": [
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/s6tFEGwTPzU3y6DoijzKaaJAjjs.jpg",
+              "uri": "http://series.tuxchannel.mx/series/how_to_become_a_mob_boss/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/s6tFEGwTPzU3y6DoijzKaaJAjjs.jpg",
+              "uri": "http://series.tuxchannel.mx/series/how_to_become_a_mob_boss/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/s6tFEGwTPzU3y6DoijzKaaJAjjs.jpg",
+              "uri": "http://series.tuxchannel.mx/series/how_to_become_a_mob_boss/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://image.tmdb.org/t/p/w500/s6tFEGwTPzU3y6DoijzKaaJAjjs.jpg",
+              "uri": "http://series.tuxchannel.mx/series/how_to_become_a_mob_boss/s_01_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 5",
+              "ico": "https://image.tmdb.org/t/p/w500/s6tFEGwTPzU3y6DoijzKaaJAjjs.jpg",
+              "uri": "http://series.tuxchannel.mx/series/how_to_become_a_mob_boss/s_01_e_05.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 6",
+              "ico": "https://image.tmdb.org/t/p/w500/s6tFEGwTPzU3y6DoijzKaaJAjjs.jpg",
+              "uri": "http://series.tuxchannel.mx/series/how_to_become_a_mob_boss/s_01_e_06.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
+      ]
+  },
+  {
+      "tipo": "serie",
+      "name": "HOW TO BECOME  A TYRANT",
+      "ico": "https://image.tmdb.org/t/p/w500/kdWrvDC6ApgZL9HxDVYTXwtHZkM.jpg",
+      "temporada": [
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/kdWrvDC6ApgZL9HxDVYTXwtHZkM.jpg",
+              "uri": "http://series.tuxchannel.mx/series/how_to_become_a_tyrant/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/kdWrvDC6ApgZL9HxDVYTXwtHZkM.jpg",
+              "uri": "http://series.tuxchannel.mx/series/how_to_become_a_tyrant/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/kdWrvDC6ApgZL9HxDVYTXwtHZkM.jpg",
+              "uri": "http://series.tuxchannel.mx/series/how_to_become_a_tyrant/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://image.tmdb.org/t/p/w500/kdWrvDC6ApgZL9HxDVYTXwtHZkM.jpg",
+              "uri": "http://series.tuxchannel.mx/series/how_to_become_a_tyrant/s_01_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 5",
+              "ico": "https://image.tmdb.org/t/p/w500/kdWrvDC6ApgZL9HxDVYTXwtHZkM.jpg",
+              "uri": "http://series.tuxchannel.mx/series/how_to_become_a_tyrant/s_01_e_05.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 6",
+              "ico": "https://image.tmdb.org/t/p/w500/kdWrvDC6ApgZL9HxDVYTXwtHZkM.jpg",
+              "uri": "http://series.tuxchannel.mx/series/how_to_become_a_tyrant/s_01_e_06.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
+      ]
+  },
+  {
+      "tipo": "serie",
+      "name": "CONNECTED",
+      "ico": "https://image.tmdb.org/t/p/w500/u1xTMUr9aCplVLi67zsJ0DOpbz0.jpg",
+      "temporada": [
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/u1xTMUr9aCplVLi67zsJ0DOpbz0.jpg",
+              "uri": "http://series.tuxchannel.mx/series/connected_the_hidden_science_of_everything/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/u1xTMUr9aCplVLi67zsJ0DOpbz0.jpg",
+              "uri": "http://series.tuxchannel.mx/series/connected_the_hidden_science_of_everything/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/u1xTMUr9aCplVLi67zsJ0DOpbz0.jpg",
+              "uri": "http://series.tuxchannel.mx/series/connected_the_hidden_science_of_everything/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://image.tmdb.org/t/p/w500/u1xTMUr9aCplVLi67zsJ0DOpbz0.jpg",
+              "uri": "http://series.tuxchannel.mx/series/connected_the_hidden_science_of_everything/s_01_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 5",
+              "ico": "https://image.tmdb.org/t/p/w500/u1xTMUr9aCplVLi67zsJ0DOpbz0.jpg",
+              "uri": "http://series.tuxchannel.mx/series/connected_the_hidden_science_of_everything/s_01_e_05.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 6",
+              "ico": "https://image.tmdb.org/t/p/w500/u1xTMUr9aCplVLi67zsJ0DOpbz0.jpg",
+              "uri": "http://series.tuxchannel.mx/series/connected_the_hidden_science_of_everything/s_01_e_06.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
+      ]
+  },
+  {
+      "tipo": "serie",
+      "name": "COSMOS",
+      "ico": "https://image.tmdb.org/t/p/w500/5o07ps0QZ0bNoRYxTn9cPdRWlUu.jpg",
+      "temporada": [
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/5o07ps0QZ0bNoRYxTn9cPdRWlUu.jpg",
+              "uri": "http://series.tuxchannel.mx/series/cosmos%20a%20space%20time%20odyssey/s%2001%20episodio%2001.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/5o07ps0QZ0bNoRYxTn9cPdRWlUu.jpg",
+              "uri": "http://series.tuxchannel.mx/series/cosmos%20a%20space%20time%20odyssey/s%2001%20episodio%2002.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/5o07ps0QZ0bNoRYxTn9cPdRWlUu.jpg",
+              "uri": "http://series.tuxchannel.mx/series/cosmos%20a%20space%20time%20odyssey/s%2001%20episodio%2003.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://image.tmdb.org/t/p/w500/5o07ps0QZ0bNoRYxTn9cPdRWlUu.jpg",
+              "uri": "http://series.tuxchannel.mx/series/cosmos%20a%20space%20time%20odyssey/s%2001%20episodio%2004.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 5",
+              "ico": "https://image.tmdb.org/t/p/w500/5o07ps0QZ0bNoRYxTn9cPdRWlUu.jpg",
+              "uri": "http://series.tuxchannel.mx/series/cosmos%20a%20space%20time%20odyssey/s%2001%20episodio%2005.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 6",
+              "ico": "https://image.tmdb.org/t/p/w500/5o07ps0QZ0bNoRYxTn9cPdRWlUu.jpg",
+              "uri": "http://series.tuxchannel.mx/series/cosmos%20a%20space%20time%20odyssey/s%2001%20episodio%2006.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 7",
+              "ico": "https://image.tmdb.org/t/p/w500/5o07ps0QZ0bNoRYxTn9cPdRWlUu.jpg",
+              "uri": "http://series.tuxchannel.mx/series/cosmos%20a%20space%20time%20odyssey/s%2001%20episodio%2007.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 8",
+              "ico": "https://image.tmdb.org/t/p/w500/5o07ps0QZ0bNoRYxTn9cPdRWlUu.jpg",
+              "uri": "http://series.tuxchannel.mx/series/cosmos%20a%20space%20time%20odyssey/s%2001%20episodio%2008.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 9",
+              "ico": "https://image.tmdb.org/t/p/w500/5o07ps0QZ0bNoRYxTn9cPdRWlUu.jpg",
+              "uri": "http://series.tuxchannel.mx/series/cosmos%20a%20space%20time%20odyssey/s%2001%20episodio%2009.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 10",
+              "ico": "https://image.tmdb.org/t/p/w500/5o07ps0QZ0bNoRYxTn9cPdRWlUu.jpg",
+              "uri": "http://series.tuxchannel.mx/series/cosmos%20a%20space%20time%20odyssey/s%2001%20episodio%2010.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 11",
+              "ico": "https://image.tmdb.org/t/p/w500/5o07ps0QZ0bNoRYxTn9cPdRWlUu.jpg",
+              "uri": "http://series.tuxchannel.mx/series/cosmos%20a%20space%20time%20odyssey/s%2001%20episodio%2011.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 12",
+              "ico": "https://image.tmdb.org/t/p/w500/5o07ps0QZ0bNoRYxTn9cPdRWlUu.jpg",
+              "uri": "http://series.tuxchannel.mx/series/cosmos%20a%20space%20time%20odyssey/s%2001%20episodio%2012.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
+      ]
+  },
+  {
+      "tipo": "serie",
+      "name": "CRIATURITAS",
+      "ico": "https://image.tmdb.org/t/p/w500/1sZPEDnltNC1v0Nacv4qHpQ3sXN.jpg",
+      "temporada": [
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/1sZPEDnltNC1v0Nacv4qHpQ3sXN.jpg",
+              "uri": "http://series.tuxchannel.mx/series/tiny_creatures/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/1sZPEDnltNC1v0Nacv4qHpQ3sXN.jpg",
+              "uri": "http://series.tuxchannel.mx/series/tiny_creatures/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/1sZPEDnltNC1v0Nacv4qHpQ3sXN.jpg",
+              "uri": "http://series.tuxchannel.mx/series/tiny_creatures/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://image.tmdb.org/t/p/w500/1sZPEDnltNC1v0Nacv4qHpQ3sXN.jpg",
+              "uri": "http://series.tuxchannel.mx/series/tiny_creatures/s_01_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 5",
+              "ico": "https://image.tmdb.org/t/p/w500/1sZPEDnltNC1v0Nacv4qHpQ3sXN.jpg",
+              "uri": "http://series.tuxchannel.mx/series/tiny_creatures/s_01_e_05.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 6",
+              "ico": "https://image.tmdb.org/t/p/w500/1sZPEDnltNC1v0Nacv4qHpQ3sXN.jpg",
+              "uri": "http://series.tuxchannel.mx/series/tiny_creatures/s_01_e_06.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 7",
+              "ico": "https://image.tmdb.org/t/p/w500/1sZPEDnltNC1v0Nacv4qHpQ3sXN.jpg",
+              "uri": "http://series.tuxchannel.mx/series/tiny_creatures/s_01_e_07.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 8",
+              "ico": "https://image.tmdb.org/t/p/w500/1sZPEDnltNC1v0Nacv4qHpQ3sXN.jpg",
+              "uri": "http://series.tuxchannel.mx/series/tiny_creatures/s_01_e_08.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
+      ]
+  },
+  {
+      "tipo": "serie",
+      "name": "CUANDO CONOCI AL CHAPO",
+      "ico": "https://image.tmdb.org/t/p/w500/cHJ08CcTSCBkBfcVDQRRiOFKoM2.jpg",
+      "temporada": [
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/cHJ08CcTSCBkBfcVDQRRiOFKoM2.jpg",
+              "uri": "http://series.tuxchannel.mx/series/cuando_conoci_al_chapo/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/cHJ08CcTSCBkBfcVDQRRiOFKoM2.jpg",
+              "uri": "http://series.tuxchannel.mx/series/cuando_conoci_al_chapo/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/cHJ08CcTSCBkBfcVDQRRiOFKoM2.jpg",
+              "uri": "http://series.tuxchannel.mx/series/cuando_conoci_al_chapo/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
+      ]
+  },
+  {
+      "tipo": "serie",
+      "name": "CULTURA",
+      "ico": "https://i.ibb.co/8wLr1Lf/CULTURA.jpg",
+      "temporada": [
+          {
+              "name": "Capitulo 1",
+              "ico": "https://i.ibb.co/8wLr1Lf/CULTURA.jpg",
+              "uri": "http://series.tuxchannel.mx/series/prop_culture/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://i.ibb.co/8wLr1Lf/CULTURA.jpg",
+              "uri": "http://series.tuxchannel.mx/series/prop_culture/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://i.ibb.co/8wLr1Lf/CULTURA.jpg",
+              "uri": "http://series.tuxchannel.mx/series/prop_culture/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://i.ibb.co/8wLr1Lf/CULTURA.jpg",
+              "uri": "http://series.tuxchannel.mx/series/prop_culture/s_01_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 5",
+              "ico": "https://i.ibb.co/8wLr1Lf/CULTURA.jpg",
+              "uri": "http://series.tuxchannel.mx/series/prop_culture/s_01_e_05.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 6",
+              "ico": "https://i.ibb.co/8wLr1Lf/CULTURA.jpg",
+              "uri": "http://series.tuxchannel.mx/series/prop_culture/s_01_e_06.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 7",
+              "ico": "https://i.ibb.co/8wLr1Lf/CULTURA.jpg",
+              "uri": "http://series.tuxchannel.mx/series/prop_culture/s_01_e_07.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 8",
+              "ico": "https://i.ibb.co/8wLr1Lf/CULTURA.jpg",
+              "uri": "http://series.tuxchannel.mx/series/prop_culture/s_01_e_08.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
+      ]
+  },
+  {
+      "tipo": "serie",
+      "name": "DENTRO DEL CUERPO HUMANO",
+      "ico": "https://image.tmdb.org/t/p/w500/zL4UMpIAHTKtMtgxvc3fSvEyvL8.jpg",
+      "temporada": [
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/zL4UMpIAHTKtMtgxvc3fSvEyvL8.jpg",
+              "uri": "http://series.tuxchannel.mx/series/human_the_world_within/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/zL4UMpIAHTKtMtgxvc3fSvEyvL8.jpg",
+              "uri": "http://series.tuxchannel.mx/series/human_the_world_within/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/zL4UMpIAHTKtMtgxvc3fSvEyvL8.jpg",
+              "uri": "http://series.tuxchannel.mx/series/human_the_world_within/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://image.tmdb.org/t/p/w500/zL4UMpIAHTKtMtgxvc3fSvEyvL8.jpg",
+              "uri": "http://series.tuxchannel.mx/series/human_the_world_within/s_01_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 5",
+              "ico": "https://image.tmdb.org/t/p/w500/zL4UMpIAHTKtMtgxvc3fSvEyvL8.jpg",
+              "uri": "http://series.tuxchannel.mx/series/human_the_world_within/s_01_e_05.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 6",
+              "ico": "https://image.tmdb.org/t/p/w500/zL4UMpIAHTKtMtgxvc3fSvEyvL8.jpg",
+              "uri": "http://series.tuxchannel.mx/series/human_the_world_within/s_01_e_06.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
+      ]
+  },
+  {
+      "tipo": "serie",
+      "name": "DEPP VS HEARD",
+      "ico": "https://image.tmdb.org/t/p/w500/hHWN42X42wqYEe4CnRT01YZYCBu.jpg",
+      "temporada": [
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/hHWN42X42wqYEe4CnRT01YZYCBu.jpg",
+              "uri": "http://series.tuxchannel.mx/series/depp_vs_heard/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/hHWN42X42wqYEe4CnRT01YZYCBu.jpg",
+              "uri": "http://series.tuxchannel.mx/series/depp_vs_heard/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/hHWN42X42wqYEe4CnRT01YZYCBu.jpg",
+              "uri": "http://series.tuxchannel.mx/series/depp_vs_heard/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
+      ]
+  },
+  {
+      "tipo": "serie",
+      "name": "DETRAS DEL VELO",
+      "ico": "https://image.tmdb.org/t/p/w500/gUH7Rqw7LPaMPm8sa7OTOYcMR6O.jpg",
+      "temporada": [
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/gUH7Rqw7LPaMPm8sa7OTOYcMR6O.jpg",
+              "uri": "http://series.tuxchannel.mx/series/unveiled-surviving_la_luz_del_mundo/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/gUH7Rqw7LPaMPm8sa7OTOYcMR6O.jpg",
+              "uri": "http://series.tuxchannel.mx/series/unveiled-surviving_la_luz_del_mundo/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/gUH7Rqw7LPaMPm8sa7OTOYcMR6O.jpg",
+              "uri": "http://series.tuxchannel.mx/series/unveiled-surviving_la_luz_del_mundo/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
+      ]
+  },
+  {
+      "tipo": "serie",
+      "name": "DOPE",
+      "ico": "https://image.tmdb.org/t/p/w500/lsqqr89sCIrmOhJceEHTCgPmKJ4.jpg",
+      "temporada": [
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/lsqqr89sCIrmOhJceEHTCgPmKJ4.jpg",
+              "uri": "http://series.tuxchannel.mx/series/dope/s_03_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/lsqqr89sCIrmOhJceEHTCgPmKJ4.jpg",
+              "uri": "http://series.tuxchannel.mx/series/dope/s_03_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/lsqqr89sCIrmOhJceEHTCgPmKJ4.jpg",
+              "uri": "http://series.tuxchannel.mx/series/dope/s_03_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://image.tmdb.org/t/p/w500/lsqqr89sCIrmOhJceEHTCgPmKJ4.jpg",
+              "uri": "http://series.tuxchannel.mx/series/dope/s_03_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
+      ]
+  },
+  {
+      "tipo": "serie",
+      "name": "DUDA RAZONABLE",
+      "ico": "https://image.tmdb.org/t/p/w500/rg7eeP3fCSfmOpgY62VeYPFh5tG.jpg",
+      "temporada": [
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/rg7eeP3fCSfmOpgY62VeYPFh5tG.jpg",
+              "uri": "http://series.tuxchannel.mx/series/duda_razonable-historia_de_dos_secuestros/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/rg7eeP3fCSfmOpgY62VeYPFh5tG.jpg",
+              "uri": "http://series.tuxchannel.mx/series/duda_razonable-historia_de_dos_secuestros/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/rg7eeP3fCSfmOpgY62VeYPFh5tG.jpg",
+              "uri": "http://series.tuxchannel.mx/series/duda_razonable-historia_de_dos_secuestros/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://image.tmdb.org/t/p/w500/rg7eeP3fCSfmOpgY62VeYPFh5tG.jpg",
+              "uri": "http://series.tuxchannel.mx/series/duda_razonable-historia_de_dos_secuestros/s_01_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
+      ]
+  },
+  {
+      "tipo": "serie",
+      "name": "EL ARTE DEL ESPIONAJE",
+      "ico": "https://image.tmdb.org/t/p/w500/3JJMgQ09UpZKzfsbjHatqhSmPJc.jpg",
+      "temporada": [
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/3JJMgQ09UpZKzfsbjHatqhSmPJc.jpg",
+              "uri": "http://series.tuxchannel.mx/series/spycraft/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/3JJMgQ09UpZKzfsbjHatqhSmPJc.jpg",
+              "uri": "http://series.tuxchannel.mx/series/spycraft/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/3JJMgQ09UpZKzfsbjHatqhSmPJc.jpg",
+              "uri": "http://series.tuxchannel.mx/series/spycraft/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 4",
+              "ico": "https://image.tmdb.org/t/p/w500/3JJMgQ09UpZKzfsbjHatqhSmPJc.jpg",
+              "uri": "http://series.tuxchannel.mx/series/spycraft/s_01_e_04.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 5",
+              "ico": "https://image.tmdb.org/t/p/w500/3JJMgQ09UpZKzfsbjHatqhSmPJc.jpg",
+              "uri": "http://series.tuxchannel.mx/series/spycraft/s_01_e_05.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 6",
+              "ico": "https://image.tmdb.org/t/p/w500/3JJMgQ09UpZKzfsbjHatqhSmPJc.jpg",
+              "uri": "http://series.tuxchannel.mx/series/spycraft/s_01_e_06.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 7",
+              "ico": "https://image.tmdb.org/t/p/w500/3JJMgQ09UpZKzfsbjHatqhSmPJc.jpg",
+              "uri": "http://series.tuxchannel.mx/series/spycraft/s_01_e_07.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 8",
+              "ico": "https://image.tmdb.org/t/p/w500/3JJMgQ09UpZKzfsbjHatqhSmPJc.jpg",
+              "uri": "http://series.tuxchannel.mx/series/spycraft/s_01_e_08.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
+      ]
+  },
+  {
+      "tipo": "serie",
+      "name": "EL ASESINO OCULTO EN LA MENTE DE AARON HERNANDEZ",
+      "ico": "https://image.tmdb.org/t/p/w500/2MfrqxkMGIqsCHYTz2pMhEoOJpB.jpg",
+      "temporada": [
+          {
+              "name": "Capitulo 1",
+              "ico": "https://image.tmdb.org/t/p/w500/2MfrqxkMGIqsCHYTz2pMhEoOJpB.jpg",
+              "uri": "http://series.tuxchannel.mx/series/killer_inside_the_mind_of_aaron_hernandez/s_01_e_01.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 2",
+              "ico": "https://image.tmdb.org/t/p/w500/2MfrqxkMGIqsCHYTz2pMhEoOJpB.jpg",
+              "uri": "http://series.tuxchannel.mx/series/killer_inside_the_mind_of_aaron_hernandez/s_01_e_02.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          },
+          {
+              "name": "Capitulo 3",
+              "ico": "https://image.tmdb.org/t/p/w500/2MfrqxkMGIqsCHYTz2pMhEoOJpB.jpg",
+              "uri": "http://series.tuxchannel.mx/series/killer_inside_the_mind_of_aaron_hernandez/s_01_e_03.mkv",
+              "drm_scheme": "",
+              "drm_license_url": ""
+          }
+      ]
+  }
   ]
   },
   {
