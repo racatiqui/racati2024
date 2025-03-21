@@ -3,6 +3,55 @@
     "name": "PELICULAS ESTRENO 2025",
     "mode": false,
     "lista": [
+      {
+        "name": "Duplicidad",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k4fJun2pJ70BBFMgGAZddk3m7sg.jpg",
+        "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8mJ8JF0w/ooCQdDnvi1wdwb4CehMKUJ4MvppzorfHrQg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "O'Dessa ",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jI6KVCPJhOMSuXp9Fb0NZlfHeLV.jpg",
+        "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+w37Ca4nMkPHyxRYudoWeA1IB+WsNZH7Dt3NL8G7lLCw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Tornado. Atrapados en la tormenta",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ggXb37lX9gW4SR7kpMaraXDFeFR.jpg",
+        "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/EKL81ARq1sCwRmpfr5sdUPT9h4bSuyjh9D+oqxclW6DRwjUgslcwXyKVwGrqgWAOX7QFo/45bjsGRzMs9ydwi",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Confidencial (Black Bag)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/10mptwEjRHIzCPrQOpoqJsolrKv.jpg",
+        "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+nAchxh4ql8qiUW8ZSYJje528fs71FUXUyhgtqyL0UlA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "El Jardinero",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x9SrxVaRhBNKf95vns1ti13yzl0.jpg",
+        "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9/wsNUrMDORpsZVwjOD2yMlJKbi6FPDqGnNY1tmYEbHsrtA5o3tW9pMx/DhMmSIHU=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Estado eléctrico",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nCuSMDWhWGJAPdp9rSDIogG5X82.jpg",
+        "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8wYmLu1c9hLhY1CfHWSdTGfDhC0Ys696NeMdOU3DGXRQ8TCiEQ2ojdCJsH4CrMV9c=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "The Parenting",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yK26eD5iXTw199cxqwf8yvvk8Rd.jpg",
+        "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/Rnuf6TUGQxsTH2+obFp3zrHRQ6DhLvipvViu6Jv8ZqNKdSuVGHGRK7TotmQbNHA0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
 	  {
     "name": "Bastion 36 (2025)",
     "ico": "https://image.tmdb.org/t/p/original/19G9YouWQXIIyHiPS4VEAqCr7h1.jpg",
@@ -16465,7 +16514,7 @@
   {
     "name": "Letras explicitas",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pX1oedva65YAD5P1YdaqbUZz1R3.jpg",
-    "uri": "rwCb/LYM/khQCfDSnj+PQgYk7PneBJjVEvNxpDiHrjlXSYnwnk/urrT1GwNX/bFgBt2lie76KMMXUwTlx17g0A==",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+kV6LXOmZl/Hb+LHXgkUAVKU6RKOLME488S4K+PbXCJw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -20706,852 +20755,6 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-      ]
-    },
-    {
-      "name": "𝐏𝐄𝐋𝐈𝐂𝐔𝐋𝐀𝐒 𝐀Ñ𝐎 𝟐𝟎𝟏𝟓",
-      "mode": false,
-      "lista": [
-  {
-    "name": "007 SPECTRE",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/007spectre.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+tNEiPp9eabNoyCrk3Yuvi1Sj9VCTB2Sp7oIIpPAcKTCR4UUOCRvOIXjwbe41JxdM=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "50 SOMBRAS DE GREY",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/50sombrasdegrey.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8rPBFWcIZvyUvtD45e7zq0sOk2Ii1CzPTgbPysUpPk5JjPC3XjPGLUMMeTUmlOBe4=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "ABSOLUTAMENTE TODO",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/absolutamentetodo.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/PP0MIcmsrR3CpqJNQVcKmc3f8ir1ouNvhCyQ8T7HZI+fPQ4AN7nr3f1CK8q7tcAs=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "ABUELA",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/abuela.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/pePzgszICNwI686oyF4F8GGjDP6V4fFEvnRhCxWQQYQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "ACADEMIA DE ESPIAS",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/academiadeespias.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+jF+uDkBWwjhW/DPXmCGvXtSwXDxJHXPshM95W/EQMrA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "ACTIVIDADES CRIMINALES",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/actividadescriminales.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/Bo0cogNAGVM/kiIuuPRP43G/DbKBBlj1Ym0jC45QjBiUnIpzqMo167zrSebu8nSs=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "A LA MIERDA CON LOS ZOMBIES",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/alamierdaconloszombies.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8IZhNkNoSbJYDwcL5NFLuIwQ6CUAdqzgbat5U1HF2f8mDTJMhUfUvyehMQkBzo0y1JrsBu+Wqx2MDyCRh+3R1H",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "ALMAS GEMELAS",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/almasgemelas.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+nSF+2dQPLFRjsFslFlNYUgg7RfGmMw2wUGJUQF+8z0g==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "ALVIN Y LAS ARDILLAS FIESTA SOBRE RUEDAS",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/alvinylasardillas.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+7qf+rZ6oCNDwEcF1s05+VViXo9y7QHnwLHxzXVzeF/7HmMGa/VG2nr+FffKjrY+DJwDXjhtTnlR1OwXrHUXNc",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "AREA 51",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/area51.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/slQTf4jN4oZgHJ1JPsv+v0we+vosUcRznbHxoUii9hg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "ASHBY",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/ashby.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/+0QsGlHmuaYBFk427TEVOwfE6h/hU03NI5WJ1Gjp/rw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "BAJO LA ARENA",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/bajolaarena.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/OoTO6TOlv/AxfigUHIZdDyofQi0IDirdOaO/ZczAU1Q==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "BIRDMAN",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/birdman.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9QCLC3nhmwKd0F2ZFPPMIpCJV3z/UsCsIsM9Ricrfffw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "BOB ESPONJA UN HÉROE FUERA DEL AGUA",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/bobesponjaunheroefueradelagua.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/HKy/4QxzGzudQVk5IHNL0G8l2QsTLfVWjR29LfG7TSzMyx7ARwl2IYWnGa7lKgdP5ytZqE4+1S0KMzEiBaAED",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "BONE TOMAHAWK",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/bonetomahawk.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9HHVK6+xGMXDNrVqx9rfylJnNWaDPquinJinUIhCUMdw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CACERÍA MORTAL 3",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/caceriamortal3.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8t1KEfI1OmLVbNwXXkSniVaGYHMRu6AC7cvBC83494Pym4p5xU7YJ8+SFNiFlua2M=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CARRERA CONTRA EL TIEMPO",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/carreracontraeltiempo.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8nZbgc3jCBoeDnMFuEz8lZTWvdm7ffovngy3qX4eecbg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CENICIENTA",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/cenicienta.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+cEdk+rkfSD2OOBWZYCqIWznTefKEccvLihrP8p1RkcA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CHAPPIE",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/chappie.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/p3xOCC6dW3Z+b8hF4L/dZ+Vbko+5uD7v0guKzGjJdwQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "COLONIA",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/colonia.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+jb1aqkiqyg/gOLdd+k48AOcgp/KnFzp7jXtEYFp3JVw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CREED",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/creed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+dWhd7AYvb7bvAr6IdKtyg7qLDqDgWlpYAEgTYsiSNCw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DALE DURO",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/daleduro.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/3XphaDfPp2FA8pfO1ZDVZvkVKpWL0XMI1JO9nvW0wUQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DANDO LA NOTA AUN MAS ALTA",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/dandolanota.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8c3MJzhdv7Jbj7riuvCrh9vUWQv2x3SWZY2ls8bNYMPg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DEMONIACO",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/demoniaco.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/C5gDQ+9uaISUMP0c1trhWl6nniwi1P9y5xnTQP4L2zw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DESCENDIENTES",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/descendientes.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8OTmHIEMUyow83fQ72RslBoAsguC0+mMsTT9ZUnzAm1g==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DIABLO",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/diablo.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+QjCktnlhyhHntly6uX48DoNKRUfEQlWh3l10HS77Ehg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DULCE VENGANZA 3",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/dulcevenganza3.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/8pFieZoO0qt7GtssegJyIjdX3vE625LGmN4wWsJvN+VPv7IXnymK/tiJVG7Go138=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EL AGENTE DE CIPOL",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/elagentedecipol.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8X9yfL6cG/EW2arQGTOT6HRc60YynC5H4ATpfdx3XTCDTqlQDCOaNYiD1NcBf8gCg=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EL CADÁVER DE ANNA FRITZ",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/elcadaverdeannafritz.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH//W3hJo8Km316xGUc2oiJ0+lJ0zw/0Ij54IwuNasPbzURaCTsE8483h8s8g2WKfwQ=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EL CLAN",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/elclan.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+bvSz1huypAX59LSeA7R9B/vU+/HUCSrHdsEmFiVpOyA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EL CÓDIGO ENIGMA",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/elcodigoenigma.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8KOfwrSVok+ZXX0UKnbEf94kEL14BgLOUS0IfHnrXWUA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EL DESTINO DE JUPITER",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/eldestinodejupiter.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/ZFRVKxvKN3ioNHYj6ISOYrEFiSTO9Rjt2meD617DnbA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EL GURU DE LAS BODAS",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/elgurudelasbodas.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9KhazHYPSA6hlAp06GQu0U/sAPwwhrdrIGcoIuqXSwQ6xziyoefUg5mY0eBwlx/VY=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EL HOMBRE QUE CONOCÍA EL INFINITO",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/elhombrequeconociaelinfinito.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9wil3J18katqhYzCao3rtMkX4Pkd+lGJ3JhRml833fW67nH2gqqF5L5ueYMMR9Ywpjn0E7dzHqQoxoV+2q9tQM",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EL NIÑO 44",
-    "ico": "https://www.ecartelera.com/carteles/6900/6963/002_p.jpg",
-    "uri": "KJUqI+Vv7SeT1BjHKzrm8irJtLFk5xkUsr8FhyG1x0RZNUOfHs4Zgc72ePGASlI4DgM7SDR1h+cqfiDXsx2a9g==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EL PUENTE DE LOS ESPIAS",
-    "ico": "https://es.web.img3.acsta.net/c_310_420/pictures/15/11/13/13/23/537395.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/+V5Cp/w1EIM0gp/eUMyjXJlhSnoxyfW5SnvDaspiCcQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EL RENACIDO",
-    "ico": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/k3Jh7J5GGMx1lmr7qmynRxOvOK5.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+HogbOKGvGoKTqmlXAD5gkHE3k1R/TYErfDj4lI3zmGQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EL ÚLTIMO CAZADOR DE BRUJAS",
-    "ico": "https://www.ecartelera.com/carteles/8500/8500/003_p.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9k2F7orwy77TzXPDEqZikotXVncTaknoH50J5lXL76zwN1QGLzZyd1dwDOXxR85aI=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EN LA MENTE DEL ASESINO PREMONICIÓN",
-    "ico": "https://www.ecartelera.com/carteles/9900/9966/009_p.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/HPW2ILA8vLcsD1XgQ2ssZWtQ6xyu0U/mQKqdVcDiKaw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EN LA MIRA: CAZA AL ASESINÓ",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/enlamira.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+w79EExJatsTB6NxlgWFPViyzWhni88FsxOBWwcM64pw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "ESPIAS DESDE EL CIELO",
-    "ico": "https://www.ecartelera.com/carteles/10800/10882/002_p.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8pQeckDCdjp7sMb8LEfS2BHsSnYLdvVxqji6c3DFBrOA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EVEREST",
-    "ico": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/7SfhoXCc8LGfKvyNIw2nU0gEi3R.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+mezeM9YB2B9i6HX1BYZuU5b+1Q8plMO7WnTAZKUiQyQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "FENÓMENOS DE LA NATURALEZA",
-    "ico": "https://4.bp.blogspot.com/-y7wtzli55QU/VtXXQg4mRcI/AAAAAAAAwMQ/o3HdjUBk6Cc/s280/Pictures8.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/Dlx6faQ/JCae5HJLHJbNaLS9Z2fdqLYznW1KkZt4YFg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "FORSAKEN REGRESANDO A CASA",
-    "ico": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rY8TsSvVAf9llRKIo55NlrjqR5g.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8JuKD7doh0JBmD2gLsNFeDKFBIhI380xCNOVs4T7JDnA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "FRENTE AL MAR",
-    "ico": "https://www.ecartelera.com/carteles/8400/8408/002_p.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH84KETytx5twUS9Yb9UAnwlgKIrPK8dEGnVogjSlzMY2w==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "GUERRA DE PAPAS",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/guerradepapas.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8mQ85/muJfKFiNpbhggGSKBn7knmx6m/CPAClFbN5JKQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "HABITACIÓN VERDE",
-    "ico": "https://pics.filmaffinity.com/green_room-609579493-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9tSYE1UBIA6PySkTriM3uujh9OJ75oohlkwyGTjhnotg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "HACKER: AMENAZA EN LA RED",
-    "ico": "https://www.ecartelera.com/carteles/8500/8571/002_p.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8xrdrg7cPQEtFadwE3RfFlhwArrnE+jUmzxrFHsHcGKg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "HARBINGER DOWN: NAUFRAGIO MORTAL",
-    "ico": "https://pics.filmaffinity.com/harbinger_down-175798417-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+YIvL35NqqNBC2xs6hqdUWclqVaDdqAtxUMo12IZbYwA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "HOMBRE CAIDO",
-    "ico": "https://pics.filmaffinity.com/man_down-437754961-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/glATINlKvLTIFAVHVR9IYQ9cjl1ninS/ugHHk97oBsg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "HOME: HOGAR DULCE HOGAR",
-    "ico": "https://www.ecartelera.com/carteles/7400/7474/002_p.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+anyWXZqK2k3k34A5Pu4qm",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "IMPULSO: MOMENTUM",
-    "ico": "https://pics.filmaffinity.com/momentum-763736037-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+fMnn/pxTk/JGe/Z89tS4bCEo6sG65h7hzXvBbfdhJsg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "INTENSAMENTE: DEL REVES",
-    "ico": "https://pics.filmaffinity.com/inside_out-161470323-msmall.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/DcyR89ksd/lBaofTxDPIaFnQYPAThLYFBZmMRc6UzfQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "IPMAN 3",
-    "ico": "https://www.ecartelera.com/carteles/10500/10562/008.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+JQtzLsOp2KHcv+ZMZYEki8SWeUkkjFep8RNryS/gw8w==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "JUGADA SALVAJE",
-    "ico": "https://pics.filmaffinity.com/wild_card-847505177-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8gOHI66xfqE6xqfTH1pJaFhgUB1IuS9sCUFHUJJzZv2w==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "JUSTICIA LETAL",
-    "ico": "https://pics.filmaffinity.com/close_range-836483584-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8rTL/sgZKx1MlFfzbpsU+A/VM5M1xKNsr8JDhcxzhRdw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "JUSTICIA PERSONAL",
-    "ico": "https://pics.filmaffinity.com/return_to_sender-635830685-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/iIBESPXWsglvcjFn0jzbW84Nr7OChlDHakoDtmOVC7A==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "KINGSMAN: SERVICIO SECRETO",
-    "ico": "https://pics.filmaffinity.com/kingsman_the_secret_service-485444831-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+c6PmESZIILYZqO8A/GQNScOGkJNfTbsvl49RPhMaz9h+O8GP/o517oVwTSUl+hPs=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "KRAMPUS: MALDITA NAVIDAD",
-    "ico": "https://www.ecartelera.com/carteles/10100/10120/003_p.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/IGyDtBwX960C60MQo2Oc3AGbW8DJSI0JlNDRZtuv7Pg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LA ACOMPAÑANTE",
-    "ico": "https://pics.filmaffinity.com/the_escort-269877767-msmall.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH92q9i5ImZbbM/sKGQZymXPe+fc6o+Ro+vDW3AkqB494g==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EL ÚLTIMO BAILE",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/elultimobaile.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+OWfbDScKQ65Z50qHnOU2CJfdHUDYUHKEKK/VIXpkZkg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LA ERA DE LA EXTINCIÓN",
-    "ico": "https://www.covercaratulas.com/ode/mini_ficha/38016.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8pgwXZYGcN16Hy6xbze+kjglK8iAD8Yz6tFP0o7U4LYw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LA LANGOSTA",
-    "ico": "https://www.ecartelera.com/carteles/10100/10100/003_p.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+su+LgF2zwWwIfk746WxVRFTDTS5DicmtRv/QmvJkd8Q==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LA NOCHE ANTERIOR: LOS TRES REYES MALOS",
-    "ico": "https://www.ecartelera.com/carteles/9900/9948/001_p.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9y43Sza5KPrlXs10DFDdaazbAzEn0Tp0sJGJlHU5Eddg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LA OLA",
-    "ico": "https://www.ecartelera.com/carteles/11500/11543/006.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/hWqahMya2eT76/wy4PiezoP1sNNuYwM/pT+bFTlqZyg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LA OPERADORA",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/laoperadora.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9hZ4gFrWwNvZEEYIsgAf9iqN33N2LPoyiuY6wQtxHCzQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LA REINA DEL DESIERTO",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/lareinadeldesierto.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9eyo2BM6G7OZCPIAZYrpK8BA8M9BseEqzV7fW69NfiHz/DnaMKEP61oLagjCIi4fM=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LA VENGANZA DE JANE",
-    "ico": "https://www.ecartelera.com/carteles/5500/5538/005_p.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8hog7aVip8xqDeHn0bQDwr4NNvCgoHYJxsSqcGD2A2Kg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LA LIGA DE LA JUSTICIA: EL TRONO DE ATLANTIS",
-    "ico": "https://pics.filmaffinity.com/justice_league_throne_of_atlantis-889829287-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/QoFba8wj43GfyJEhGrQOmNAwJCY7jN6giuNhTqU6eVG3RKWomAlP6fpUKERa0PwVUMYdq12dgx5x27rcQP3xC",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LOS 8 MÁS ODIADOS",
-    "ico": "https://pics.filmaffinity.com/the_hateful_eight-549467052-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/cEcIKlKRwDYCCPycjbvY7jPocQy8IPu2QZPBY5xC5c1bDHxoqsy+x2lArAdO6JP0=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LOS 33",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/los33.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH98Rk7Bl4Y8yE1kIXikrqub2/Hp1oU3FtnLUxo5oAUCzw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LOS CONDENADOS 2",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/loscondenados2.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+oVbg53N9rfD2g0EcvyXikh5K3sgPjCeMFdxxs7vba5g==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LOS HIJOS DEL DIABLO",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/loshijosdeldiablo.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+Dj10nbrltTKcAC+vt2AFZ4yx/vt5tBLJ59TFBsW/63g==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LOS INTRUSOS",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/losintrusos.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9uN+Y6fDLL0Jp7wm7qmbS7/v3h/E/+fC5mLen+3mrh0A==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LOS LUNATICOS",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/loslunaticos.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/ZzMNV7CY/N+e1njst/4Eb57qExYQTE6fvw9U5QnSL9w==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LOS MINIONS",
-    "ico": "https://pics.filmaffinity.com/minions-199956794-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/4zY4l9EjinxkSLSXXbU0PouZer6gC4HnErp1ZlT/bUA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LUGARES OSCUROS",
-    "ico": "https://pics.filmaffinity.com/dark_places-771990132-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9PJaPHGRyDjFBAxjM1IUt/ESmP2rZ5gDccwx/FSCzquw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "MAD MAX: FURIA EN LA CARRETERA",
-    "ico": "https://pics.filmaffinity.com/Mad_Max_Furia_en_el_camino-171270143-large.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8uIxBvoO35BHfbcsicLa+kPCb921JtBNpW0otVD6fRa4GjegahUShHQTOrBNVlUPI=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "MAGGIE",
-    "ico": "https://pics.filmaffinity.com/maggie-880783288-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8jhZliaNvMWiAshA8MrygLIZiTYL25B+fUvJAIIHd8og==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "MISION RESCATE",
-    "ico": "https://blogs.ua.es/bibliotecauniversitaria/files/2016/06/m1-e1465474724756.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH98QWvW5pmrwzhKzjI86qVwKHYD5bspY2LCTi2RXp5CMg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "MISIÓN IMPOSIBLE: NACIÓN SECRETA",
-    "ico": "https://www.ecartelera.com/carteles/3400/3463/001_p.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/E2Dcboi7wGoNhcv/4FriyVjmooDEnphtDKGXNrUugJHMETthC9Tui7VbW1Gpoxxz4JfebDH/1mEtMU0o0NDYN",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "MATA A TUS AMIGOS",
-    "ico": "https://pics.filmaffinity.com/kill_your_friends-609910363-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/G4tRouCACovdjcLeIrgO79VDozGjy1jPEaCxvdUVNLrvt8xl82+JWtNRYNAHAEz4=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "MAX",
-    "ico": "https://nolatengo.com.ar",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/QSriwpFJsaxE7X24sjBq1",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "MAZE RUNNER: LAS PRUEBAS",
-    "ico": "https://pics.filmaffinity.com/maze_runner_the_scorch_trials_aka_the_maze_runner_chapter_ii_the_scorch_trials-944377647-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9GVF/kVtue7KGnTW75xBYqMuIqx7Eltc/kmraqwwYDnxRhF8YZs+O42D+DF3jO2tfbiDNqt2Sxhz0frd2Z/Mnx",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "MCFARLAND: SIN LIMITES",
-    "ico": "https://pics.filmaffinity.com/mcfarland_usa-198446967-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8FBIMwRvROOBelyKomTighUXA6BjvCr5KKqHeO/QaImA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "NEGOCIOS CON RESACA",
-    "ico": "http://www.universocinema.com/UC%20CRITICAS/CARATULAS/negocios-con-resaca.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9PKX509SGj9cLmbaY6jqV+/Jbhpe5eGuY23JXAVHnMMpHWmCjqs/kff5dqMpsGZxY=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "NUNCA ES TARDE",
-    "ico": "https://www.covercaratulas.com/mini-frontal-divx-Nunca_Es_Tarde_2015_Por_Chechelin-30110.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/aH3ZSEiPk5b1phjdzMQC01f4DAof3DdqSaQaJ6WP9XA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "ODDBALL: Y SUS PINGÜINOS",
-    "ico": "https://www.ecartelera.com/carteles/10800/10841/001_p.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+0Fnkfah1KXEO8Jk8bn7qnjpKDsEHWxeZ3ufaYsro6aQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "OPERACIÓN ULTRA",
-    "ico": "https://pics.filmaffinity.com/american_ultra-216180958-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+RXSGUQ3Z00uP+V6l1bRsYLof2mLI633bO3JPrBgKpeA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "PACTO CRIMINAL",
-    "ico": "https://pics.filmaffinity.com/black_mass-710253783-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9e7459NuBmnOoHKiqHXC7UdAwDkeIkzXfAlh7S25Rkog==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "PAN: VIAJE A NUNCA JAMAS",
-    "ico": "https://www.ecartelera.com/carteles/100/137/006_p.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+RMlKqj15K0OT5oha9/iNb",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "PESADILLAS",
-    "ico": "https://www.ecartelera.com/carteles/8000/8007/001_p.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH84r76K6DWbe16PAr4ZyhxzjpOu4wL675VcYKhXNWrvSQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "POINT BREAK: SIN LÍMITES",
-    "ico": "https://www.ecartelera.com/carteles/7800/7828/007_p.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9mPcIMOKwEgw5OjzrbjPFmg95XY5JxdkFA9ic/A+f5pg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "POLTERGEIST",
-    "ico": "https://pics.filmaffinity.com/poltergeist-823180622-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9nmVEd9a8GErPx4GIhmLzXOwUYwi3WVkF4jZGSBZcR7g==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "PROYECTO ALMANAC: BIENVENIDOS AL AYER",
-    "ico": "https://pics.filmaffinity.com/project_almanac-148882067-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/F0j8Er9zbChSxCSPRGms1+9+pXk7FPeEYi3X4ub2w/Q==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "RÁPIDOS Y FURIOSOS 7",
-    "ico": "https://pics.filmaffinity.com/furious_7_fast_furious_7-904800766-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+tU107twYdFRuArExwnZ3hxcU4Rl5Kw5x2IHdtgHYzF1XlYVMeAOGimlLt6YeNMPw=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "RECUERDOS SECRETOS",
-    "ico": "https://pics.filmaffinity.com/remember-296605312-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9wvSTl7/O5FM6MqFTWRSDQhbyIOCB+0gbAeeyCQ1GSUw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "REDENCIÓN: REVANCHA",
-    "ico": "https://www.covercaratulas.com/mini-caratula-carteles-Redencion_2015_Por_Chechelin-27435.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8ooDzUEJiPkyXcnGCFlHBzPb3b/DVYR2IuPIorG7SSCA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "REGRESIÓN",
-    "ico": "https://pics.filmaffinity.com/regression-504007684-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9Sns16Tob+dH0rnXCp6BX1ZGJwnlkh/yGA6RNZ/xS8bA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "RELATOS SALVAJES",
-    "ico": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/628490.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9AiQJmuhHdjzi8qGYUVaPvt6pMQUE7IV69UPCykNAxzw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SECRETOS DE UNA OBSESIÓN",
-    "ico": "https://www.ecartelera.com/carteles/9300/9314/006_p.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+SiRAjYwanTMcRWdwDUeC/p9GIH2ACr7Y9/fJrPvgwtz/veHNiWr3d/DvA1LY+hXg=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SICARIO",
-    "ico": "https://pics.filmaffinity.com/sicario-781388443-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8ufxZXrr3cPNRrmUyrWXMHNe6IX9jKDTW2+PpstsG3/Q==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SIN ESCAPE: GOLPE DE ESTADO",
-    "ico": "https://www.ecartelera.com/carteles/9800/9809/002.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/ATA3V6rTBbDR5N3sWN9MHpuhWjqsqN3OCX9akvqO8iw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SINIESTRO 2",
-    "ico": "https://pics.filmaffinity.com/sinister_2-633989476-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9JZ6RBfd5LikEUmfjRr4dd7hI7BWQa+9aldK73CluMDg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SOLDADO DE LA NOCHE",
-    "ico": "https://pics.filmaffinity.com/Soldado_de_la_noche-732998012-large.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9y43Sza5KPrlXs10DFDdaa8gc8qP9DzUQC5Ud6whNGBQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SOMOS TUS AMIGOS",
-    "ico": "https://pics.filmaffinity.com/we_are_your_friends-833613547-msmall.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9ObYfUh5iRZZ2OW3/05/h5DSR9L6ZSoCMv5ldfGfJ2uCO9XQgmkZ2KZOjTmURmJpE=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SPOTLIGHT: EN PRIMERA PLANA",
-    "ico": "https://pics.filmaffinity.com/spotlight-726888740-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+yN2ybVh8oyYPRmX105Gqyk0x1e/53VRbxNiQxsPIm1w==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SPY: UNA ESPIA DESPISTADA",
-    "ico": "https://pics.filmaffinity.com/spy-373327551-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/+V21S1edJEh728y4Ag4cesKUgIee9JbeV73zLcVee6L3rJglHuzFrrAzYVLxGZ/c=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "STEVE JOBS",
-    "ico": "https://pics.filmaffinity.com/steve_jobs-647763435-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8UgLFPlcibPTAHwXP2hXOVsGsAs9a71dxProggJZaR3Q==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SURVIVOR: PERSIGUIENDO A ABBOT",
-    "ico": "https://pics.filmaffinity.com/survivor-178417921-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/7Ql5Ob9GkiI80/+U5/TEQflAjOqmV6p49yCqZ7NPbwQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SYNCHRONICITY",
-    "ico": "https://www.ecartelera.com/carteles/12300/12317/001_p.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH97U2X3Iacgx/2Kfo6Gp/Ym+Lj6Lqq8yGlbn8zeU9w1FA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "TED 2",
-    "ico": "https://www.ecartelera.com/carteles/8000/8069/002_p.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+Mp6qHj1r3WrrGu9apobGVKpD7irE6iRp6YwieLnrTmQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "TERMINUS",
-    "ico": "https://pics.filmaffinity.com/terminus-194220130-mmed.jpg",
-    "uri": "L/44wikpkpcMYARIiCrM5PSNDXih5fbBeHy/HiKrp2Mhk2Zb+mSRZOEBLcdHmetiEzBsn96yNAMgdMpaGh40uA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "TOMORROWLAND: EL MUNDO DEL MAÑANA",
-    "ico": "https://www.ecartelera.com/carteles/6200/6220/002_p.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9E0lVaSQHkTivecEzzM3Br8qpSxUapli7r+R6CNwWisA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "TRUMBO: LA LISTA NEGRA",
-    "ico": "https://www.ecartelera.com/carteles/9900/9985/003_p.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9AF8DS9tizPxytAi5ltZVWLBxuWuXTwuRLCsUfaF8gzA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "TURBO KID",
-    "ico": "https://www.ecartelera.com/carteles/10400/10486/001_p.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9BYZSsveJ3h22KESTxnF6akXk6Z8wJBTfwg8yEFqLsYA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "UNA NOCHE PARÁ SOBREVIVIR",
-    "ico": "https://pics.filmaffinity.com/run_all_night-707625667-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+b4tg70Ozcyf9OuTFYxr3kRNP7vgKN1OpdPyg51V3k6A==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "VENGADORES: LA ERA ULTRON",
-    "ico": "https://pics.filmaffinity.com/avengers_age_of_ultron_the_avengers_2-182285335-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9hkGgfWabI9bOtoZSlJ5YFrPmghSfxJ3RkNP/TANh3b4IFBV+oxjPhi/HaVJmutSk=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "VÍCTOR FRANKENSTEIN",
-    "ico": "https://pics.filmaffinity.com/victor_frankenstein-636892864-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8FzfcvcImp1wDOBxS4o1FqaFbUYB3ajilOrZPjun/FVcRfHt9shW1YW6uOK6iLfLQ=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "YO VI AL DIABLO",
-    "ico": "https://pics.filmaffinity.com/visions-273992028-mmed.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/F7Dv4D+ASXFVOeeB1JnnkOxlnptgeWxmO5IWqVqAPyw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
         ]
     },
 	{
@@ -21877,48 +21080,48 @@
   "name": "LOS CABALLEROS DEL ZODIACO",
   "mode": false,
   "lista": [
-   {
-    "name": "Contra Lucifer",
-    "ico": "https://media.themoviedb.org/t/p/w94_and_h141_bestv2/gDf8JcPAK3sKXi5GHspBLWiLmd0.jpg",
-    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYZtnpJ10JRhoOOOdGCmi+ceNYYgwGo4xm5+MAAnFwmCg5+WIuSweucRobpEZSkmaLiG0aJk/kPXVjWss22ZWpKs",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La leyenda de los santos escarlatas",
-    "ico": "https://media.themoviedb.org/t/p/w94_and_h141_bestv2/pUAUk5fLF8oXLRgapFrTHn6EtF4.jpg",
-    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYZtnpJ10JRhoOOOdGCmi+ceNYYgwGo4xm5+MAAnFwmCgz9uQSycdp4GnztzGJPnx9LQeCsf9qXZ96pBhAOHYbbX",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La batalla de los dioses ",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qPrNpzyKmZ2jSTvs5iPafz5lc3Y.jpg",
-    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYayG0OFXiFUzFgiwoiqBetScHefKIwOzFbtKR0467nGFXAflid4nmJCjAypjxSUQwg2Wdz6kttT/fPI9wAlwz5O",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Obertura del Cielo",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jZt8wA1wZqEnmcskIC6cUKlorhU.jpg",
-    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYZtnpJ10JRhoOOOdGCmi+ceNYYgwGo4xm5+MAAnFwmCg3FilMQbMBEeM2dzAdn1waZPT5khjimgyiwOPp9xaRsm",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La diosa malvada Eris",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ykCTs8Iw65TIzeDfNCtGJsd7Owe.jpg",
-    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYayG0OFXiFUzFgiwoiqBetSHVqyKKHCEe5LIug4CSAbabeZSP3y+t7fAQfuA0MKkcclAOL+AiCHLdhfFOT2Jc+zINl8BKgq8O19bpZdQdikwg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La Leyenda del Santuario",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lLdQYtKgYbQviNK0aMPRlMWBfGk.jpg",
-    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYZtnpJ10JRhoOOOdGCmi+ceNYYgwGo4xm5+MAAnFwmCg+D+IBFmTvRUJEkdXZoeFcNRQyE971nwCXVJjtut4JjMBo/hHSuOv8n7oFwUOW79Jg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
+    {
+      "name": "El guerrero de armageddon (1989)",
+      "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gDf8JcPAK3sKXi5GHspBLWiLmd0.jpg",
+      "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9lZAKez69uFt4XLjnkezOkL1/5GCiBrdI5NHZgxKlJVoxt/1eVV4kdFqnr8TTCjo1aNw8P5dyPssbggpvUPOPpG+BsDU4LK1CMr0ke/OMKfA==",
+      "drm_scheme": "",
+      "drm_license_url": ""
+    },
+    {
+      "name": "La leyenda de los santos escarlatas",
+      "ico": "https://media.themoviedb.org/t/p/w94_and_h141_bestv2/pUAUk5fLF8oXLRgapFrTHn6EtF4.jpg",
+      "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9lZAKez69uFt4XLjnkezOk+1lCP+khmcIsvLMccKSo+OUd9RI2UB4S9fGPy/8zIjVP4uB8l3abot0yPRRQdhB3",
+      "drm_scheme": "",
+      "drm_license_url": ""
+    },
+    {
+      "name": "La batalla de los dioses ",
+      "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qPrNpzyKmZ2jSTvs5iPafz5lc3Y.jpg",
+      "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/+yQN86/uPJ+mt8Hk9xMgUBxRVFjFhsudHX3S+GpNFFEhkSsFQq63Ms36izbAiQrk=",
+      "drm_scheme": "",
+      "drm_license_url": ""
+    },
+    {
+      "name": "Obertura del Cielo",
+      "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jZt8wA1wZqEnmcskIC6cUKlorhU.jpg",
+      "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9lZAKez69uFt4XLjnkezOkU6h55sDlI7Ix820tNE6rGGWP5TietE33E0VqJ/WIj+l4e+6GdlCcIWe6bUtNRxiN",
+      "drm_scheme": "",
+      "drm_license_url": ""
+    },
+    {
+      "name": "La diosa malvada Eris",
+      "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ykCTs8Iw65TIzeDfNCtGJsd7Owe.jpg",
+      "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8lirxEA3zoU4z1wNv5z/lc7ffAqoIN2YyNOeifD5IiUPoWlaydtnp6BWUp5uftAKgNZHk+8nC2WX2VuaGfVhWi",
+      "drm_scheme": "",
+      "drm_license_url": ""
+    },
+    {
+      "name": "La Leyenda del Santuario",
+      "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lLdQYtKgYbQviNK0aMPRlMWBfGk.jpg",
+      "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9lZAKez69uFt4XLjnkezOkizGae7JV6R6VWttWEf7agcwn1ChPP4Bp1VFeXFWyKVxeKvW9Ce1IzkbhS92A1E1L",
+      "drm_scheme": "",
+      "drm_license_url": ""
+    }
       ]
     },
     {
@@ -21987,103 +21190,103 @@
       "name": "SAGA PIRATAS DEL CARIBE",
       "mode": false,
       "lista": [
-  {
-    "name": "LA MALDICION DEL PERLA NEGRA",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/piratasdelcaribe1.jpg",
-    "uri": "TEVbbY92FVxdqmhGTitBk9cj6pWb+KBQJ75DVtxrEihXiFLQuttunXIonDBsjglMIhfLOAI8FN7A1tdpEoEsv9sjEHljF2bU9WlIOChslNQ=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EL COFRE DEL HOMBRE MUERTO",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/piratasdelcaribe2.jpg",
-    "uri": "TEVbbY92FVxdqmhGTitBk9cj6pWb+KBQJ75DVtxrEihXiFLQuttunXIonDBsjglMt+xzRedfV6hDSeEhCGj1ex9Ux+cvxpbtTPlg6jtNx0k=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EN EL FIN DEL MUNDO",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/piratasdelcaribe3.jpg",
-    "uri": "TEVbbY92FVxdqmhGTitBk9cj6pWb+KBQJ75DVtxrEihXiFLQuttunXIonDBsjglMjuJe41EytZzKp6L03uVSNpSFClQIEsj0uHfUNrl+IO0=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EN MAREAS MISTERIOSAS",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/piratasdelcaribe4.jpg",
-    "uri": "TEVbbY92FVxdqmhGTitBk9cj6pWb+KBQJ75DVtxrEigkOKfm7tSPslsmTFMlArI4kKnLDwkfVng5jEYf+A4JjcARVCbpfaJxYHfnpNYSvXdI/IPyxJLPpoitan3ivXSx",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LA VENGANZA DE SALAZAR",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/piratasdelcaribe5.jpg",
-    "uri": "TEVbbY92FVxdqmhGTitBk9cj6pWb+KBQJ75DVtxrEihXiFLQuttunXIonDBsjglMOyCS8FQylis0zxkfrDNITjC7orMbh+pvcouqp3N5+1k=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
+        {
+          "name": "LA MALDICION DEL PERLA NEGRA",
+          "ico": "https://panelssh.com.ar/Local/ext/img_movies/piratasdelcaribe1.jpg",
+          "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+PYRyVPdlJhizVbuR5EDJGEsLzQnmh93WfA1rtb9zuHTb1bisswSqc795FbpAMw0RUOVP1cO6GO1kX5d/8P36WJd/PnOBPA8n3S8v/abNZ4QrZwvoiHjqyMejqqNGUFxA=",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "EL COFRE DEL HOMBRE MUERTO",
+          "ico": "https://panelssh.com.ar/Local/ext/img_movies/piratasdelcaribe2.jpg",
+          "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+PYRyVPdlJhizVbuR5EDJGEsLzQnmh93WfA1rtb9zuHWCiQAVMx/yv5lDFwA1+Iob2e3ZHXEhO7s2FMwerTMWC",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "EN EL FIN DEL MUNDO",
+          "ico": "https://panelssh.com.ar/Local/ext/img_movies/piratasdelcaribe3.jpg",
+          "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+PYRyVPdlJhizVbuR5EDJGEsLzQnmh93WfA1rtb9zuHZzI7hwDrplOvmJ4Dq0W+6meLC3OqdDFORFfRrGXTMVL",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "EN MAREAS MISTERIOSAS",
+          "ico": "https://panelssh.com.ar/Local/ext/img_movies/piratasdelcaribe4.jpg",
+          "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+PYRyVPdlJhizVbuR5EDJGEsLzQnmh93WfA1rtb9zuHWNUrEI1vd0kkxVqKCXM9WZz0KbEYOnAYvOkvzT1rJob5a8IrkEgxpU/6mn7GgONDA==",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "LA VENGANZA DE SALAZAR",
+          "ico": "https://panelssh.com.ar/Local/ext/img_movies/piratasdelcaribe5.jpg",
+          "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+PYRyVPdlJhizVbuR5EDJGEsLzQnmh93WfA1rtb9zuHWCiQAVMx/yv5lDFwA1+Ioa2ufWGuXoScFnhLZ4yudtkaHMqaQUCfJi5YO5to2mZMQ==",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        }
       ]
     },
     {
       "name": "SAGA HARRY POTTER",
       "mode": false,
       "lista": [
-  {
-    "name": "HARRY POTTER Y LA PIEDRA FILOSOFAL",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/harry1.jpg",
-    "uri": "6ZvLEwVir4RDu/hYm2LB+khzo+s5gzWKRM6L+pJ0LFEIketho/OU4mj0VpGkZJZf2NA9sauafYexGQwxF8iB7IkBV8Ptq121ECHIm6k7XOTVOudIeMrgJyO128XS66Omhed6YyLBWiGYFYZnJYthmZRL9ZBc8QCC73pcy1raKEGjvpDeZ/QzkXXVI7C7jm0h",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9ZbNy6Mv3ek/j+F59o2qJzON/zmCFi4dF9eVfMG+OZdi"
-  },
-  {
-    "name": "HARRY POTTER Y LA CAMARA SECRETA",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/harry2.jpg",
-    "uri": "6ZvLEwVir4RDu/hYm2LB+khzo+s5gzWKRM6L+pJ0LFEIketho/OU4mj0VpGkZJZfx4PNNSgpJDs4q5ldehfVNqgUn8F0cMJevasV8SwDzbPFE4gDKScYQQUyySpTWJSz+lSXV0lJ7IlkFcedaHj/69tmS3QTAVulJiib7xSGFi+zHtcOi4OnQfyJXHt9fpfS",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9ZbNy6Mv3ek/j+F59o2qJzOmUQJcxoXGu2ry9d3n7BSh"
-  },
-  {
-    "name": "HARRY POTTER Y EL PRISIONERO DE AZKABAN",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/harry3.jpg",
-    "uri": "6ZvLEwVir4RDu/hYm2LB+khzo+s5gzWKRM6L+pJ0LFEIketho/OU4mj0VpGkZJZfgB8cUw8dGioXkbPsBa/mYUM3TnW23avBNpauN12/qO113vBtMxeuGBXfdwzr/EaYGtkvwKbaT9MGGcZInpu2t8XJLTx4z0zDh4YAoyFDQely6J2jLbLk/f7sk49y6ocd",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9ZbNy6Mv3ek/j+F59o2qJzMZZ4n5XssOKMuK/bxc98iV"
-  },
-  {
-    "name": "HARRY POTTER Y EL CALIZ DE FUEGO",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/harry4.jpg",
-    "uri": "6ZvLEwVir4RDu/hYm2LB+khzo+s5gzWKRM6L+pJ0LFEIketho/OU4mj0VpGkZJZfyVXUqYZWyDcFjg19XFV3BFYNz+aT7KS1KvAUmZVTh93DQ0vF1Fdpg31tNnSTvMBFaWBPr3QyaHyxmNB3/T84LCecAPSLxDZ7WsT2VPHCWp3WeuNEYHtnvLHeC8iNvlrm",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9ZbNy6Mv3ek/j+F59o2qJzNkz9anO45tYqrfXATdNKvP"
-  },
-  {
-    "name": "HARRY POTTER Y LA ORDEN DEL FENIX",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/harry5.jpg",
-    "uri": "6ZvLEwVir4RDu/hYm2LB+khzo+s5gzWKRM6L+pJ0LFEIketho/OU4mj0VpGkZJZfz8VzQvgj2CcKTi9wP0DC1wHb4TwKFQ9o6XiIi8OhmXg53GH+7O9IL2fg4JkwuMLc5zFfBMkbNFKCLqPbgWpCDtI+FLEIazPY+0Qw57m+K3R+N1DyuMRrSf152mT8Sgrr",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9ZbNy6Mv3ek/j+F59o2qJzP3gAoTSMly71e0FozT0hak"
-  },
-  {
-    "name": "HARRY POTTER Y EL MISTERIO DEL PRINCIPE",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/harry6.jpg",
-    "uri": "6ZvLEwVir4RDu/hYm2LB+khzo+s5gzWKRM6L+pJ0LFEIketho/OU4mj0VpGkZJZf2royIkFr2C7viepocYKQLDA3deeIZw+JcwmKS4H9Vo7tp7cPBQ5WfeSTlZS1OepMRrHVOtN5DuruJBDojyrMJ8jdK5p34nk3BZ30SBnKOSajPA/6UnlwHTq1SHZoYD5+",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9ZbNy6Mv3ek/j+F59o2qJzMxU6Jv2t9YCk6yKchFExQl"
-  },
-  {
-    "name": "HARRY POTTER Y LAS RELIQUIAS DE LA MUERTE P1",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/harry7_parte1.jpg",
-    "uri": "6ZvLEwVir4RDu/hYm2LB+khzo+s5gzWKRM6L+pJ0LFEIketho/OU4mj0VpGkZJZfKyk8Jsrqx2kyois1RYHata7veuXL5a8gNpLBa403HQ9rRIyJS59i6yoFGhu/mBMfBgyAO4IFg3G8ZRx6uSnBWGi6/byDAiGWH6TJ/hO/18VYFhd/P6t14BqRBWUDifzW",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9ZbNy6Mv3ek/j+F59o2qJzPl0kgOzGeYa7Ry+XpnhD2j"
-  },
-  {
-    "name": "HARRY POTTER Y LAS RELIQUIAS DE LA MUERTE P2",
-    "ico": "https://panelssh.com.ar/Local/ext/img_movies/harry7_parte2.jpg",
-    "uri": "6ZvLEwVir4RDu/hYm2LB+khzo+s5gzWKRM6L+pJ0LFEIketho/OU4mj0VpGkZJZfshBAXdVwaHPek8uFTURBKzBFprIP4uuFqME0OTUvzM6oaJ1KRuTaBZRpfEIMDi5Fmj1HPKHMC5kUW/SyLpivNbTd7eGUL1xJwxMRFonVcSXfTSa5y0DWhqM3x0cswQ7a",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9ZbNy6Mv3ek/j+F59o2qJzNtXfZhgW94DrQw04aQyxQW"
-  }
+        {
+          "name": "Harry potter y la piedra filosofal (2001)",
+          "ico": "https://image.tmdb.org/t/p/original/qD1YlvhrWYs0l8Hypv2ViBdBKVm.jpg",
+          "uri": "/i3fFh7w15gu8tueQMRT+amTOu2eChN3YdUoJDOm30gSCNaZlNDNyYOTqV/B1mG4ZW0OAkme/R2AsL5TxRknkGb/QWz4LCTKpOXYheWog1w=",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Harry potter y la camara secreta (2002)",
+          "ico": "https://image.tmdb.org/t/p/original/lPB9m0q4eSBDQVqBplD7piEeTn5.jpg",
+          "uri": "/i3fFh7w15gu8tueQMRT+amTOu2eChN3YdUoJDOm30gSCNaZlNDNyYOTqV/B1mG4f/wp3rv/qrX/Yesz+a8NsBmv9o1AVuUvOMgvVkQIMhs=",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Harry potter y el prisionero de azkaban (2004)",
+          "ico": "https://image.tmdb.org/t/p/original/xBph7rrwtxUuDxyZVDQtbP2H0sM.jpg",
+          "uri": "/i3fFh7w15gu8tueQMRT+amTOu2eChN3YdUoJDOm30gSCNaZlNDNyYOTqV/B1mG4k7CJfinr4p2rFTJW3nTAMSNJIQWPXRSi3SyESbXAj7mG4K+NQBH4nudtCkOdYo86",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Harry potter y el caliz de fuego (2005)",
+          "ico": "https://image.tmdb.org/t/p/original/5hrrncgY7GfRHz6JmnhPlvJUONe.jpg",
+          "uri": "/i3fFh7w15gu8tueQMRT+amTOu2eChN3YdUoJDOm30gSCNaZlNDNyYOTqV/B1mG4Q0gCPAJmBCGhj3Z/kRcSIvh9pK8gt7pohjYW/SnpxfU=",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Harry potter y la orden del fenix (2007)",
+          "ico": "https://image.tmdb.org/t/p/original/vYUjcTKDXOHJOlilNK953m8zJww.jpg",
+          "uri": "/i3fFh7w15gu8tueQMRT+amTOu2eChN3YdUoJDOm30gSCNaZlNDNyYOTqV/B1mG4vcRRkHymnRcrNsksefAN/viNDcP57cVIFPusaHGUafk=",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Harry Potter y el misterio del principe (2009)",
+          "ico": "https://image.tmdb.org/t/p/original/bQBWN0rw3oMa06wZ42Rard170t2.jpg",
+          "uri": "/i3fFh7w15gu8tueQMRT+amTOu2eChN3YdUoJDOm30gSCNaZlNDNyYOTqV/B1mG4TqplfL15ibOlqpeSHCT6updVFx0hKIwmJ/RaafZoYQ1vlEaAzVTSAqaHjmTNcL8C",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Harry Potter y las reliquias de la muerte parte 1 (2010)",
+          "ico": "https://image.tmdb.org/t/p/original/w6wsYKdXERaXRdByPsI2O9rn20b.jpg",
+          "uri": "/i3fFh7w15gu8tueQMRT+amTOu2eChN3YdUoJDOm30gSCNaZlNDNyYOTqV/B1mG4FYR477WwdoYn548hCIPgplfAzair66tXI4m1N6AelfMZZ/h6s3XGXBWmD3OdWqAj",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Harry Potter y las reliquias de la muerte parte 2 (2011)",
+          "ico": "https://image.tmdb.org/t/p/original/wjKy2wSlDiLLLIkM7tHnxsXG8Tp.jpg",
+          "uri": "/i3fFh7w15gu8tueQMRT+amTOu2eChN3YdUoJDOm30gSCNaZlNDNyYOTqV/B1mG4FYR477WwdoYn548hCIPgplfAzair66tXI4m1N6AelfPcTjNsEA4FjzPXK37rI1tq",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        }
       ]
     },
     {
