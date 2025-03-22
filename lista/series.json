@@ -3,6 +3,39 @@
     "name": "VARIADAS",
     "mode": true,
     "lista": [  
+      {
+        "name": "Adolecencia",
+        "ico": "https://ztv.com.ar/imagex/adole.jpg",
+        "temporada": [   {
+        "name": "Capitulo 1",
+        "ico": "https://ztv.com.ar/imagex/adole.jpg",
+        "uri": "WC8Eo0uBy1y5KFTziFvMJoOFAkQ2tFrnuOwPz1rC4WiC8+IiVN6hHyf4ONsXc8pUDWcmmSCL/l8t5khY77bAqg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 2",
+        "ico": "https://ztv.com.ar/imagex/adole.jpg",
+        "uri": "WC8Eo0uBy1y5KFTziFvMJoOFAkQ2tFrnuOwPz1rC4WiC8+IiVN6hHyf4ONsXc8pUyWhJ+xyz4LaQJxNNXKgu/g==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 3",
+        "ico": "https://ztv.com.ar/imagex/adole.jpg",
+        "uri": "WC8Eo0uBy1y5KFTziFvMJoOFAkQ2tFrnuOwPz1rC4WiC8+IiVN6hHyf4ONsXc8pU4lToIL7VRmPiBqt4OJ8IqQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 4",
+        "ico": "https://ztv.com.ar/imagex/adole.jpg",
+        "uri": "WC8Eo0uBy1y5KFTziFvMJoOFAkQ2tFrnuOwPz1rC4WiC8+IiVN6hHyf4ONsXc8pUrJdTAgfrz4fIyMy92kJ2nQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
 	 {
     "name": "Reacher Temp. 1 ,2 y 3",
     "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
