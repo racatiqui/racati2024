@@ -4,6 +4,34 @@
     "mode": false,
     "lista": [
       {
+        "name": "Blancanieves",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eaEGthsGmYfGvyOJZguxlcNj378.jpg",
+        "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9SP8d6QTpqMnp3hDjL0xnafHQG8iiVxZ3aiLktRHiQtQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Las vidas de Sing Sing",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1x5yWfgpEUxF8kg62ooukLfVbCI.jpg",
+        "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8gsP/n+e23n+yqmAMtSgDiAZQ66aA3gMR5vMl885rlHg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Revelación",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wYLUqqlteOFBZkHClr4nmcc48FA.jpg",
+        "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+b5kQHjI/sAEvYAfjjT1e9DG1EhCegXxKXtxflAf/gGw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "En un confín del mundo",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dI5eWAvq68mddW6JkRodywrOBF.jpg",
+        "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9R9lk+gGx1hLFnxRMHoGbQ4sNOl85wDGDXqOPt2aWPfg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "Duplicidad",
         "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k4fJun2pJ70BBFMgGAZddk3m7sg.jpg",
         "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8mJ8JF0w/ooCQdDnvi1wdwb4CehMKUJ4MvppzorfHrQg==",
@@ -205,6 +233,13 @@
         "name": "PELICULAS 2024",
         "mode": false,
         "lista": [
+          {
+            "name": "Aún Estoy Aquí",
+            "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bp8VfiqYqkQOzf6e8LBv4m53gxU.jpg",
+            "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8GgENK8QPsBt0XKuiOahHpfCb49lNYBjShPeDXeb7ebyXpRVSLElWKINALYkfm7Z8=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
 		  {
     "name": "Mufasa: El rey león",
     "ico": "https://i.ibb.co/2hB169z/mufasa.jpg",
