@@ -96,7 +96,7 @@
   {
     "name": "TV PUBLICA",
     "ico": "https://ztv.com.ar/Img2/TVP.png",
-    "uri": "EpaxwvdVHLj6l4C4q+GDcGykTaOtFgWHAYAs7yOlgqYeCbM9rrvn6y0T9Ri21TqyfUIAUPHZsBk1a1DNzJTKGsfnuoS4I96OwPULZ3Qlpgmj1NSHTtVBgzHaBIqR0wic",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgx8gpMZErc85hFGB1jB5G9/VakSbpKEGHMj4aK5zq6MXMlV3NNY+AHRR4itZcRMdvg=",
     "drm_scheme": "clearkey",
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGUQaoMCqDbBV4N8MsE+HvEh2YSzbf9Mv86e+AE9q+U0x",
     "origin": "https://web.app.flow.com.ar",
@@ -1172,9 +1172,18 @@
   {
     "name": "CINE LATINO",
     "ico": "https://ztv.com.ar/Img2/cine_latino.png",
-    "uri": "qIrWKnhwa2025VaJxKVcJHsdKy3F5HIQ8YTwhuKImYLt4oZYe0MzSOKUIkgxKQnmatC3e5owtrRrOYfBrzosRA==",
+    "uri": "qIrWKnhwa2025VaJxKVcJI3M+kM1bmAboAB3w3idQkI69PLs+3tT4dEERaOjQzq3v2UngGyiMCsCSzwF3I9luA==",
     "drm_scheme": "clearkey",
-    "drm_license_url": "JykWahBk/YZpwXk5dC6hGfewME/QNLj297FgcIoy2aa1yvXXV+Ee7E42zV4H1czVzwpcFI/shRs33iudALxQpg==",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGTOroPHSkSCvT/7vdoZxcal+FYwRw/qR69JhGVI7l17U",
+    "origin": null,
+    "user_agent": null
+  },
+  {
+    "name": "IVC",
+    "ico": "https://ztv.com.ar/Img2/ivc.png",
+    "uri": "HutcIayjrt5kBI99Gq2aN9SOghwF+zGHvhyA4xkK+MIdK9QeZ8ahth25sarj9MQoxeRyqLTSOggJbFdS/tq70g==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGTxqdhqzG5qBulP4FnehBj3dsPBBedfcPwNByxRRD0EE",
     "origin": null,
     "user_agent": null
   },
