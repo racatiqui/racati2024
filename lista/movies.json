@@ -3,6 +3,13 @@
     "name": "PELICULAS ESTRENO 2025",
     "mode": false,
     "lista": [
+	      {
+    "name": "Minecraft (2025)",
+    "ico": "https://image.tmdb.org/t/p/original/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+    "uri": "VcPaf0x4HeQ4VW+mW9Ruv73m2DiwJZxSbZ9lKXwMuYb83bj1cO1W1hrCz1z+u4PoaQ7RCy6tmOAvfZCIIZ2Jhw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "Blancanieves",
         "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eaEGthsGmYfGvyOJZguxlcNj378.jpg",
