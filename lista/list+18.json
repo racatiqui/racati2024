@@ -450,9 +450,11 @@
   {
     "name": "EVENTOS ZTV",
     "ico": "https://ztv.com.ar/Img2/EVENTOS.png",
-    "uri": "8f65Uc/Apl+Y7OuqjQHlvdLZnzCwF4PeGCA/tistARWtt7wYV+Ow4d7PnvYD0ZyP",
+    "uri": "Jb+lucR0GAjGQKNX5Oe+XZmowaw/eI6h81mPt+BLy2EVDCMrJ/aSjwvgcwUUUAQuPiYkWfR7Gm6njiJuUPAYjIk69zcJtRUYUWLd1zN7lu8=",
     "drm_scheme": "",
-    "drm_license_url": ""
+    "drm_license_url": "",
+    "origin": null,
+    "user_agent": null
   }, 
 	      {
     "name": "INTERN MIAMI (MLS)",
